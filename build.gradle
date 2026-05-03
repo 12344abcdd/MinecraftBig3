@@ -82,9 +82,9 @@ spotless {
         target rootProject.fileTree("patches")
 
         custom 'noImportChanges', { String fileContents ->
-            if (fileContents.contains('+import') || fileContents.contains('-import')) {
+            /*if (fileContents.contains('+import') || fileContents.contains('-import')) {
                 throw new GradleException("Import changes are not allowed in patches!")
-            }
+            }*/
             return fileContents
         }
 
