@@ -48,12 +48,12 @@
 @@ -110,34 +_,34 @@
  
      @Nullable
-     protected SectionRenderDispatcher.RenderSection getRenderSectionAt(BlockPos p_294239_) {
+     SectionRenderDispatcher.RenderSection getRenderSectionAt(BlockPos p_294239_) {
 -        return this.getRenderSection(SectionPos.asLong(p_294239_));
 -    }
 -
 -    @Nullable
--    protected SectionRenderDispatcher.RenderSection getRenderSection(long p_366845_) {
+-    SectionRenderDispatcher.RenderSection getRenderSection(long p_366845_) {
 -        int i = SectionPos.x(p_366845_);
 -        int j = SectionPos.y(p_366845_);
 -        int k = SectionPos.z(p_366845_);
@@ -66,7 +66,7 @@
 +    }
 +
 +    @Nullable
-+    protected SectionRenderDispatcher.RenderSection getRenderSection(SectionPos p_366845_) {
++    SectionRenderDispatcher.RenderSection getRenderSection(SectionPos p_366845_) {
 +//        int i = SectionPos.x(p_366845_);
 +//        int j = SectionPos.y(p_366845_);
 +//        int k = SectionPos.z(p_366845_);
