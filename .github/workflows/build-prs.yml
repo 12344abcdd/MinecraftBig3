@@ -41,3 +41,7 @@ jobs:
         with:
           arguments: build -x spotlessJava -x checkLicenseCustomNeoforge -x createChangelog -x spotlessCheck
           cache-read-only: false
+      - uses: actions/upload-artifact@v4
+        with:
+         name: 
+         path: build/libs/*
