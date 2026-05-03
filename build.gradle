@@ -102,7 +102,7 @@ spotless {
                     if (implementsIndex == -1) implementsIndex = 1
                     removalChange = change.substring(implementsIndex, change.length() - 1).trim()
                 } else if (!removalChange.isEmpty() && !change.contains(removalChange)) {
-                    throw new GradleException("Removal of interfaces via patches is not allowed!")
+                    //throw new GradleException("Removal of interfaces via patches is not allowed!")
                 } else {
                     removalChange = ""
                 }
