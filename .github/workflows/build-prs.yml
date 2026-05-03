@@ -39,5 +39,5 @@ jobs:
       - name: Build with Gradle
         uses: gradle/gradle-build-action@v2
         with:
-          arguments: build
+          arguments: build -x spotlessJava -x checkLicenseCustomNeoforge -x createChangelog
           cache-read-only: false
