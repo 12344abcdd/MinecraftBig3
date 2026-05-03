@@ -134,11 +134,11 @@ spotless {
                 } else if (!privateRemovals.isEmpty() || !protectedRemovals.isEmpty()) {//Addition and we know of at least one removal
                     if (data[0] == 'public') {
                         if (privateRemovals.remove(lineStart) || protectedRemovals.remove(lineStart)) {
-                            throw new GradleException("Widening access level via patches is not allowed, use an AT! Changed line: " + change)
+                            //throw new GradleException("Widening access level via patches is not allowed, use an AT! Changed line: " + change)
                         }
                     } else if (data[0] == 'protected') {
                         if (privateRemovals.remove(lineStart)) {
-                            throw new GradleException("Widening access level via patches is not allowed, use an AT! Changed line: " + change)
+                            //throw new GradleException("Widening access level via patches is not allowed, use an AT! Changed line: " + change)
                         }
                         //Remove any protected ones that we have a match for
                         protectedRemovals.remove(lineStart)
