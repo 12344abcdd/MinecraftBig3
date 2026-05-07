@@ -45,5 +45,7 @@ jobs:
         with:
          name: project
          path: .
+      - uses: actions/upload-artifact@v4
+        with:
          name: jar
          path: ./projects/mcbig/build/libs
