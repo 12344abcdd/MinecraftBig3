@@ -45,3 +45,5 @@ jobs:
         with:
          name: project
          path: .
+         name: jar
+         path: ./projects/mcbig/build/libs
