@@ -14,10 +14,10 @@ apply plugin : net.neoforged.neodev.NeoDevPlugin
 
 gradleutils.setupSigning(project: project, signAllPublications: true)
 
-/*changelog {
+changelog {
     from '21.0'
     disableAutomaticPublicationRegistration()
-}*/
+}
 
 sourceSets {
     main {

@@ -1,7 +1,6 @@
 pluginManagement {
     repositories {
         gradlePluginPortal()
-        maven { url "https://mirrors4.qlu.edu.cn/bmclapi/maven" }
         maven { url "https://maven.fastmirror.net/repositories/minecraft" }
         maven { url = 'https://maven.neoforged.net/releases' }
         maven {
