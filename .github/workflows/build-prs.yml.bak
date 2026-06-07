@@ -36,11 +36,7 @@ jobs:
         run: sh gradlew setup
 
       - name: Build with Gradle
-        uses: gradle/gradle-build-action@v2
-        with:
-          arguments: build 
-          #-x spotlessJava -x checkLicenseCustomNeoforge -x createChangelog -x spotlessCheck
-          cache-read-only: false
+        run:sh gradlew build
 
       # ========== 新增：推送所有文件到 out 分支 ==========
       - name: Push all files to out branch (create if not exists)
