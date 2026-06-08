@@ -1,0 +1,2300 @@
+Generating: 
+  Output:  /home/runner/work/MinecraftBig3/MinecraftBig3/projects/mcbig/build/neodev/server-binpatches.lzma
+  Pack200: false
+  Legacy:    false
+  Clean: /home/runner/work/MinecraftBig3/MinecraftBig3/projects/mcbig/build/neodev/remapped-server.jar
+  Dirty: /home/runner/work/MinecraftBig3/MinecraftBig3/projects/mcbig/build/libs/mcbig-3.0.0.jar
+  Patches: /home/runner/work/MinecraftBig3/MinecraftBig3/patches
+  SRG:     /home/runner/work/MinecraftBig3/MinecraftBig3/projects/mcbig/build/neodev/artifacts/clean/merged-mappings.txt
+Creating patches:
+  Clean: /home/runner/work/MinecraftBig3/MinecraftBig3/projects/mcbig/build/neodev/remapped-server.jar
+  Dirty: /home/runner/work/MinecraftBig3/MinecraftBig3/projects/mcbig/build/libs/mcbig-3.0.0.jar
+  Processing net/minecraft/CrashReportCategory$net/minecraft/CrashReportCategory(net/minecraft/CrashReportCategory)
+    Clean: 40d98cbc Dirty: fc8fce85
+  Processing net/minecraft/CrashReportCategory$Entry
+    Clean: ff059afc Dirty: 9f09a346
+  Processing net/minecraft/SharedConstants$net/minecraft/SharedConstants(net/minecraft/SharedConstants)
+    Clean: 2e8626bf Dirty: e6669d39
+  Processing net/minecraft/Util$10
+    Clean: a782dda9 Dirty: 0
+  Processing net/minecraft/Util$11
+    Clean: c13c19a2 Dirty: 0
+  Processing net/minecraft/Util$OS$2
+    Clean: a450a998 Dirty: b312a8b5
+  Processing net/minecraft/Util$2
+    Clean: 9d91683d Dirty: 10e464eb
+  Processing net/minecraft/Util$3
+    Clean: 0 Dirty: 77cbe85d
+  Processing net/minecraft/Util$4
+    Clean: 0 Dirty: 3ba5aac8
+  Processing net/minecraft/Util$5
+    Clean: 877edf7c Dirty: f3388057
+  Processing net/minecraft/Util$1
+    Clean: 2da394ab Dirty: b48394aa
+  Processing net/minecraft/Util$OS$1
+    Clean: 770ab69e Dirty: 1724b5c7
+  Processing net/minecraft/Util$net/minecraft/Util(net/minecraft/Util)
+    Clean: 70dccda7 Dirty: 2ed41025
+  Processing net/minecraft/Util$OS
+    Clean: aab0a3ab Dirty: a5e79ff5
+  Processing net/minecraft/Util$6
+    Clean: 1e77a2f8 Dirty: a3087c24
+  Processing net/minecraft/Util$7
+    Clean: 33b07ff7 Dirty: c74dc829
+  Processing net/minecraft/Util$8
+    Clean: 85ab7ac5 Dirty: 1ccbd9c3
+  Processing net/minecraft/Util$9
+    Clean: 4372c5ae Dirty: bba6157d
+  Processing net/minecraft/client/Camera$NearPlane
+    Clean: 0 Dirty: 1f2a6414
+  Processing net/minecraft/client/Camera$net/minecraft/client/Camera(net/minecraft/client/Camera)
+    Clean: 0 Dirty: 4bcbd0c3
+  Processing net/minecraft/client/Minecraft$ChatStatus$1
+    Clean: 0 Dirty: b800aebb
+  Processing net/minecraft/client/Minecraft$ChatStatus
+    Clean: 0 Dirty: 6de47e43
+  Processing net/minecraft/client/Minecraft$net/minecraft/client/Minecraft(net/minecraft/client/Minecraft)
+    Clean: 0 Dirty: 6df782b1
+  Processing net/minecraft/client/Minecraft$ChatStatus$2
+    Clean: 0 Dirty: bd4daec5
+  Processing net/minecraft/client/Minecraft$1
+    Clean: 0 Dirty: 97195bc2
+  Processing net/minecraft/client/Minecraft$2
+    Clean: 0 Dirty: 3aacf1b
+  Processing net/minecraft/client/Minecraft$GameLoadCookie
+    Clean: 0 Dirty: 2303b1e
+  Processing net/minecraft/client/Minecraft$ChatStatus$3
+    Clean: 0 Dirty: d89daef1
+  Processing net/minecraft/client/Minecraft$ChatStatus$4
+    Clean: 0 Dirty: deeeaefe
+  Processing net/minecraft/client/color/block/BlockTintCache$LatestCacheInfo
+    Clean: 0 Dirty: c32e23a5
+  Processing net/minecraft/client/color/block/BlockTintCache$net/minecraft/client/color/block/BlockTintCache(net/minecraft/client/color/block/BlockTintCache)
+    Clean: 0 Dirty: f2af5ffd
+  Processing net/minecraft/client/color/block/BlockTintCache$CacheData
+    Clean: 0 Dirty: 847c1d10
+  Processing net/minecraft/client/gui/components/DebugScreenOverlay$net/minecraft/client/gui/components/DebugScreenOverlay(net/minecraft/client/gui/components/DebugScreenOverlay)
+    Clean: 0 Dirty: 73f13a9b
+  Processing net/minecraft/client/gui/components/DebugScreenOverlay$AllocationRateCalculator
+    Clean: 0 Dirty: 777432fb
+  Processing net/minecraft/client/gui/components/DebugScreenOverlay$1
+    Clean: 0 Dirty: 743bcb6f
+  Processing net/minecraft/client/multiplayer/ClientChunkCache$net/minecraft/client/multiplayer/ClientChunkCache(net/minecraft/client/multiplayer/ClientChunkCache)
+    Clean: 0 Dirty: 131cf0c7
+  Processing net/minecraft/client/multiplayer/ClientChunkCache$Storage
+    Clean: 0 Dirty: 25ab11e3
+  Processing net/minecraft/client/multiplayer/ClientLevel$ClientLevelData
+    Clean: 0 Dirty: 6c21acf5
+  Processing net/minecraft/client/multiplayer/ClientLevel$1
+    Clean: 0 Dirty: 554ccede
+  Processing net/minecraft/client/multiplayer/ClientLevel$EntityCallbacks
+    Clean: 0 Dirty: 2936aa55
+  Processing net/minecraft/client/multiplayer/ClientLevel$net/minecraft/client/multiplayer/ClientLevel(net/minecraft/client/multiplayer/ClientLevel)
+    Clean: 0 Dirty: 7a4ca0da
+  Processing net/minecraft/client/multiplayer/ClientPacketListener$1
+    Clean: 0 Dirty: 677d6390
+  Processing net/minecraft/client/multiplayer/ClientPacketListener$net/minecraft/client/multiplayer/ClientPacketListener(net/minecraft/client/multiplayer/ClientPacketListener)
+    Clean: 0 Dirty: a0564dd2
+  Processing net/minecraft/client/multiplayer/ClientSuggestionProvider$1
+    Clean: 0 Dirty: f1d64030
+  Processing net/minecraft/client/multiplayer/ClientSuggestionProvider$net/minecraft/client/multiplayer/ClientSuggestionProvider(net/minecraft/client/multiplayer/ClientSuggestionProvider)
+    Clean: 0 Dirty: a8df3af0
+  Processing net/minecraft/client/multiplayer/MultiPlayerGameMode$net/minecraft/client/multiplayer/MultiPlayerGameMode(net/minecraft/client/multiplayer/MultiPlayerGameMode)
+    Clean: 0 Dirty: 865ad857
+  Processing net/minecraft/client/multiplayer/prediction/BlockStatePredictionHandler$net/minecraft/client/multiplayer/prediction/BlockStatePredictionHandler(net/minecraft/client/multiplayer/prediction/BlockStatePredictionHandler)
+    Clean: 0 Dirty: 93ab80cc
+  Processing net/minecraft/client/multiplayer/prediction/BlockStatePredictionHandler$ServerVerifiedState
+    Clean: 0 Dirty: 47ee7b12
+  Processing net/minecraft/client/particle/ItemPickupParticle$net/minecraft/client/particle/ItemPickupParticle(net/minecraft/client/particle/ItemPickupParticle)
+    Clean: 0 Dirty: 4016d1b1
+  Processing net/minecraft/client/particle/ParticleEngine$MutableSpriteSet
+    Clean: 0 Dirty: ad5ce2b3
+  Processing net/minecraft/client/particle/ParticleEngine$SpriteParticleRegistration
+    Clean: 0 Dirty: 945ff467
+  Processing net/minecraft/client/particle/ParticleEngine$net/minecraft/client/particle/ParticleEngine(net/minecraft/client/particle/ParticleEngine)
+    Clean: 0 Dirty: 3bdd7afa
+  Processing net/minecraft/client/particle/ParticleEngine$1ParticleDefinition
+    Clean: 0 Dirty: c1e03c3f
+  Processing net/minecraft/client/particle/SingleQuadParticle$FacingCameraMode
+    Clean: 0 Dirty: 1e69f1f7
+  Processing net/minecraft/client/particle/SingleQuadParticle$net/minecraft/client/particle/SingleQuadParticle(net/minecraft/client/particle/SingleQuadParticle)
+    Clean: 0 Dirty: 8da9e13d
+  Processing net/minecraft/client/particle/VibrationSignalParticle$net/minecraft/client/particle/VibrationSignalParticle(net/minecraft/client/particle/VibrationSignalParticle)
+    Clean: 0 Dirty: 4da8146b
+  Processing net/minecraft/client/particle/VibrationSignalParticle$Provider
+    Clean: 0 Dirty: 5d177663
+  Processing net/minecraft/client/player/LocalPlayer$net/minecraft/client/player/LocalPlayer(net/minecraft/client/player/LocalPlayer)
+    Clean: 0 Dirty: 620e52f
+  Processing net/minecraft/client/renderer/CloudRenderer$RelativeCameraPos
+    Clean: 0 Dirty: 5bb98cad
+  Processing net/minecraft/client/renderer/CloudRenderer$TextureData
+    Clean: 0 Dirty: 956c417
+  Processing net/minecraft/client/renderer/CloudRenderer$net/minecraft/client/renderer/CloudRenderer(net/minecraft/client/renderer/CloudRenderer)
+    Clean: 0 Dirty: a6c0a0db
+  Processing net/minecraft/client/renderer/DimensionSpecialEffects$OverworldEffects
+    Clean: 0 Dirty: 85ee22f2
+  Processing net/minecraft/client/renderer/DimensionSpecialEffects$NetherEffects
+    Clean: 0 Dirty: f5f76421
+  Processing net/minecraft/client/renderer/DimensionSpecialEffects$net/minecraft/client/renderer/DimensionSpecialEffects(net/minecraft/client/renderer/DimensionSpecialEffects)
+    Clean: 0 Dirty: bb4fa4d3
+  Processing net/minecraft/client/renderer/DimensionSpecialEffects$SkyType
+    Clean: 0 Dirty: c58e8c30
+  Processing net/minecraft/client/renderer/DimensionSpecialEffects$EndEffects
+    Clean: 0 Dirty: 429e7d88
+  Processing net/minecraft/client/renderer/FogRenderer$FogData
+    Clean: 0 Dirty: 5d690297
+  Processing net/minecraft/client/renderer/FogRenderer$DarknessFogFunction
+    Clean: 0 Dirty: 20bf9d52
+  Processing net/minecraft/client/renderer/FogRenderer$net/minecraft/client/renderer/FogRenderer(net/minecraft/client/renderer/FogRenderer)
+    Clean: 0 Dirty: 9f18a068
+  Processing net/minecraft/client/renderer/FogRenderer$MobEffectFogFunction
+    Clean: 0 Dirty: 931e11c9
+  Processing net/minecraft/client/renderer/FogRenderer$FogMode
+    Clean: 0 Dirty: 57d5bbf
+  Processing net/minecraft/client/renderer/FogRenderer$BlindnessFogFunction
+    Clean: 0 Dirty: 12ec44c8
+  Processing net/minecraft/client/renderer/GameRenderer$net/minecraft/client/renderer/GameRenderer(net/minecraft/client/renderer/GameRenderer)
+    Clean: 0 Dirty: 5ab22742
+  Processing net/minecraft/client/renderer/LevelEventHandler$net/minecraft/client/renderer/LevelEventHandler(net/minecraft/client/renderer/LevelEventHandler)
+    Clean: 0 Dirty: 3d1ba052
+  Processing net/minecraft/client/renderer/LevelRenderer$1
+    Clean: 0 Dirty: 7f158a17
+  Processing net/minecraft/client/renderer/LevelRenderer$net/minecraft/client/renderer/LevelRenderer(net/minecraft/client/renderer/LevelRenderer)
+    Clean: 0 Dirty: 89f34cf
+  Processing net/minecraft/client/renderer/Octree$Node
+    Clean: 0 Dirty: 8cb2200c
+  Processing net/minecraft/client/renderer/Octree$OctreeVisitor
+    Clean: 0 Dirty: 81f29e55
+  Processing net/minecraft/client/renderer/Octree$AxisSorting
+    Clean: 0 Dirty: bf66db21
+  Processing net/minecraft/client/renderer/Octree$Leaf
+    Clean: 0 Dirty: 62b6d9f0
+  Processing net/minecraft/client/renderer/Octree$Branch
+    Clean: 0 Dirty: 3cc2a615
+  Processing net/minecraft/client/renderer/Octree$net/minecraft/client/renderer/Octree(net/minecraft/client/renderer/Octree)
+    Clean: 0 Dirty: 62b56058
+  Processing net/minecraft/client/renderer/SectionOcclusionGraph$Node
+    Clean: 0 Dirty: 9b518aaa
+  Processing net/minecraft/client/renderer/SectionOcclusionGraph$GraphStorage
+    Clean: 0 Dirty: 53ba8773
+  Processing net/minecraft/client/renderer/SectionOcclusionGraph$SectionToNodeMap
+    Clean: 0 Dirty: 4b05f3d0
+  Processing net/minecraft/client/renderer/SectionOcclusionGraph$net/minecraft/client/renderer/SectionOcclusionGraph(net/minecraft/client/renderer/SectionOcclusionGraph)
+    Clean: 0 Dirty: 63d6374a
+  Processing net/minecraft/client/renderer/SectionOcclusionGraph$GraphEvents
+    Clean: 0 Dirty: c908a054
+  Processing net/minecraft/client/renderer/SectionOcclusionGraph$GraphState
+    Clean: 0 Dirty: 2c7ad2be
+  Processing net/minecraft/client/renderer/ViewArea$net/minecraft/client/renderer/ViewArea(net/minecraft/client/renderer/ViewArea)
+    Clean: 0 Dirty: da0ded5f
+  Processing net/minecraft/client/renderer/WeatherEffectRenderer$net/minecraft/client/renderer/WeatherEffectRenderer(net/minecraft/client/renderer/WeatherEffectRenderer)
+    Clean: 0 Dirty: e358b244
+  Processing net/minecraft/client/renderer/WeatherEffectRenderer$ColumnInstance
+    Clean: 0 Dirty: 1cd619f7
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$net/minecraft/client/renderer/block/ModelBlockRenderer(net/minecraft/client/renderer/block/ModelBlockRenderer)
+    Clean: 0 Dirty: c89033a4
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$Cache
+    Clean: 0 Dirty: 3014f719
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$SizeInfo
+    Clean: 0 Dirty: 3be573eb
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$Cache$1
+    Clean: 0 Dirty: bdcf1a38
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$AdjacencyInfo
+    Clean: 0 Dirty: 88559a66
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$Cache$2
+    Clean: 0 Dirty: 38111be4
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$AmbientVertexRemap
+    Clean: 0 Dirty: 6a86983
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$1
+    Clean: 0 Dirty: 55bcd8ac
+  Processing net/minecraft/client/renderer/block/ModelBlockRenderer$AmbientOcclusionFace
+    Clean: 0 Dirty: 76fdd4ed
+  Processing net/minecraft/client/renderer/blockentity/BlockEntityRenderDispatcher$net/minecraft/client/renderer/blockentity/BlockEntityRenderDispatcher(net/minecraft/client/renderer/blockentity/BlockEntityRenderDispatcher)
+    Clean: 0 Dirty: 4978c07e
+  Processing net/minecraft/client/renderer/chunk/CompileTaskDynamicQueue$net/minecraft/client/renderer/chunk/CompileTaskDynamicQueue(net/minecraft/client/renderer/chunk/CompileTaskDynamicQueue)
+    Clean: 0 Dirty: 54d754
+  Processing net/minecraft/client/renderer/chunk/RenderChunk$net/minecraft/client/renderer/chunk/RenderChunk(net/minecraft/client/renderer/chunk/RenderChunk)
+    Clean: 0 Dirty: 60ec7b9b
+  Processing net/minecraft/client/renderer/chunk/RenderChunkRegion$net/minecraft/client/renderer/chunk/RenderChunkRegion(net/minecraft/client/renderer/chunk/RenderChunkRegion)
+    Clean: 0 Dirty: d678b200
+  Processing net/minecraft/client/renderer/chunk/RenderRegionCache$net/minecraft/client/renderer/chunk/RenderRegionCache(net/minecraft/client/renderer/chunk/RenderRegionCache)
+    Clean: 0 Dirty: b28fa17a
+  Processing net/minecraft/client/renderer/chunk/RenderRegionCache$ChunkInfo
+    Clean: 0 Dirty: e6853f5b
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$SectionTaskResult
+    Clean: 0 Dirty: 54cb260
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$CompiledSection$2
+    Clean: 0 Dirty: f366e22e
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$CompiledSection$1
+    Clean: 0 Dirty: af0e235
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$net/minecraft/client/renderer/chunk/SectionRenderDispatcher(net/minecraft/client/renderer/chunk/SectionRenderDispatcher)
+    Clean: 0 Dirty: a1f5c8be
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$RenderSection$CompileTask
+    Clean: 0 Dirty: 700a6101
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$RenderSection$RebuildTask
+    Clean: 0 Dirty: c51f70a1
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$RenderSection
+    Clean: 0 Dirty: 81e403e
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$CompiledSection
+    Clean: 0 Dirty: 4705fc16
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$RenderSection$ResortTransparencyTask
+    Clean: 0 Dirty: bd6819d7
+  Processing net/minecraft/client/renderer/chunk/SectionRenderDispatcher$TranslucencyPointOfView
+    Clean: 0 Dirty: cd5f9741
+  Processing net/minecraft/client/renderer/chunk/VisGraph$1
+    Clean: 0 Dirty: a762cd47
+  Processing net/minecraft/client/renderer/chunk/VisGraph$net/minecraft/client/renderer/chunk/VisGraph(net/minecraft/client/renderer/chunk/VisGraph)
+    Clean: 0 Dirty: c847b3e4
+  Processing net/minecraft/client/renderer/culling/Frustum$net/minecraft/client/renderer/culling/Frustum(net/minecraft/client/renderer/culling/Frustum)
+    Clean: 0 Dirty: a419b65a
+  Processing net/minecraft/client/renderer/debug/ChunkBorderRenderer$net/minecraft/client/renderer/debug/ChunkBorderRenderer(net/minecraft/client/renderer/debug/ChunkBorderRenderer)
+    Clean: 0 Dirty: d5ab4561
+  Processing net/minecraft/client/renderer/debug/ChunkDebugRenderer$net/minecraft/client/renderer/debug/ChunkDebugRenderer(net/minecraft/client/renderer/debug/ChunkDebugRenderer)
+    Clean: 0 Dirty: cb679f30
+  Processing net/minecraft/client/renderer/debug/ChunkDebugRenderer$ChunkData
+    Clean: 0 Dirty: c51adcb3
+  Processing net/minecraft/client/renderer/debug/DebugRenderer$SimpleDebugRenderer
+    Clean: 0 Dirty: 7a08d309
+  Processing net/minecraft/client/renderer/debug/DebugRenderer$net/minecraft/client/renderer/debug/DebugRenderer(net/minecraft/client/renderer/debug/DebugRenderer)
+    Clean: 0 Dirty: b3d5fd58
+  Processing net/minecraft/client/renderer/debug/GameEventListenerRenderer$net/minecraft/client/renderer/debug/GameEventListenerRenderer(net/minecraft/client/renderer/debug/GameEventListenerRenderer)
+    Clean: 0 Dirty: 57261ca4
+  Processing net/minecraft/client/renderer/debug/GameEventListenerRenderer$TrackedListener
+    Clean: 0 Dirty: 7a529c49
+  Processing net/minecraft/client/renderer/debug/GameEventListenerRenderer$TrackedGameEvent
+    Clean: 0 Dirty: 944df682
+  Processing net/minecraft/client/renderer/debug/HeightMapRenderer$net/minecraft/client/renderer/debug/HeightMapRenderer(net/minecraft/client/renderer/debug/HeightMapRenderer)
+    Clean: 0 Dirty: 5b56016d
+  Processing net/minecraft/client/renderer/debug/HeightMapRenderer$1
+    Clean: 0 Dirty: a268239b
+  Processing net/minecraft/client/renderer/debug/LightDebugRenderer$net/minecraft/client/renderer/debug/LightDebugRenderer(net/minecraft/client/renderer/debug/LightDebugRenderer)
+    Clean: 0 Dirty: 7e11ecbc
+  Processing net/minecraft/client/renderer/debug/LightSectionDebugRenderer$net/minecraft/client/renderer/debug/LightSectionDebugRenderer(net/minecraft/client/renderer/debug/LightSectionDebugRenderer)
+    Clean: 0 Dirty: 69d55b0d
+  Processing net/minecraft/client/renderer/debug/LightSectionDebugRenderer$SectionData
+    Clean: 0 Dirty: 56a72fa2
+  Processing net/minecraft/client/renderer/debug/OctreeDebugRenderer$net/minecraft/client/renderer/debug/OctreeDebugRenderer(net/minecraft/client/renderer/debug/OctreeDebugRenderer)
+    Clean: 0 Dirty: eadf151e
+  Processing net/minecraft/client/renderer/debug/PathfindingRenderer$net/minecraft/client/renderer/debug/PathfindingRenderer(net/minecraft/client/renderer/debug/PathfindingRenderer)
+    Clean: 0 Dirty: 873b4054
+  Processing net/minecraft/client/renderer/debug/StructureRenderer$net/minecraft/client/renderer/debug/StructureRenderer(net/minecraft/client/renderer/debug/StructureRenderer)
+    Clean: 0 Dirty: b3fe28f1
+  Processing net/minecraft/client/renderer/entity/EntityRenderDispatcher$net/minecraft/client/renderer/entity/EntityRenderDispatcher(net/minecraft/client/renderer/entity/EntityRenderDispatcher)
+    Clean: 0 Dirty: 88ff2453
+  Processing net/minecraft/client/renderer/entity/PaintingRenderer$1
+    Clean: 0 Dirty: 6cc0ca4c
+  Processing net/minecraft/client/renderer/entity/PaintingRenderer$net/minecraft/client/renderer/entity/PaintingRenderer(net/minecraft/client/renderer/entity/PaintingRenderer)
+    Clean: 0 Dirty: 3d5b3c0d
+  Processing net/minecraft/client/resources/sounds/SimpleSoundInstance$net/minecraft/client/resources/sounds/SimpleSoundInstance(net/minecraft/client/resources/sounds/SimpleSoundInstance)
+    Clean: 0 Dirty: 7520e7f9
+  Processing net/minecraft/client/sounds/SoundEngine$net/minecraft/client/sounds/SoundEngine(net/minecraft/client/sounds/SoundEngine)
+    Clean: 0 Dirty: 3e8a4721
+  Processing net/minecraft/client/sounds/SoundEngine$DeviceCheckState
+    Clean: 0 Dirty: 5aa7faa
+  Processing net/minecraft/commands/CommandSourceStack$net/minecraft/commands/CommandSourceStack(net/minecraft/commands/CommandSourceStack)
+    Clean: 9fcd1980 Dirty: e7b0f461
+  Processing net/minecraft/commands/arguments/EntityAnchorArgument$Anchor
+    Clean: 92e219ae Dirty: b3ef4bd9
+  Processing net/minecraft/commands/arguments/EntityAnchorArgument$net/minecraft/commands/arguments/EntityAnchorArgument(net/minecraft/commands/arguments/EntityAnchorArgument)
+    Clean: e839eb1e Dirty: f3d0f3ea
+  Processing net/minecraft/commands/arguments/coordinates/ColumnPosArgument$net/minecraft/commands/arguments/coordinates/ColumnPosArgument(net/minecraft/commands/arguments/coordinates/ColumnPosArgument)
+    Clean: cdfc4b7d Dirty: 3b86bb3a
+  Processing net/minecraft/commands/arguments/coordinates/Coordinates$net/minecraft/commands/arguments/coordinates/Coordinates(net/minecraft/commands/arguments/coordinates/Coordinates)
+    Clean: 405d00aa Dirty: 202f03c4
+  Processing net/minecraft/commands/arguments/coordinates/LocalCoordinates$net/minecraft/commands/arguments/coordinates/LocalCoordinates(net/minecraft/commands/arguments/coordinates/LocalCoordinates)
+    Clean: 58fa802c Dirty: 8f3d0318
+  Processing net/minecraft/commands/arguments/coordinates/RotationArgument$net/minecraft/commands/arguments/coordinates/RotationArgument(net/minecraft/commands/arguments/coordinates/RotationArgument)
+    Clean: 2a3f7095 Dirty: 4f6aa93e
+  Processing net/minecraft/commands/arguments/coordinates/Vec2Argument$net/minecraft/commands/arguments/coordinates/Vec2Argument(net/minecraft/commands/arguments/coordinates/Vec2Argument)
+    Clean: 49286d69 Dirty: bf14af74
+  Processing net/minecraft/commands/arguments/coordinates/Vec3Argument$net/minecraft/commands/arguments/coordinates/Vec3Argument(net/minecraft/commands/arguments/coordinates/Vec3Argument)
+    Clean: a87131f5 Dirty: 7983530
+  Processing net/minecraft/commands/arguments/coordinates/WorldCoordinate$net/minecraft/commands/arguments/coordinates/WorldCoordinate(net/minecraft/commands/arguments/coordinates/WorldCoordinate)
+    Clean: c7f46e3 Dirty: 9aa3265
+  Processing net/minecraft/commands/arguments/coordinates/WorldCoordinates$net/minecraft/commands/arguments/coordinates/WorldCoordinates(net/minecraft/commands/arguments/coordinates/WorldCoordinates)
+    Clean: 31bac0f Dirty: 13fb5da4
+  Processing net/minecraft/commands/arguments/selector/EntitySelector$1
+    Clean: 7caa4468 Dirty: ed543f5
+  Processing net/minecraft/commands/arguments/selector/EntitySelector$net/minecraft/commands/arguments/selector/EntitySelector(net/minecraft/commands/arguments/selector/EntitySelector)
+    Clean: 4d4d5794 Dirty: bb519e7b
+  Processing net/minecraft/commands/arguments/selector/EntitySelectorParser$net/minecraft/commands/arguments/selector/EntitySelectorParser(net/minecraft/commands/arguments/selector/EntitySelectorParser)
+    Clean: 8d90c37c Dirty: 9354717c
+  Processing net/minecraft/core/BlockPos$MutableBlockPos
+    Clean: 75d9b58e Dirty: f26a6cbf
+  Processing net/minecraft/core/BlockPos$net/minecraft/core/BlockPos(net/minecraft/core/BlockPos)
+    Clean: a4ea24bf Dirty: 96d8ed52
+  Processing net/minecraft/core/BlockPos$1
+    Clean: 4291388d Dirty: 5b8f3901
+  Processing net/minecraft/core/BlockPos$2
+    Clean: 6707a00b Dirty: d76262cc
+  Processing net/minecraft/core/BlockPos$3
+    Clean: 27fce883 Dirty: 337d6c54
+  Processing net/minecraft/core/BlockPos$TraversalNodeStatus
+    Clean: 2d233371 Dirty: 59cb358d
+  Processing net/minecraft/core/BlockPos$4
+    Clean: 816c4524 Dirty: 105c1462
+  Processing net/minecraft/core/BlockPos$5
+    Clean: 7a0f4fcb Dirty: 454649c2
+  Processing net/minecraft/core/BlockPos$6
+    Clean: 875284e Dirty: f3188be5
+  Processing net/minecraft/core/BlockPos$7
+    Clean: 0 Dirty: e3502edc
+  Processing net/minecraft/core/Cursor3D$net/minecraft/core/Cursor3D(net/minecraft/core/Cursor3D)
+    Clean: 756beb91 Dirty: 70d9a6fd
+  Processing net/minecraft/core/Direction$Axis$2
+    Clean: 9f7eff34 Dirty: d028d65
+  Processing net/minecraft/core/Direction$Axis$3
+    Clean: 96c6010b Dirty: 4c5a8fa4
+  Processing net/minecraft/core/Direction$AxisDirection
+    Clean: 82a99054 Dirty: cb4b8c4a
+  Processing net/minecraft/core/Direction$Plane
+    Clean: 195bfc3a Dirty: 8efbfa1e
+  Processing net/minecraft/core/Direction$net/minecraft/core/Direction(net/minecraft/core/Direction)
+    Clean: 5df8514f Dirty: a79138b5
+  Processing net/minecraft/core/Direction$Axis
+    Clean: ed28aaaa Dirty: 377d062e
+  Processing net/minecraft/core/Direction$Axis$1
+    Clean: dbc0ff7d Dirty: e8258d2e
+  Processing net/minecraft/core/QuartPos$net/minecraft/core/QuartPos(net/minecraft/core/QuartPos)
+    Clean: e7d27cc5 Dirty: 17ded651
+  Processing net/minecraft/core/SectionPos$net/minecraft/core/SectionPos(net/minecraft/core/SectionPos)
+    Clean: 6d4cdaa3 Dirty: 1b8b24dd
+  Processing net/minecraft/core/SectionPos$1
+    Clean: 2f1194df Dirty: f8b3c47d
+  Processing net/minecraft/core/Vec3i$net/minecraft/core/Vec3i(net/minecraft/core/Vec3i)
+    Clean: 937d7693 Dirty: 70b11d4a
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$10
+    Clean: 552cc987 Dirty: 1c8ae82b
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$8
+    Clean: 230ab23b Dirty: fd36938e
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$9
+    Clean: d7c85bb1 Dirty: e3f16064
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$12
+    Clean: c042c90b Dirty: ac06d442
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$6
+    Clean: de970ed8 Dirty: ff74ed54
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$11
+    Clean: 5fff892d Dirty: 8cd08f63
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$7
+    Clean: 6b6cc044 Dirty: b291d53b
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$14
+    Clean: c08a2c82 Dirty: b40f35c1
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$4
+    Clean: 13460b93 Dirty: 7924e4f6
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$13
+    Clean: 7e1323c7 Dirty: 32932b99
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$5
+    Clean: fb035a21 Dirty: 330073b6
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$2
+    Clean: 24ef5ad9 Dirty: 8b858639
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$3
+    Clean: 59e1024c Dirty: 8640dec
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$1
+    Clean: 80362ccc Dirty: 9a093685
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$16
+    Clean: ca3ac609 Dirty: f09201b9
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$15
+    Clean: 92dd0fc0 Dirty: 8a9f1b32
+  Processing net/minecraft/core/dispenser/DispenseItemBehavior$net/minecraft/core/dispenser/DispenseItemBehavior(net/minecraft/core/dispenser/DispenseItemBehavior)
+    Clean: 81a625b7 Dirty: 2db036b2
+  Processing net/minecraft/gametest/framework/GameTestHelper$1
+    Clean: 7d5b9ece Dirty: a1e49b54
+  Processing net/minecraft/gametest/framework/GameTestHelper$2
+    Clean: 95a797f2 Dirty: 493496bf
+  Processing net/minecraft/gametest/framework/GameTestHelper$3
+    Clean: 1afec8fa Dirty: c200d023
+  Processing net/minecraft/gametest/framework/GameTestHelper$net/minecraft/gametest/framework/GameTestHelper(net/minecraft/gametest/framework/GameTestHelper)
+    Clean: 34c3364f Dirty: e7ced261
+  Processing net/minecraft/gametest/framework/GameTestRunner$StructureSpawner
+    Clean: eaea4684 Dirty: d074a74
+  Processing net/minecraft/gametest/framework/GameTestRunner$1
+    Clean: c1312fb Dirty: 918342fa
+  Processing net/minecraft/gametest/framework/GameTestRunner$GameTestBatcher
+    Clean: aa409d00 Dirty: de479d04
+  Processing net/minecraft/gametest/framework/GameTestRunner$net/minecraft/gametest/framework/GameTestRunner(net/minecraft/gametest/framework/GameTestRunner)
+    Clean: 8bb5b8c0 Dirty: f7088971
+  Processing net/minecraft/gametest/framework/GameTestRunner$Builder
+    Clean: e03a905f Dirty: 90399ad9
+  Processing net/minecraft/gametest/framework/StructureUtils$1
+    Clean: 5f9bd9b2 Dirty: e97fe0b1
+  Processing net/minecraft/gametest/framework/StructureUtils$net/minecraft/gametest/framework/StructureUtils(net/minecraft/gametest/framework/StructureUtils)
+    Clean: cd7f969 Dirty: ee3379b
+  Processing net/minecraft/nbt/NbtUtils$net/minecraft/nbt/NbtUtils(net/minecraft/nbt/NbtUtils)
+    Clean: c0a8bf08 Dirty: 27a82297
+  Processing net/minecraft/network/FriendlyByteBuf$net/minecraft/network/FriendlyByteBuf(net/minecraft/network/FriendlyByteBuf)
+    Clean: 892fe147 Dirty: 49cd726
+  Processing net/minecraft/network/protocol/common/custom/StructuresDebugPayload$PieceInfo
+    Clean: ce0bd2cd Dirty: 9a4ecdbd
+  Processing net/minecraft/network/protocol/common/custom/StructuresDebugPayload$net/minecraft/network/protocol/common/custom/StructuresDebugPayload(net/minecraft/network/protocol/common/custom/StructuresDebugPayload)
+    Clean: d38d5fd Dirty: 9c55362d
+  Processing net/minecraft/network/protocol/game/ClientboundAddEntityPacket$net/minecraft/network/protocol/game/ClientboundAddEntityPacket(net/minecraft/network/protocol/game/ClientboundAddEntityPacket)
+    Clean: 2f1c26cb Dirty: d58be206
+  Processing net/minecraft/network/protocol/game/ClientboundAddExperienceOrbPacket$net/minecraft/network/protocol/game/ClientboundAddExperienceOrbPacket(net/minecraft/network/protocol/game/ClientboundAddExperienceOrbPacket)
+    Clean: d0a0fac1 Dirty: 69c4f912
+  Processing net/minecraft/network/protocol/game/ClientboundLevelChunkPacketData$net/minecraft/network/protocol/game/ClientboundLevelChunkPacketData(net/minecraft/network/protocol/game/ClientboundLevelChunkPacketData)
+    Clean: 7de1d000 Dirty: a28cd193
+  Processing net/minecraft/network/protocol/game/ClientboundLevelChunkPacketData$BlockEntityInfo
+    Clean: 9c57d1b8 Dirty: 2789da96
+  Processing net/minecraft/network/protocol/game/ClientboundLevelChunkPacketData$BlockEntityTagOutput
+    Clean: f622fab2 Dirty: e0e3faba
+  Processing net/minecraft/network/protocol/game/ClientboundLevelChunkWithLightPacket$net/minecraft/network/protocol/game/ClientboundLevelChunkWithLightPacket(net/minecraft/network/protocol/game/ClientboundLevelChunkWithLightPacket)
+    Clean: 2a4b41a4 Dirty: 8343a13c
+  Processing net/minecraft/network/protocol/game/ClientboundLightUpdatePacket$net/minecraft/network/protocol/game/ClientboundLightUpdatePacket(net/minecraft/network/protocol/game/ClientboundLightUpdatePacket)
+    Clean: adedf370 Dirty: 287a3448
+  Processing net/minecraft/network/protocol/game/ClientboundLightUpdatePacketData$net/minecraft/network/protocol/game/ClientboundLightUpdatePacketData(net/minecraft/network/protocol/game/ClientboundLightUpdatePacketData)
+    Clean: aea2201a Dirty: 8c03497f
+  Processing net/minecraft/network/protocol/game/ClientboundPlayerLookAtPacket$net/minecraft/network/protocol/game/ClientboundPlayerLookAtPacket(net/minecraft/network/protocol/game/ClientboundPlayerLookAtPacket)
+    Clean: fd87758f Dirty: a2da90e6
+  Processing net/minecraft/network/protocol/game/ClientboundSectionBlocksUpdatePacket$net/minecraft/network/protocol/game/ClientboundSectionBlocksUpdatePacket(net/minecraft/network/protocol/game/ClientboundSectionBlocksUpdatePacket)
+    Clean: ec56857f Dirty: abb10704
+  Processing net/minecraft/network/protocol/game/ClientboundSetChunkCacheCenterPacket$net/minecraft/network/protocol/game/ClientboundSetChunkCacheCenterPacket(net/minecraft/network/protocol/game/ClientboundSetChunkCacheCenterPacket)
+    Clean: a2b9fb7b Dirty: 93b43de2
+  Processing net/minecraft/network/protocol/game/DebugPackets$net/minecraft/network/protocol/game/DebugPackets(net/minecraft/network/protocol/game/DebugPackets)
+    Clean: c99e869d Dirty: bf93de38
+  Processing net/minecraft/network/protocol/game/ServerboundMovePlayerPacket$net/minecraft/network/protocol/game/ServerboundMovePlayerPacket(net/minecraft/network/protocol/game/ServerboundMovePlayerPacket)
+    Clean: ca511e07 Dirty: cc154d28
+  Processing net/minecraft/network/protocol/game/ServerboundMovePlayerPacket$Pos
+    Clean: f307f820 Dirty: e13f7e94
+  Processing net/minecraft/network/protocol/game/ServerboundMovePlayerPacket$PosRot
+    Clean: a11f3c4e Dirty: 854dca8e
+  Processing net/minecraft/network/protocol/game/ServerboundMovePlayerPacket$StatusOnly
+    Clean: 15a3cc84 Dirty: b030fc6
+  Processing net/minecraft/network/protocol/game/ServerboundMovePlayerPacket$Rot
+    Clean: 2fc1ee29 Dirty: e22133fb
+  Processing net/minecraft/network/protocol/game/VecDeltaCodec$net/minecraft/network/protocol/game/VecDeltaCodec(net/minecraft/network/protocol/game/VecDeltaCodec)
+    Clean: 8f2f8c14 Dirty: fef8075d
+  Processing net/minecraft/server/MinecraftServer$ReloadableResources
+    Clean: 58a74e1e Dirty: af444a7
+  Processing net/minecraft/server/MinecraftServer
+    Clean: 2d95591f Dirty: 2339f1d4
+  Processing net/minecraft/server/MinecraftServer$TimeProfiler$1
+    Clean: 6fd8aeb8 Dirty: c3e8a297
+  Processing net/minecraft/server/MinecraftServer$1
+    Clean: cf6267da Dirty: 6c906365
+  Processing net/minecraft/server/MinecraftServer$ServerResourcePackInfo
+    Clean: 613339cf Dirty: 414c2f54
+  Processing net/minecraft/server/MinecraftServer$TimeProfiler
+    Clean: c2ecdc4 Dirty: 9eecca96
+  Processing net/minecraft/server/ServerFunctionLibrary$net/minecraft/server/ServerFunctionLibrary(net/minecraft/server/ServerFunctionLibrary)
+    Clean: f66c7e7a Dirty: 4d73962a
+  Processing net/minecraft/server/chase/ChaseClient$TeleportTarget
+    Clean: a8e17dcd Dirty: 9c417a30
+  Processing net/minecraft/server/chase/ChaseClient$net/minecraft/server/chase/ChaseClient(net/minecraft/server/chase/ChaseClient)
+    Clean: 8104da17 Dirty: cae12625
+  Processing net/minecraft/server/commands/CloneCommands$CloneBlockEntityInfo
+    Clean: c61efd8f Dirty: 976efb40
+  Processing net/minecraft/server/commands/CloneCommands$CommandFunction
+    Clean: ca83a721 Dirty: b3f4a723
+  Processing net/minecraft/server/commands/CloneCommands$CloneBlockInfo
+    Clean: 4e2a93dc Dirty: f26490a6
+  Processing net/minecraft/server/commands/CloneCommands$Mode
+    Clean: 55384cc8 Dirty: 4a444ef6
+  Processing net/minecraft/server/commands/CloneCommands$DimensionAndPosition
+    Clean: 99cbf8ec Dirty: df96f53f
+  Processing net/minecraft/server/commands/CloneCommands$net/minecraft/server/commands/CloneCommands(net/minecraft/server/commands/CloneCommands)
+    Clean: 9fb3de39 Dirty: ec83b1f5
+  Processing net/minecraft/server/commands/DamageCommand$net/minecraft/server/commands/DamageCommand(net/minecraft/server/commands/DamageCommand)
+    Clean: a8c4f2e Dirty: de2180db
+  Processing net/minecraft/server/commands/ExecuteCommand$CommandPredicate
+    Clean: 68bdb91b Dirty: 4980b924
+  Processing net/minecraft/server/commands/ExecuteCommand$net/minecraft/server/commands/ExecuteCommand(net/minecraft/server/commands/ExecuteCommand)
+    Clean: 4f685950 Dirty: 435725c4
+  Processing net/minecraft/server/commands/ExecuteCommand$IntBiPredicate
+    Clean: db706517 Dirty: 924d651b
+  Processing net/minecraft/server/commands/ExecuteCommand$ExecuteIfFunctionCustomModifier
+    Clean: f49fd337 Dirty: 4137cc78
+  Processing net/minecraft/server/commands/ExecuteCommand$CommandGetter
+    Clean: f30ec2b5 Dirty: d7f0c2b7
+  Processing net/minecraft/server/commands/ExecuteCommand$CommandNumericPredicate
+    Clean: a79cbead Dirty: faadbeb6
+  Processing net/minecraft/server/commands/FillBiomeCommand$net/minecraft/server/commands/FillBiomeCommand(net/minecraft/server/commands/FillBiomeCommand)
+    Clean: e9979913 Dirty: 91410aec
+  Processing net/minecraft/server/commands/FillCommand$Mode
+    Clean: a6832dda Dirty: 74cd7244
+  Processing net/minecraft/server/commands/FillCommand$net/minecraft/server/commands/FillCommand(net/minecraft/server/commands/FillCommand)
+    Clean: 3ca034be Dirty: 46f3be14
+  Processing net/minecraft/server/commands/ForceLoadCommand$net/minecraft/server/commands/ForceLoadCommand(net/minecraft/server/commands/ForceLoadCommand)
+    Clean: c07cd0b3 Dirty: 1ce37c0f
+  Processing net/minecraft/server/commands/ItemCommands$net/minecraft/server/commands/ItemCommands(net/minecraft/server/commands/ItemCommands)
+    Clean: c1d0e7d8 Dirty: 2db337ba
+  Processing net/minecraft/server/commands/LocateCommand$net/minecraft/server/commands/LocateCommand(net/minecraft/server/commands/LocateCommand)
+    Clean: 75c7857a Dirty: 7b6109b9
+  Processing net/minecraft/server/commands/LookAt$net/minecraft/server/commands/LookAt(net/minecraft/server/commands/LookAt)
+    Clean: 3880942a Dirty: 9d8a9430
+  Processing net/minecraft/server/commands/LookAt$LookAtPosition
+    Clean: ec2a78a0 Dirty: c797749a
+  Processing net/minecraft/server/commands/LookAt$LookAtEntity
+    Clean: f7bb3cc6 Dirty: b2225b90
+  Processing net/minecraft/server/commands/LootCommand$DropConsumer
+    Clean: b5770c11 Dirty: 74910c22
+  Processing net/minecraft/server/commands/LootCommand$Callback
+    Clean: 654d957b Dirty: f2009584
+  Processing net/minecraft/server/commands/LootCommand$net/minecraft/server/commands/LootCommand(net/minecraft/server/commands/LootCommand)
+    Clean: 4a55fb48 Dirty: bf75ffb3
+  Processing net/minecraft/server/commands/LootCommand$TailProvider
+    Clean: 1c6a15b6 Dirty: 905815c1
+  Processing net/minecraft/server/commands/ParticleCommand$net/minecraft/server/commands/ParticleCommand(net/minecraft/server/commands/ParticleCommand)
+    Clean: 2cace6c Dirty: acc7efec
+  Processing net/minecraft/server/commands/PlaceCommand$net/minecraft/server/commands/PlaceCommand(net/minecraft/server/commands/PlaceCommand)
+    Clean: 164a8bb5 Dirty: 508c9b5d
+  Processing net/minecraft/server/commands/PlaySoundCommand$net/minecraft/server/commands/PlaySoundCommand(net/minecraft/server/commands/PlaySoundCommand)
+    Clean: ca30233f Dirty: 498db10c
+  Processing net/minecraft/server/commands/RaidCommand$net/minecraft/server/commands/RaidCommand(net/minecraft/server/commands/RaidCommand)
+    Clean: 24f8253 Dirty: 7517c8dc
+  Processing net/minecraft/server/commands/RotateCommand$net/minecraft/server/commands/RotateCommand(net/minecraft/server/commands/RotateCommand)
+    Clean: e9b671eb Dirty: a62fafcc
+  Processing net/minecraft/server/commands/SetBlockCommand$net/minecraft/server/commands/SetBlockCommand(net/minecraft/server/commands/SetBlockCommand)
+    Clean: 96505b40 Dirty: d6b96b43
+  Processing net/minecraft/server/commands/SetBlockCommand$Filter
+    Clean: b156b812 Dirty: 12dfb816
+  Processing net/minecraft/server/commands/SetBlockCommand$Mode
+    Clean: 9ab33514 Dirty: 2cdf349f
+  Processing net/minecraft/server/commands/SpreadPlayersCommand$Position
+    Clean: c7f034a0 Dirty: 1c8f4aba
+  Processing net/minecraft/server/commands/SpreadPlayersCommand$net/minecraft/server/commands/SpreadPlayersCommand(net/minecraft/server/commands/SpreadPlayersCommand)
+    Clean: d19518c7 Dirty: f5c90e6d
+  Processing net/minecraft/server/commands/SummonCommand$net/minecraft/server/commands/SummonCommand(net/minecraft/server/commands/SummonCommand)
+    Clean: 3a267817 Dirty: 549aa588
+  Processing net/minecraft/server/commands/TeleportCommand$net/minecraft/server/commands/TeleportCommand(net/minecraft/server/commands/TeleportCommand)
+    Clean: 80db7357 Dirty: a7b6b12b
+  Processing net/minecraft/server/level/ChunkGenerationTask$net/minecraft/server/level/ChunkGenerationTask(net/minecraft/server/level/ChunkGenerationTask)
+    Clean: c95bf3db Dirty: 77ed1a74
+  Processing net/minecraft/server/level/ChunkMap$TrackedEntity
+    Clean: fc0fbc1d Dirty: c54f0ab6
+  Processing net/minecraft/server/level/ChunkMap$DistanceManager
+    Clean: 58cbaa07 Dirty: df77ed6a
+  Processing net/minecraft/server/level/ChunkMap$net/minecraft/server/level/ChunkMap(net/minecraft/server/level/ChunkMap)
+    Clean: ff4844ac Dirty: 8beb3a1d
+  Processing net/minecraft/server/level/ChunkTaskDispatcher$net/minecraft/server/level/ChunkTaskDispatcher(net/minecraft/server/level/ChunkTaskDispatcher)
+    Clean: aa0d0899 Dirty: 2edd9df1
+  Processing net/minecraft/server/level/ChunkTaskPriorityQueue$net/minecraft/server/level/ChunkTaskPriorityQueue(net/minecraft/server/level/ChunkTaskPriorityQueue)
+    Clean: 920174df Dirty: 8582cc93
+  Processing net/minecraft/server/level/ChunkTaskPriorityQueue$TasksForChunk
+    Clean: e01bf4a2 Dirty: aa8626ab
+  Processing net/minecraft/server/level/ChunkTracker$net/minecraft/server/level/ChunkTracker(net/minecraft/server/level/ChunkTracker)
+    Clean: b5d178a3 Dirty: 444079fd
+  Processing net/minecraft/server/level/ChunkTrackingView$Positioned
+    Clean: 5b04157c Dirty: e8def7a9
+  Processing net/minecraft/server/level/ChunkTrackingView$1
+    Clean: 8119df1c Dirty: 8cad0648
+  Processing net/minecraft/server/level/ChunkTrackingView$net/minecraft/server/level/ChunkTrackingView(net/minecraft/server/level/ChunkTrackingView)
+    Clean: 389e5d5f Dirty: 3b74bccc
+  Processing net/minecraft/server/level/ColumnPos$net/minecraft/server/level/ColumnPos(net/minecraft/server/level/ColumnPos)
+    Clean: c1ac047b Dirty: 655465a0
+  Processing net/minecraft/server/level/DistanceManager$ChunkTicketTracker
+    Clean: 52887628 Dirty: b9c50528
+  Processing net/minecraft/server/level/DistanceManager$FixedPlayerDistanceChunkTracker
+    Clean: 46b0baa9 Dirty: bf84c499
+  Processing net/minecraft/server/level/DistanceManager$net/minecraft/server/level/DistanceManager(net/minecraft/server/level/DistanceManager)
+    Clean: b9c59c87 Dirty: 7c3bf69d
+  Processing net/minecraft/server/level/DistanceManager$PlayerTicketTracker
+    Clean: 8f9fb39 Dirty: 249131e8
+  Processing net/minecraft/server/level/GeneratingChunkMap$net/minecraft/server/level/GeneratingChunkMap(net/minecraft/server/level/GeneratingChunkMap)
+    Clean: 24145996 Dirty: a57671d
+  Processing net/minecraft/server/level/GenerationChunkHolder$net/minecraft/server/level/GenerationChunkHolder(net/minecraft/server/level/GenerationChunkHolder)
+    Clean: 10fb48eb Dirty: 56fdcb29
+  Processing net/minecraft/server/level/PlayerRespawnLogic$net/minecraft/server/level/PlayerRespawnLogic(net/minecraft/server/level/PlayerRespawnLogic)
+    Clean: 46839468 Dirty: a07aacbc
+  Processing net/minecraft/server/level/SectionTracker$net/minecraft/server/level/SectionTracker(net/minecraft/server/level/SectionTracker)
+    Clean: c3d34f39 Dirty: d25b479e
+  Processing net/minecraft/server/level/ServerChunkCache$MainThreadExecutor
+    Clean: 50b30427 Dirty: 643fffb2
+  Processing net/minecraft/server/level/ServerChunkCache$ChunkAndHolder
+    Clean: 18e8f5ff Dirty: 43df10c
+  Processing net/minecraft/server/level/ServerChunkCache$net/minecraft/server/level/ServerChunkCache(net/minecraft/server/level/ServerChunkCache)
+    Clean: f97fa515 Dirty: 7e3b705
+  Processing net/minecraft/server/level/ServerEntity$net/minecraft/server/level/ServerEntity(net/minecraft/server/level/ServerEntity)
+    Clean: 31764844 Dirty: 964ef8bb
+  Processing net/minecraft/server/level/ServerLevel$1
+    Clean: 611af82e Dirty: 2f70fef6
+  Processing net/minecraft/server/level/ServerLevel$EntityCallbacks
+    Clean: 5a169b2f Dirty: 8e39c1b6
+  Processing net/minecraft/server/level/ServerLevel$net/minecraft/server/level/ServerLevel(net/minecraft/server/level/ServerLevel)
+    Clean: 84c7e62e Dirty: d8d04f3b
+  Processing net/minecraft/server/level/ServerPlayer$1
+    Clean: e36b9544 Dirty: 5be69185
+  Processing net/minecraft/server/level/ServerPlayer$2
+    Clean: 57844d7 Dirty: e1ee32c0
+  Processing net/minecraft/server/level/ServerPlayer$3
+    Clean: cf6c76ee Dirty: 1f3473b8
+  Processing net/minecraft/server/level/ServerPlayer$net/minecraft/server/level/ServerPlayer(net/minecraft/server/level/ServerPlayer)
+    Clean: cb456907 Dirty: a7d0a687
+  Processing net/minecraft/server/level/ServerPlayer$RespawnPosAngle
+    Clean: 888d9506 Dirty: 3f06a412
+  Processing net/minecraft/server/level/ThreadedLevelLightEngine$net/minecraft/server/level/ThreadedLevelLightEngine(net/minecraft/server/level/ThreadedLevelLightEngine)
+    Clean: 37d80959 Dirty: c39de4ae
+  Processing net/minecraft/server/level/ThreadedLevelLightEngine$TaskType
+    Clean: af535984 Dirty: 4b6059c3
+  Processing net/minecraft/server/level/ThrottlingChunkTaskDispatcher$net/minecraft/server/level/ThrottlingChunkTaskDispatcher(net/minecraft/server/level/ThrottlingChunkTaskDispatcher)
+    Clean: 66f48cdf Dirty: d77ba3eb
+  Processing net/minecraft/server/level/TicketType$net/minecraft/server/level/TicketType(net/minecraft/server/level/TicketType)
+    Clean: 61eed50f Dirty: d3f2a19a
+  Processing net/minecraft/server/level/TickingTracker$net/minecraft/server/level/TickingTracker(net/minecraft/server/level/TickingTracker)
+    Clean: ce770c85 Dirty: be1b5a50
+  Processing net/minecraft/server/level/WorldGenRegion$net/minecraft/server/level/WorldGenRegion(net/minecraft/server/level/WorldGenRegion)
+    Clean: 327750d8 Dirty: f862d537
+  Processing net/minecraft/server/level/progress/StoringChunkProgressListener$net/minecraft/server/level/progress/StoringChunkProgressListener(net/minecraft/server/level/progress/StoringChunkProgressListener)
+    Clean: 14669636 Dirty: da19d4f4
+  Processing net/minecraft/server/network/PlayerChunkSender$net/minecraft/server/network/PlayerChunkSender(net/minecraft/server/network/PlayerChunkSender)
+    Clean: 64ba51ac Dirty: c00efc70
+  Processing net/minecraft/server/network/ServerGamePacketListenerImpl$net/minecraft/server/network/ServerGamePacketListenerImpl(net/minecraft/server/network/ServerGamePacketListenerImpl)
+    Clean: 9b7b65ef Dirty: 6220ab7a
+  Processing net/minecraft/server/network/ServerGamePacketListenerImpl$1
+    Clean: 14e6022e Dirty: 2167f668
+  Processing net/minecraft/server/network/ServerGamePacketListenerImpl$2
+    Clean: d638c2f6 Dirty: 442bc7da
+  Processing net/minecraft/server/network/ServerGamePacketListenerImpl$EntityInteraction
+    Clean: faaab298 Dirty: 5c86b29c
+  Processing net/minecraft/server/players/PlayerList$net/minecraft/server/players/PlayerList(net/minecraft/server/players/PlayerList)
+    Clean: e00a8758 Dirty: b193fb6
+  Processing net/minecraft/server/players/PlayerList$1
+    Clean: bf526ff4 Dirty: d29f6976
+  Processing net/minecraft/server/rcon/RconConsoleSource$net/minecraft/server/rcon/RconConsoleSource(net/minecraft/server/rcon/RconConsoleSource)
+    Clean: fa81b707 Dirty: 3eb2bfac
+  Processing net/minecraft/util/CubicSampler$net/minecraft/util/CubicSampler(net/minecraft/util/CubicSampler)
+    Clean: 8afab6b0 Dirty: 270fce0f
+  Processing net/minecraft/util/CubicSampler$Vec3Fetcher
+    Clean: 98fe62ea Dirty: 6af162ee
+  Processing net/minecraft/util/LinearCongruentialGenerator$net/minecraft/util/LinearCongruentialGenerator(net/minecraft/util/LinearCongruentialGenerator)
+    Clean: 43c6755b Dirty: f67074b9
+  Processing net/minecraft/util/Mth$net/minecraft/util/Mth(net/minecraft/util/Mth)
+    Clean: 74b23955 Dirty: 8d4a0ef7
+  Processing net/minecraft/util/StaticCache2D$Initializer
+    Clean: 624b719c Dirty: ade7a633
+  Processing net/minecraft/util/StaticCache2D$net/minecraft/util/StaticCache2D(net/minecraft/util/StaticCache2D)
+    Clean: 22038659 Dirty: d467e0e3
+  Processing net/minecraft/util/profiling/jfr/event/ChunkGenerationEvent
+    Clean: fb4d855b Dirty: 301bbe63
+  Processing net/minecraft/util/profiling/jfr/event/ChunkGenerationEvent$Fields
+    Clean: 9249ba00 Dirty: 56d1b980
+  Processing net/minecraft/util/profiling/jfr/event/ChunkRegionIoEvent$Fields
+    Clean: ed9dbc4 Dirty: 1877da2e
+  Processing net/minecraft/util/profiling/jfr/event/ChunkRegionIoEvent$net/minecraft/util/profiling/jfr/event/ChunkRegionIoEvent(net/minecraft/util/profiling/jfr/event/ChunkRegionIoEvent)
+    Clean: 20b2876 Dirty: a5985265
+  Processing net/minecraft/util/profiling/jfr/event/StructureGenerationEvent
+    Clean: d80bbe1f Dirty: 847ad07e
+  Processing net/minecraft/util/profiling/jfr/event/StructureGenerationEvent$Fields
+    Clean: e1b785e9 Dirty: a93885a2
+  Processing net/minecraft/util/profiling/jfr/serialize/JfrResultJsonSerializer$net/minecraft/util/profiling/jfr/serialize/JfrResultJsonSerializer(net/minecraft/util/profiling/jfr/serialize/JfrResultJsonSerializer)
+    Clean: 8383f4e0 Dirty: 3922ae5
+  Processing net/minecraft/util/profiling/jfr/stats/ChunkGenStat$net/minecraft/util/profiling/jfr/stats/ChunkGenStat(net/minecraft/util/profiling/jfr/stats/ChunkGenStat)
+    Clean: c04f79b6 Dirty: d93e7f84
+  Processing net/minecraft/world/Containers$net/minecraft/world/Containers(net/minecraft/world/Containers)
+    Clean: dfadd27 Dirty: 836cf754
+  Processing net/minecraft/world/entity/Entity$1
+    Clean: 51cb1dde Dirty: 3bca2523
+  Processing net/minecraft/world/entity/Entity$MoveFunction
+    Clean: 8b6466ed Dirty: 19dc66f1
+  Processing net/minecraft/world/entity/Entity$Movement
+    Clean: 3f3c962c Dirty: c1ac963e
+  Processing net/minecraft/world/entity/Entity$RemovalReason
+    Clean: 3f6f857c Dirty: 92808922
+  Processing net/minecraft/world/entity/Entity$MovementEmission
+    Clean: 9ea889fb Dirty: 9cc78cb7
+  Processing net/minecraft/world/entity/Entity$net/minecraft/world/entity/Entity(net/minecraft/world/entity/Entity)
+    Clean: 3465d640 Dirty: 8f8296da
+  Processing net/minecraft/world/entity/EntityType$Builder
+    Clean: 385feea9 Dirty: d8734ce7
+  Processing net/minecraft/world/entity/EntityType$1
+    Clean: 4a2d0ee5 Dirty: cb45017f
+  Processing net/minecraft/world/entity/EntityType$EntityFactory
+    Clean: 47d2bf6d Dirty: 6bc0bf6c
+  Processing net/minecraft/world/entity/EntityType$net/minecraft/world/entity/EntityType(net/minecraft/world/entity/EntityType)
+    Clean: f4b0544c Dirty: ddb2c4d9
+  Processing net/minecraft/world/entity/LivingEntity$net/minecraft/world/entity/LivingEntity(net/minecraft/world/entity/LivingEntity)
+    Clean: 76c41de3 Dirty: ab50978d
+  Processing net/minecraft/world/entity/LivingEntity$1
+    Clean: d3b45727 Dirty: ed175dd5
+  Processing net/minecraft/world/entity/LivingEntity$Fallsounds
+    Clean: d5f1b3b1 Dirty: 885dafcc
+  Processing net/minecraft/world/entity/PositionMoveRotation$net/minecraft/world/entity/PositionMoveRotation(net/minecraft/world/entity/PositionMoveRotation)
+    Clean: 76a64acc Dirty: f2da16ee
+  Processing net/minecraft/world/entity/ai/behavior/AcquirePoi$JitteredLinearRetry
+    Clean: a91f5ef Dirty: f252f1e1
+  Processing net/minecraft/world/entity/ai/behavior/AcquirePoi$net/minecraft/world/entity/ai/behavior/AcquirePoi(net/minecraft/world/entity/ai/behavior/AcquirePoi)
+    Clean: 1860c6ba Dirty: 169faa24
+  Processing net/minecraft/world/entity/ai/behavior/HarvestFarmland$net/minecraft/world/entity/ai/behavior/HarvestFarmland(net/minecraft/world/entity/ai/behavior/HarvestFarmland)
+    Clean: 7fa91ec2 Dirty: a4c05dcd
+  Processing net/minecraft/world/entity/ai/behavior/LongJumpToRandomPos$net/minecraft/world/entity/ai/behavior/LongJumpToRandomPos(net/minecraft/world/entity/ai/behavior/LongJumpToRandomPos)
+    Clean: 2f0fff65 Dirty: 8892155b
+  Processing net/minecraft/world/entity/ai/behavior/LongJumpToRandomPos$PossibleJump
+    Clean: 3b9ce72b Dirty: 7d39e6b8
+  Processing net/minecraft/world/entity/ai/behavior/RamTarget$net/minecraft/world/entity/ai/behavior/RamTarget(net/minecraft/world/entity/ai/behavior/RamTarget)
+    Clean: 499f748c Dirty: 78a4beab
+  Processing net/minecraft/world/entity/ai/behavior/SetClosestHomeAsWalkTarget$net/minecraft/world/entity/ai/behavior/SetClosestHomeAsWalkTarget(net/minecraft/world/entity/ai/behavior/SetClosestHomeAsWalkTarget)
+    Clean: 67b04b6 Dirty: 7a16248d
+  Processing net/minecraft/world/entity/ai/goal/BreathAirGoal$net/minecraft/world/entity/ai/goal/BreathAirGoal(net/minecraft/world/entity/ai/goal/BreathAirGoal)
+    Clean: 30e97afd Dirty: 1fa5174d
+  Processing net/minecraft/world/entity/ai/goal/DoorInteractGoal$net/minecraft/world/entity/ai/goal/DoorInteractGoal(net/minecraft/world/entity/ai/goal/DoorInteractGoal)
+    Clean: 9a7f6b3b Dirty: 3133da74
+  Processing net/minecraft/world/entity/ai/goal/FollowBoatGoal$net/minecraft/world/entity/ai/goal/FollowBoatGoal(net/minecraft/world/entity/ai/goal/FollowBoatGoal)
+    Clean: c529fc3d Dirty: 4144e4e
+  Processing net/minecraft/world/entity/ai/goal/MoveThroughVillageGoal$net/minecraft/world/entity/ai/goal/MoveThroughVillageGoal(net/minecraft/world/entity/ai/goal/MoveThroughVillageGoal)
+    Clean: 9d951e7d Dirty: ea8b6890
+  Processing net/minecraft/world/entity/ai/goal/MoveToBlockGoal$net/minecraft/world/entity/ai/goal/MoveToBlockGoal(net/minecraft/world/entity/ai/goal/MoveToBlockGoal)
+    Clean: af243d9f Dirty: 731a8172
+  Processing net/minecraft/world/entity/ai/goal/PanicGoal$net/minecraft/world/entity/ai/goal/PanicGoal(net/minecraft/world/entity/ai/goal/PanicGoal)
+    Clean: f6f5396f Dirty: 47188bef
+  Processing net/minecraft/world/entity/ai/goal/RemoveBlockGoal$net/minecraft/world/entity/ai/goal/RemoveBlockGoal(net/minecraft/world/entity/ai/goal/RemoveBlockGoal)
+    Clean: b92e020d Dirty: f6b17825
+  Processing net/minecraft/world/entity/ai/goal/StrollThroughVillageGoal$net/minecraft/world/entity/ai/goal/StrollThroughVillageGoal(net/minecraft/world/entity/ai/goal/StrollThroughVillageGoal)
+    Clean: 5dcbe794 Dirty: 12ee27a5
+  Processing net/minecraft/world/entity/ai/goal/TryFindWaterGoal$net/minecraft/world/entity/ai/goal/TryFindWaterGoal(net/minecraft/world/entity/ai/goal/TryFindWaterGoal)
+    Clean: a33949fb Dirty: b0ecc331
+  Processing net/minecraft/world/entity/ai/goal/target/TargetGoal$net/minecraft/world/entity/ai/goal/target/TargetGoal(net/minecraft/world/entity/ai/goal/target/TargetGoal)
+    Clean: 7e4ff4ec Dirty: ed286ab3
+  Processing net/minecraft/world/entity/ai/navigation/FlyingPathNavigation$net/minecraft/world/entity/ai/navigation/FlyingPathNavigation(net/minecraft/world/entity/ai/navigation/FlyingPathNavigation)
+    Clean: 7a8eae35 Dirty: 4ad5f636
+  Processing net/minecraft/world/entity/ai/navigation/GroundPathNavigation$net/minecraft/world/entity/ai/navigation/GroundPathNavigation(net/minecraft/world/entity/ai/navigation/GroundPathNavigation)
+    Clean: 1d5e4241 Dirty: 7dae00aa
+  Processing net/minecraft/world/entity/ai/navigation/PathNavigation$net/minecraft/world/entity/ai/navigation/PathNavigation(net/minecraft/world/entity/ai/navigation/PathNavigation)
+    Clean: b9b97b27 Dirty: 1973ae6f
+  Processing net/minecraft/world/entity/ai/navigation/WallClimberNavigation$net/minecraft/world/entity/ai/navigation/WallClimberNavigation(net/minecraft/world/entity/ai/navigation/WallClimberNavigation)
+    Clean: 62058674 Dirty: 836fc4e0
+  Processing net/minecraft/world/entity/ai/sensing/NearestBedSensor$net/minecraft/world/entity/ai/sensing/NearestBedSensor(net/minecraft/world/entity/ai/sensing/NearestBedSensor)
+    Clean: e722376 Dirty: 9c787733
+  Processing net/minecraft/world/entity/ai/util/RandomPos$net/minecraft/world/entity/ai/util/RandomPos(net/minecraft/world/entity/ai/util/RandomPos)
+    Clean: af4cb2fd Dirty: d6053b80
+  Processing net/minecraft/world/entity/ai/village/VillageSiege$net/minecraft/world/entity/ai/village/VillageSiege(net/minecraft/world/entity/ai/village/VillageSiege)
+    Clean: a87b89c9 Dirty: e1611fbd
+  Processing net/minecraft/world/entity/ai/village/VillageSiege$State
+    Clean: 99c750f0 Dirty: df752bb
+  Processing net/minecraft/world/entity/ai/village/poi/PoiManager$DistanceTracker
+    Clean: 62f46571 Dirty: b426fa5d
+  Processing net/minecraft/world/entity/ai/village/poi/PoiManager$Occupancy
+    Clean: 1c77f909 Dirty: 6badeecc
+  Processing net/minecraft/world/entity/ai/village/poi/PoiManager$net/minecraft/world/entity/ai/village/poi/PoiManager(net/minecraft/world/entity/ai/village/poi/PoiManager)
+    Clean: 78188635 Dirty: def1f8cc
+  Processing net/minecraft/world/entity/ambient/Bat$net/minecraft/world/entity/ambient/Bat(net/minecraft/world/entity/ambient/Bat)
+    Clean: 3f0a93b6 Dirty: 3446d84c
+  Processing net/minecraft/world/entity/animal/Bee$BeeWanderGoal
+    Clean: 37749474 Dirty: cb34a3e8
+  Processing net/minecraft/world/entity/animal/Bee$BeeHurtByOtherGoal
+    Clean: 537479b1 Dirty: 18fd7776
+  Processing net/minecraft/world/entity/animal/Bee$BeeGoToKnownFlowerGoal
+    Clean: 7f0cc96e Dirty: b2e6d063
+  Processing net/minecraft/world/entity/animal/Bee$BeeBecomeAngryTargetGoal
+    Clean: 65e1dea5 Dirty: 3705e7c8
+  Processing net/minecraft/world/entity/animal/Bee$BeeLookControl
+    Clean: ba432ac8 Dirty: 922f2850
+  Processing net/minecraft/world/entity/animal/Bee$BeeLocateHiveGoal
+    Clean: 876100fb Dirty: d74602cb
+  Processing net/minecraft/world/entity/animal/Bee$1
+    Clean: fa54fa08 Dirty: 2a0ff434
+  Processing net/minecraft/world/entity/animal/Bee$BaseBeeGoal
+    Clean: 129bc83c Dirty: 9ba6c865
+  Processing net/minecraft/world/entity/animal/Bee$BeeGoToHiveGoal
+    Clean: 6ff49949 Dirty: 232c8e78
+  Processing net/minecraft/world/entity/animal/Bee$BeeAttackGoal
+    Clean: f23f0c32 Dirty: d2230ab5
+  Processing net/minecraft/world/entity/animal/Bee$BeeGrowCropGoal
+    Clean: b0513427 Dirty: 43184c2e
+  Processing net/minecraft/world/entity/animal/Bee$BeePollinateGoal
+    Clean: bebdb2bf Dirty: 5bafbdef
+  Processing net/minecraft/world/entity/animal/Bee$BeeEnterHiveGoal
+    Clean: 53b785c8 Dirty: 628f8ab1
+  Processing net/minecraft/world/entity/animal/Bee$ValidateFlowerGoal
+    Clean: fea6daac Dirty: c7ffd337
+  Processing net/minecraft/world/entity/animal/Bee$ValidateHiveGoal
+    Clean: 175284ac Dirty: ba1781db
+  Processing net/minecraft/world/entity/animal/Bee$net/minecraft/world/entity/animal/Bee(net/minecraft/world/entity/animal/Bee)
+    Clean: aa1648e2 Dirty: e5d25453
+  Processing net/minecraft/world/entity/animal/Cat$CatAvoidEntityGoal
+    Clean: e2f820a Dirty: b2847d4a
+  Processing net/minecraft/world/entity/animal/Cat$CatRelaxOnOwnerGoal
+    Clean: d6462085 Dirty: 17b06f63
+  Processing net/minecraft/world/entity/animal/Cat$CatTemptGoal
+    Clean: 881046f Dirty: 94960142
+  Processing net/minecraft/world/entity/animal/Cat$net/minecraft/world/entity/animal/Cat(net/minecraft/world/entity/animal/Cat)
+    Clean: f4a36f9d Dirty: 28970166
+  Processing net/minecraft/world/entity/animal/Dolphin$DolphinSwimWithPlayerGoal
+    Clean: 4aa3e1e0 Dirty: 3b96dd34
+  Processing net/minecraft/world/entity/animal/Dolphin$net/minecraft/world/entity/animal/Dolphin(net/minecraft/world/entity/animal/Dolphin)
+    Clean: 88eab705 Dirty: bac0c032
+  Processing net/minecraft/world/entity/animal/Dolphin$DolphinSwimToTreasureGoal
+    Clean: 51a194bb Dirty: ed4ff41e
+  Processing net/minecraft/world/entity/animal/Dolphin$PlayWithItemsGoal
+    Clean: be14a975 Dirty: 918caf5e
+  Processing net/minecraft/world/entity/animal/Parrot$1
+    Clean: 193e209b Dirty: 554f2038
+  Processing net/minecraft/world/entity/animal/Parrot$ParrotWanderGoal
+    Clean: 4f150f44 Dirty: 8aec6b3f
+  Processing net/minecraft/world/entity/animal/Parrot$Variant
+    Clean: 5464ecfc Dirty: 7f94eb66
+  Processing net/minecraft/world/entity/animal/Parrot$net/minecraft/world/entity/animal/Parrot(net/minecraft/world/entity/animal/Parrot)
+    Clean: 68e68fb6 Dirty: c31de4cd
+  Processing net/minecraft/world/entity/animal/Pig$net/minecraft/world/entity/animal/Pig(net/minecraft/world/entity/animal/Pig)
+    Clean: 776f2296 Dirty: 8ef02a27
+  Processing net/minecraft/world/entity/animal/Rabbit$RabbitGroupData
+    Clean: 3685df8a Dirty: 7235df3d
+  Processing net/minecraft/world/entity/animal/Rabbit$Variant
+    Clean: e906c2b6 Dirty: a9f9bb91
+  Processing net/minecraft/world/entity/animal/Rabbit$RabbitPanicGoal
+    Clean: 84cad228 Dirty: 2a68d0dc
+  Processing net/minecraft/world/entity/animal/Rabbit$RabbitAvoidEntityGoal
+    Clean: 1618a63d Dirty: 9138a71a
+  Processing net/minecraft/world/entity/animal/Rabbit$net/minecraft/world/entity/animal/Rabbit(net/minecraft/world/entity/animal/Rabbit)
+    Clean: 564ca263 Dirty: 5933f345
+  Processing net/minecraft/world/entity/animal/Rabbit$RabbitMoveControl
+    Clean: 8e99b3c0 Dirty: fd32bfc1
+  Processing net/minecraft/world/entity/animal/Rabbit$RaidGardenGoal
+    Clean: 796ac6f0 Dirty: f9f3f5f8
+  Processing net/minecraft/world/entity/animal/Rabbit$RabbitJumpControl
+    Clean: 20c4eae0 Dirty: e640ed90
+  Processing net/minecraft/world/entity/animal/Turtle$TurtleLayEggGoal
+    Clean: eca13f98 Dirty: d60945a7
+  Processing net/minecraft/world/entity/animal/Turtle$TurtlePanicGoal
+    Clean: 50596c06 Dirty: 41899450
+  Processing net/minecraft/world/entity/animal/Turtle$TurtleGoToWaterGoal
+    Clean: 7f1e1014 Dirty: 47f30db2
+  Processing net/minecraft/world/entity/animal/Turtle$TurtleGoHomeGoal
+    Clean: eb8965bb Dirty: f11b7908
+  Processing net/minecraft/world/entity/animal/Turtle$TurtleTravelGoal
+    Clean: aa1f2997 Dirty: d23a9b66
+  Processing net/minecraft/world/entity/animal/Turtle$TurtleMoveControl
+    Clean: a612333c Dirty: cda126bd
+  Processing net/minecraft/world/entity/animal/Turtle$net/minecraft/world/entity/animal/Turtle(net/minecraft/world/entity/animal/Turtle)
+    Clean: cc59795b Dirty: 3f79bf3d
+  Processing net/minecraft/world/entity/animal/Turtle$TurtleRandomStrollGoal
+    Clean: 147d10cb Dirty: 29fb0eaa
+  Processing net/minecraft/world/entity/animal/Turtle$TurtlePathNavigation
+    Clean: 3b5acfd5 Dirty: d72ecd67
+  Processing net/minecraft/world/entity/animal/Turtle$TurtleBreedGoal
+    Clean: 1e65adc Dirty: 50d6796
+  Processing net/minecraft/world/entity/animal/allay/Allay$JukeboxListener
+    Clean: 9acbfa6a Dirty: 71c2ec3e
+  Processing net/minecraft/world/entity/animal/allay/Allay$VibrationUser
+    Clean: fd2abd24 Dirty: 16dabf74
+  Processing net/minecraft/world/entity/animal/allay/Allay$net/minecraft/world/entity/animal/allay/Allay(net/minecraft/world/entity/animal/allay/Allay)
+    Clean: 4518366e Dirty: e36d5c62
+  Processing net/minecraft/world/entity/animal/frog/Frog$FrogPathNavigation
+    Clean: e690c43f Dirty: 3a1fc3b2
+  Processing net/minecraft/world/entity/animal/frog/Frog$FrogNodeEvaluator
+    Clean: 72e1a478 Dirty: 96800069
+  Processing net/minecraft/world/entity/animal/frog/Frog$FrogLookControl
+    Clean: 574bfd62 Dirty: acb3fef9
+  Processing net/minecraft/world/entity/animal/frog/Frog$net/minecraft/world/entity/animal/frog/Frog(net/minecraft/world/entity/animal/frog/Frog)
+    Clean: e3f926f6 Dirty: 9dad8748
+  Processing net/minecraft/world/entity/boss/enderdragon/EnderDragon$net/minecraft/world/entity/boss/enderdragon/EnderDragon(net/minecraft/world/entity/boss/enderdragon/EnderDragon)
+    Clean: 1280552f Dirty: 39722d3a
+  Processing net/minecraft/world/entity/boss/enderdragon/phases/DragonHoldingPatternPhase$net/minecraft/world/entity/boss/enderdragon/phases/DragonHoldingPatternPhase(net/minecraft/world/entity/boss/enderdragon/phases/DragonHoldingPatternPhase)
+    Clean: 709aaa02 Dirty: ff42da81
+  Processing net/minecraft/world/entity/boss/enderdragon/phases/DragonLandingApproachPhase$net/minecraft/world/entity/boss/enderdragon/phases/DragonLandingApproachPhase(net/minecraft/world/entity/boss/enderdragon/phases/DragonLandingApproachPhase)
+    Clean: b5a5fbb5 Dirty: 55805de0
+  Processing net/minecraft/world/entity/boss/enderdragon/phases/DragonStrafePlayerPhase$net/minecraft/world/entity/boss/enderdragon/phases/DragonStrafePlayerPhase(net/minecraft/world/entity/boss/enderdragon/phases/DragonStrafePlayerPhase)
+    Clean: 5708cb27 Dirty: ffab14f8
+  Processing net/minecraft/world/entity/boss/enderdragon/phases/DragonTakeoffPhase$net/minecraft/world/entity/boss/enderdragon/phases/DragonTakeoffPhase(net/minecraft/world/entity/boss/enderdragon/phases/DragonTakeoffPhase)
+    Clean: 9adff322 Dirty: 6e14010a
+  Processing net/minecraft/world/entity/boss/wither/WitherBoss$WitherDoNothingGoal
+    Clean: 2a593448 Dirty: f8293461
+  Processing net/minecraft/world/entity/boss/wither/WitherBoss$net/minecraft/world/entity/boss/wither/WitherBoss(net/minecraft/world/entity/boss/wither/WitherBoss)
+    Clean: 703d0a8c Dirty: 10566496
+  Processing net/minecraft/world/entity/decoration/LeashFenceKnotEntity$net/minecraft/world/entity/decoration/LeashFenceKnotEntity(net/minecraft/world/entity/decoration/LeashFenceKnotEntity)
+    Clean: 6e1ee778 Dirty: 9a302230
+  Processing net/minecraft/world/entity/decoration/Painting$net/minecraft/world/entity/decoration/Painting(net/minecraft/world/entity/decoration/Painting)
+    Clean: 8649f89c Dirty: cc66de06
+  Processing net/minecraft/world/entity/item/FallingBlockEntity$net/minecraft/world/entity/item/FallingBlockEntity(net/minecraft/world/entity/item/FallingBlockEntity)
+    Clean: 9d436a25 Dirty: 159dfef5
+  Processing net/minecraft/world/entity/monster/EnderMan$EndermanLookForPlayerGoal
+    Clean: 910041c2 Dirty: 8c9e269d
+  Processing net/minecraft/world/entity/monster/EnderMan$net/minecraft/world/entity/monster/EnderMan(net/minecraft/world/entity/monster/EnderMan)
+    Clean: bd938c4a Dirty: e1d7c222
+  Processing net/minecraft/world/entity/monster/EnderMan$EndermanLeaveBlockGoal
+    Clean: 7dbae1a3 Dirty: fe140f15
+  Processing net/minecraft/world/entity/monster/EnderMan$EndermanFreezeWhenLookedAt
+    Clean: 24f745bc Dirty: f984b8c
+  Processing net/minecraft/world/entity/monster/EnderMan$EndermanTakeBlockGoal
+    Clean: b8c96cbc Dirty: 49887f9b
+  Processing net/minecraft/world/entity/monster/Evoker$net/minecraft/world/entity/monster/Evoker(net/minecraft/world/entity/monster/Evoker)
+    Clean: 25041c68 Dirty: c08f0bb4
+  Processing net/minecraft/world/entity/monster/Evoker$EvokerSummonSpellGoal
+    Clean: ccbef073 Dirty: 8ade036b
+  Processing net/minecraft/world/entity/monster/Evoker$EvokerCastingSpellGoal
+    Clean: e22c9d49 Dirty: fcdd9dcc
+  Processing net/minecraft/world/entity/monster/Evoker$EvokerAttackSpellGoal
+    Clean: ea831267 Dirty: 6d002b14
+  Processing net/minecraft/world/entity/monster/Evoker$EvokerWololoSpellGoal
+    Clean: 350b9f36 Dirty: 12eda339
+  Processing net/minecraft/world/entity/monster/PatrollingMonster$net/minecraft/world/entity/monster/PatrollingMonster(net/minecraft/world/entity/monster/PatrollingMonster)
+    Clean: ee6e2c59 Dirty: 9c1c6fef
+  Processing net/minecraft/world/entity/monster/PatrollingMonster$LongDistancePatrolGoal
+    Clean: d9de2f70 Dirty: 522791c0
+  Processing net/minecraft/world/entity/monster/Phantom$PhantomMoveTargetGoal
+    Clean: 36f4733 Dirty: 19304933
+  Processing net/minecraft/world/entity/monster/Phantom$PhantomMoveControl
+    Clean: 9bfca96f Dirty: 8cf4b55d
+  Processing net/minecraft/world/entity/monster/Phantom$PhantomLookControl
+    Clean: 408aa6db Dirty: e917a7c6
+  Processing net/minecraft/world/entity/monster/Phantom$PhantomBodyRotationControl
+    Clean: 804704e2 Dirty: 918505c1
+  Processing net/minecraft/world/entity/monster/Phantom$PhantomSweepAttackGoal
+    Clean: 52664a38 Dirty: 62f25646
+  Processing net/minecraft/world/entity/monster/Phantom$PhantomAttackStrategyGoal
+    Clean: 50ad222 Dirty: df76c8cc
+  Processing net/minecraft/world/entity/monster/Phantom$net/minecraft/world/entity/monster/Phantom(net/minecraft/world/entity/monster/Phantom)
+    Clean: 4f8af55 Dirty: 78c1e0b9
+  Processing net/minecraft/world/entity/monster/Phantom$PhantomCircleAroundAnchorGoal
+    Clean: 685966cf Dirty: c78e69ec
+  Processing net/minecraft/world/entity/monster/Phantom$AttackPhase
+    Clean: ebbc3d43 Dirty: 8e0440b6
+  Processing net/minecraft/world/entity/monster/Phantom$PhantomAttackPlayerTargetGoal
+    Clean: 6f296806 Dirty: bb518fbe
+  Processing net/minecraft/world/entity/monster/Ravager$net/minecraft/world/entity/monster/Ravager(net/minecraft/world/entity/monster/Ravager)
+    Clean: 81ede0f9 Dirty: 1a8b1ccd
+  Processing net/minecraft/world/entity/monster/Shulker$ShulkerDefenseAttackGoal
+    Clean: a489684d Dirty: d0c36c8c
+  Processing net/minecraft/world/entity/monster/Shulker$ShulkerBodyRotationControl
+    Clean: d037b7c6 Dirty: b2bcb7b1
+  Processing net/minecraft/world/entity/monster/Shulker$ShulkerAttackGoal
+    Clean: 20bcc876 Dirty: 56ebc284
+  Processing net/minecraft/world/entity/monster/Shulker$ShulkerLookControl
+    Clean: e37ca3f3 Dirty: 955ebbd0
+  Processing net/minecraft/world/entity/monster/Shulker$ShulkerPeekGoal
+    Clean: 6d28a1a7 Dirty: f99ca660
+  Processing net/minecraft/world/entity/monster/Shulker$ShulkerNearestAttackGoal
+    Clean: cf396b58 Dirty: 211f6d21
+  Processing net/minecraft/world/entity/monster/Shulker$net/minecraft/world/entity/monster/Shulker(net/minecraft/world/entity/monster/Shulker)
+    Clean: bb1d0c58 Dirty: 1b359d20
+  Processing net/minecraft/world/entity/monster/Slime$SlimeAttackGoal
+    Clean: 677436d0 Dirty: b1ce36e8
+  Processing net/minecraft/world/entity/monster/Slime$SlimeFloatGoal
+    Clean: fcf327e8 Dirty: 966367e
+  Processing net/minecraft/world/entity/monster/Slime$net/minecraft/world/entity/monster/Slime(net/minecraft/world/entity/monster/Slime)
+    Clean: 3e119587 Dirty: f406b8be
+  Processing net/minecraft/world/entity/monster/Slime$SlimeKeepOnJumpingGoal
+    Clean: ac4b7a1f Dirty: ec4d85a8
+  Processing net/minecraft/world/entity/monster/Slime$SlimeMoveControl
+    Clean: c3ffa02a Dirty: 735faacb
+  Processing net/minecraft/world/entity/monster/Slime$SlimeRandomDirectionGoal
+    Clean: ddce1e5e Dirty: c4bf2491
+  Processing net/minecraft/world/entity/monster/Vex$net/minecraft/world/entity/monster/Vex(net/minecraft/world/entity/monster/Vex)
+    Clean: 79ed9bf0 Dirty: e33c56f
+  Processing net/minecraft/world/entity/monster/Vex$VexRandomMoveGoal
+    Clean: 8cb6d668 Dirty: 6ee50a11
+  Processing net/minecraft/world/entity/monster/Vex$VexMoveControl
+    Clean: 69df7ddc Dirty: d794782b
+  Processing net/minecraft/world/entity/monster/Vex$VexChargeAttackGoal
+    Clean: ecf1821c Dirty: 137a9a21
+  Processing net/minecraft/world/entity/monster/Vex$VexCopyOwnerTargetGoal
+    Clean: bae6e8d7 Dirty: 1655e56b
+  Processing net/minecraft/world/entity/monster/creaking/Creaking$CreakingBodyRotationControl
+    Clean: 9cf511fe Dirty: d0410a2
+  Processing net/minecraft/world/entity/monster/creaking/Creaking$CreakingLookControl
+    Clean: f3b4016d Dirty: 5ddf01af
+  Processing net/minecraft/world/entity/monster/creaking/Creaking$net/minecraft/world/entity/monster/creaking/Creaking(net/minecraft/world/entity/monster/creaking/Creaking)
+    Clean: ec26799c Dirty: d5a5f782
+  Processing net/minecraft/world/entity/monster/creaking/Creaking$CreakingMoveControl
+    Clean: 171b01b5 Dirty: 819c01f7
+  Processing net/minecraft/world/entity/monster/creaking/Creaking$CreakingPathNavigation
+    Clean: f471f84c Dirty: 93731488
+  Processing net/minecraft/world/entity/monster/creaking/Creaking$HomeNodeEvaluator
+    Clean: d0e8ce50 Dirty: 45a31a4c
+  Processing net/minecraft/world/entity/monster/creaking/Creaking$CreakingJumpControl
+    Clean: a0a00b1e Dirty: a1820a61
+  Processing net/minecraft/world/entity/npc/CatSpawner$net/minecraft/world/entity/npc/CatSpawner(net/minecraft/world/entity/npc/CatSpawner)
+    Clean: fa4a5769 Dirty: 1f4bd203
+  Processing net/minecraft/world/entity/npc/WanderingTrader$WanderToPositionGoal
+    Clean: 8254da70 Dirty: 1b1a0e29
+  Processing net/minecraft/world/entity/npc/WanderingTrader$net/minecraft/world/entity/npc/WanderingTrader(net/minecraft/world/entity/npc/WanderingTrader)
+    Clean: dbbf262 Dirty: ae405ba6
+  Processing net/minecraft/world/entity/player/Player$net/minecraft/world/entity/player/Player(net/minecraft/world/entity/player/Player)
+    Clean: fe8fe2e5 Dirty: 82085151
+  Processing net/minecraft/world/entity/player/Player$2
+    Clean: 61f3ae7f Dirty: cd24a7df
+  Processing net/minecraft/world/entity/player/Player$1
+    Clean: 25f73d63 Dirty: ab123807
+  Processing net/minecraft/world/entity/player/Player$BedSleepingProblem
+    Clean: 2c435cfe Dirty: 70425762
+  Processing net/minecraft/world/entity/projectile/AbstractArrow$net/minecraft/world/entity/projectile/AbstractArrow(net/minecraft/world/entity/projectile/AbstractArrow)
+    Clean: 218407dc Dirty: 35caedc3
+  Processing net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+    Clean: c38a86bb Dirty: 6b198af8
+  Processing net/minecraft/world/entity/projectile/AbstractHurtingProjectile$net/minecraft/world/entity/projectile/AbstractHurtingProjectile(net/minecraft/world/entity/projectile/AbstractHurtingProjectile)
+    Clean: 3bab3047 Dirty: f8b18f44
+  Processing net/minecraft/world/entity/projectile/EyeOfEnder$net/minecraft/world/entity/projectile/EyeOfEnder(net/minecraft/world/entity/projectile/EyeOfEnder)
+    Clean: 52ec997b Dirty: 205ec794
+  Processing net/minecraft/world/entity/projectile/FireworkRocketEntity$net/minecraft/world/entity/projectile/FireworkRocketEntity(net/minecraft/world/entity/projectile/FireworkRocketEntity)
+    Clean: f77578fa Dirty: 96df62eb
+  Processing net/minecraft/world/entity/projectile/ProjectileUtil$net/minecraft/world/entity/projectile/ProjectileUtil(net/minecraft/world/entity/projectile/ProjectileUtil)
+    Clean: fd6f26f6 Dirty: 2cf84799
+  Processing net/minecraft/world/entity/projectile/ShulkerBullet$net/minecraft/world/entity/projectile/ShulkerBullet(net/minecraft/world/entity/projectile/ShulkerBullet)
+    Clean: 3185182d Dirty: baf683d9
+  Processing net/minecraft/world/entity/projectile/ThrowableProjectile$net/minecraft/world/entity/projectile/ThrowableProjectile(net/minecraft/world/entity/projectile/ThrowableProjectile)
+    Clean: a9a68a18 Dirty: c9e4d900
+  Processing net/minecraft/world/entity/projectile/ThrownEnderpearl$net/minecraft/world/entity/projectile/ThrownEnderpearl(net/minecraft/world/entity/projectile/ThrownEnderpearl)
+    Clean: 2b038d09 Dirty: 313cc8fd
+  Processing net/minecraft/world/entity/projectile/ThrownTrident$net/minecraft/world/entity/projectile/ThrownTrident(net/minecraft/world/entity/projectile/ThrownTrident)
+    Clean: e4c56897 Dirty: 22a4d3e2
+  Processing net/minecraft/world/entity/projectile/windcharge/AbstractWindCharge$net/minecraft/world/entity/projectile/windcharge/AbstractWindCharge(net/minecraft/world/entity/projectile/windcharge/AbstractWindCharge)
+    Clean: 99c3aaaa Dirty: daba28d8
+  Processing net/minecraft/world/entity/projectile/windcharge/BreezeWindCharge$net/minecraft/world/entity/projectile/windcharge/BreezeWindCharge(net/minecraft/world/entity/projectile/windcharge/BreezeWindCharge)
+    Clean: e4c36e81 Dirty: e48770c2
+  Processing net/minecraft/world/entity/projectile/windcharge/WindCharge$net/minecraft/world/entity/projectile/windcharge/WindCharge(net/minecraft/world/entity/projectile/windcharge/WindCharge)
+    Clean: c162a4c1 Dirty: 91a7b58f
+  Processing net/minecraft/world/entity/raid/Raid$RaidStatus
+    Clean: 5a15acce Dirty: 710dad82
+  Processing net/minecraft/world/entity/raid/Raid$RaiderType
+    Clean: dc1113bb Dirty: df6a11d8
+  Processing net/minecraft/world/entity/raid/Raid$1
+    Clean: c30bacff Dirty: 9c13b3a4
+  Processing net/minecraft/world/entity/raid/Raid$net/minecraft/world/entity/raid/Raid(net/minecraft/world/entity/raid/Raid)
+    Clean: f29f25c5 Dirty: 494c0a3f
+  Processing net/minecraft/world/entity/raid/Raider$ObtainRaidLeaderBannerGoal
+    Clean: bdca7250 Dirty: e3d39497
+  Processing net/minecraft/world/entity/raid/Raider$RaiderMoveThroughVillageGoal
+    Clean: ebb7bf60 Dirty: 8915eaf1
+  Processing net/minecraft/world/entity/raid/Raider$net/minecraft/world/entity/raid/Raider(net/minecraft/world/entity/raid/Raider)
+    Clean: acecdefa Dirty: 7ce25667
+  Processing net/minecraft/world/entity/raid/Raider$RaiderCelebration
+    Clean: ac45986 Dirty: fa0d5d6e
+  Processing net/minecraft/world/entity/raid/Raider$HoldGroundAttackGoal
+    Clean: 943a11ae Dirty: f460dc43
+  Processing net/minecraft/world/entity/vehicle/AbstractChestBoat$net/minecraft/world/entity/vehicle/AbstractChestBoat(net/minecraft/world/entity/vehicle/AbstractChestBoat)
+    Clean: eea7659c Dirty: 56f3d4e9
+  Processing net/minecraft/world/entity/vehicle/AbstractMinecart$net/minecraft/world/entity/vehicle/AbstractMinecart(net/minecraft/world/entity/vehicle/AbstractMinecart)
+    Clean: d3af3b57 Dirty: a81397c1
+  Processing net/minecraft/world/entity/vehicle/Minecart$net/minecraft/world/entity/vehicle/Minecart(net/minecraft/world/entity/vehicle/Minecart)
+    Clean: 62de3b8a Dirty: 9f0c70e4
+  Processing net/minecraft/world/entity/vehicle/MinecartChest$net/minecraft/world/entity/vehicle/MinecartChest(net/minecraft/world/entity/vehicle/MinecartChest)
+    Clean: 7a3051bc Dirty: 12fc6132
+  Processing net/minecraft/world/entity/vehicle/MinecartCommandBlock$net/minecraft/world/entity/vehicle/MinecartCommandBlock(net/minecraft/world/entity/vehicle/MinecartCommandBlock)
+    Clean: dbb43d03 Dirty: ec997045
+  Processing net/minecraft/world/entity/vehicle/MinecartCommandBlock$MinecartCommandBase
+    Clean: eb20e541 Dirty: 66bafb13
+  Processing net/minecraft/world/entity/vehicle/MinecartHopper$net/minecraft/world/entity/vehicle/MinecartHopper(net/minecraft/world/entity/vehicle/MinecartHopper)
+    Clean: bcadbc4f Dirty: 2173d863
+  Processing net/minecraft/world/entity/vehicle/MinecartTNT$net/minecraft/world/entity/vehicle/MinecartTNT(net/minecraft/world/entity/vehicle/MinecartTNT)
+    Clean: e2e83552 Dirty: a6b2250
+  Processing net/minecraft/world/entity/vehicle/NewMinecartBehavior$1
+    Clean: c6cb0026 Dirty: 459a06ec
+  Processing net/minecraft/world/entity/vehicle/NewMinecartBehavior$TrackIteration
+    Clean: c0b2c321 Dirty: 2ea6c322
+  Processing net/minecraft/world/entity/vehicle/NewMinecartBehavior$StepPartialTicks
+    Clean: bcd8667f Dirty: e1f5f89
+  Processing net/minecraft/world/entity/vehicle/NewMinecartBehavior$MinecartStep
+    Clean: 3a9fb24f Dirty: 99e8ae76
+  Processing net/minecraft/world/entity/vehicle/NewMinecartBehavior$net/minecraft/world/entity/vehicle/NewMinecartBehavior(net/minecraft/world/entity/vehicle/NewMinecartBehavior)
+    Clean: e593c4d Dirty: 8cda7014
+  Processing net/minecraft/world/entity/vehicle/OldMinecartBehavior$net/minecraft/world/entity/vehicle/OldMinecartBehavior(net/minecraft/world/entity/vehicle/OldMinecartBehavior)
+    Clean: 6feec8a8 Dirty: 68cb20b6
+  Processing net/minecraft/world/entity/vehicle/OldMinecartBehavior$1
+    Clean: 6fa40009 Dirty: 166e06fc
+  Processing net/minecraft/world/item/BoatItem$net/minecraft/world/item/BoatItem(net/minecraft/world/item/BoatItem)
+    Clean: c9944077 Dirty: 8ded6e5e
+  Processing net/minecraft/world/item/BottleItem$net/minecraft/world/item/BottleItem(net/minecraft/world/item/BottleItem)
+    Clean: f476c256 Dirty: 443df87
+  Processing net/minecraft/world/item/BrushItem$DustParticlesDelta
+    Clean: 4cf58b4e Dirty: d0b284f4
+  Processing net/minecraft/world/item/BrushItem$1
+    Clean: 47d2bf38 Dirty: 8f51c602
+  Processing net/minecraft/world/item/BrushItem$net/minecraft/world/item/BrushItem(net/minecraft/world/item/BrushItem)
+    Clean: c05c3a3d Dirty: e575db5f
+  Processing net/minecraft/world/item/EmptyMapItem$net/minecraft/world/item/EmptyMapItem(net/minecraft/world/item/EmptyMapItem)
+    Clean: 380082e9 Dirty: 66ecab15
+  Processing net/minecraft/world/item/EnderEyeItem$net/minecraft/world/item/EnderEyeItem(net/minecraft/world/item/EnderEyeItem)
+    Clean: 61ffc305 Dirty: 525ec59
+  Processing net/minecraft/world/item/HangingEntityItem$net/minecraft/world/item/HangingEntityItem(net/minecraft/world/item/HangingEntityItem)
+    Clean: 73ab698c Dirty: 51dc799b
+  Processing net/minecraft/world/item/InstrumentItem$net/minecraft/world/item/InstrumentItem(net/minecraft/world/item/InstrumentItem)
+    Clean: c89d401d Dirty: 3c213edc
+  Processing net/minecraft/world/item/MapItem$1
+    Clean: 3b8ac6bb Dirty: f495cdc9
+  Processing net/minecraft/world/item/MapItem$net/minecraft/world/item/MapItem(net/minecraft/world/item/MapItem)
+    Clean: c5e7a147 Dirty: b811ff32
+  Processing net/minecraft/world/item/PotionItem$net/minecraft/world/item/PotionItem(net/minecraft/world/item/PotionItem)
+    Clean: c4ad290 Dirty: ef9f09d4
+  Processing net/minecraft/world/item/consume_effects/TeleportRandomlyConsumeEffect$net/minecraft/world/item/consume_effects/TeleportRandomlyConsumeEffect(net/minecraft/world/item/consume_effects/TeleportRandomlyConsumeEffect)
+    Clean: 5a65d7f2 Dirty: c2e0108f
+  Processing net/minecraft/world/item/context/BlockPlaceContext$net/minecraft/world/item/context/BlockPlaceContext(net/minecraft/world/item/context/BlockPlaceContext)
+    Clean: be2a1343 Dirty: f1abdecf
+  Processing net/minecraft/world/item/context/DirectionalPlaceContext$1
+    Clean: d91ad662 Dirty: 5bc6dd33
+  Processing net/minecraft/world/item/context/DirectionalPlaceContext$net/minecraft/world/item/context/DirectionalPlaceContext(net/minecraft/world/item/context/DirectionalPlaceContext)
+    Clean: 532ab729 Dirty: 1c83bb54
+  Processing net/minecraft/world/item/context/UseOnContext$net/minecraft/world/item/context/UseOnContext(net/minecraft/world/item/context/UseOnContext)
+    Clean: 7149d554 Dirty: 2251f3f3
+  Processing net/minecraft/world/item/enchantment/effects/RunFunction$net/minecraft/world/item/enchantment/effects/RunFunction(net/minecraft/world/item/enchantment/effects/RunFunction)
+    Clean: 70e7127c Dirty: 84324926
+  Processing net/minecraft/world/level/BaseSpawner$net/minecraft/world/level/BaseSpawner(net/minecraft/world/level/BaseSpawner)
+    Clean: e5fb169a Dirty: fd32bfd
+  Processing net/minecraft/world/level/BlockCollisions$net/minecraft/world/level/BlockCollisions(net/minecraft/world/level/BlockCollisions)
+    Clean: 2bcd8071 Dirty: 771cc0ae
+  Processing net/minecraft/world/level/BlockGetter$net/minecraft/world/level/BlockGetter(net/minecraft/world/level/BlockGetter)
+    Clean: 6c6f9416 Dirty: 362a178
+  Processing net/minecraft/world/level/ChunkPos$1
+    Clean: 29ac4c87 Dirty: 6a1c4cf5
+  Processing net/minecraft/world/level/ChunkPos$2
+    Clean: 4629da6a Dirty: ce46501e
+  Processing net/minecraft/world/level/ChunkPos$net/minecraft/world/level/ChunkPos(net/minecraft/world/level/ChunkPos)
+    Clean: 9387d56 Dirty: 9665aa45
+  Processing net/minecraft/world/level/ClipBlockStateContext$net/minecraft/world/level/ClipBlockStateContext(net/minecraft/world/level/ClipBlockStateContext)
+    Clean: cf514ed7 Dirty: 321f5066
+  Processing net/minecraft/world/level/ClipContext$Fluid
+    Clean: 18c601b4 Dirty: dd5efc0a
+  Processing net/minecraft/world/level/ClipContext$Block
+    Clean: d6cd2348 Dirty: bb472ef5
+  Processing net/minecraft/world/level/ClipContext$ShapeGetter
+    Clean: b2299621 Dirty: f7249623
+  Processing net/minecraft/world/level/ClipContext$net/minecraft/world/level/ClipContext(net/minecraft/world/level/ClipContext)
+    Clean: a203d3f7 Dirty: 9fda9c18
+  Processing net/minecraft/world/level/CollisionGetter$net/minecraft/world/level/CollisionGetter(net/minecraft/world/level/CollisionGetter)
+    Clean: 5599690a Dirty: c608dfac
+  Processing net/minecraft/world/level/ForcedChunksSavedData$net/minecraft/world/level/ForcedChunksSavedData(net/minecraft/world/level/ForcedChunksSavedData)
+    Clean: cf094d0e Dirty: 77534c7e
+  Processing net/minecraft/world/level/Level$net/minecraft/world/level/Level(net/minecraft/world/level/Level)
+    Clean: 285cfd26 Dirty: 820342
+  Processing net/minecraft/world/level/Level$1
+    Clean: 345a2860 Dirty: 43e327bb
+  Processing net/minecraft/world/level/Level$ExplosionInteraction
+    Clean: 716eb98b Dirty: ae25b6fa
+  Processing net/minecraft/world/level/LevelAccessor$net/minecraft/world/level/LevelAccessor(net/minecraft/world/level/LevelAccessor)
+    Clean: 73f70dae Dirty: 3f54cba9
+  Processing net/minecraft/world/level/LevelReader$net/minecraft/world/level/LevelReader(net/minecraft/world/level/LevelReader)
+    Clean: acc43900 Dirty: 7a4fe064
+  Processing net/minecraft/world/level/LocalMobCapCalculator$MobCounts
+    Clean: 76297ca3 Dirty: 8bed7867
+  Processing net/minecraft/world/level/LocalMobCapCalculator$net/minecraft/world/level/LocalMobCapCalculator(net/minecraft/world/level/LocalMobCapCalculator)
+    Clean: feffac80 Dirty: f0f8b9d8
+  Processing net/minecraft/world/level/NaturalSpawner$ChunkGetter
+    Clean: 7f838d0e Dirty: 6d00a822
+  Processing net/minecraft/world/level/NaturalSpawner$SpawnPredicate
+    Clean: 94c4be48 Dirty: 973ebe4e
+  Processing net/minecraft/world/level/NaturalSpawner$net/minecraft/world/level/NaturalSpawner(net/minecraft/world/level/NaturalSpawner)
+    Clean: 3354701e Dirty: d6bcf6c6
+  Processing net/minecraft/world/level/NaturalSpawner$AfterSpawnCallback
+    Clean: d28181fd Dirty: d918201
+  Processing net/minecraft/world/level/NaturalSpawner$SpawnState
+    Clean: f40d9c37 Dirty: de7b910
+  Processing net/minecraft/world/level/PathNavigationRegion$net/minecraft/world/level/PathNavigationRegion(net/minecraft/world/level/PathNavigationRegion)
+    Clean: 8bda76fe Dirty: 8685a3c
+  Processing net/minecraft/world/level/StructureManager$net/minecraft/world/level/StructureManager(net/minecraft/world/level/StructureManager)
+    Clean: 1d775000 Dirty: f4b2ad05
+  Processing net/minecraft/world/level/biome/Biome$ClimateSettings
+    Clean: fd0d613b Dirty: a6ac51fc
+  Processing net/minecraft/world/level/biome/Biome$net/minecraft/world/level/biome/Biome(net/minecraft/world/level/biome/Biome)
+    Clean: 3d54ad1a Dirty: b2d63211
+  Processing net/minecraft/world/level/biome/Biome$BiomeBuilder
+    Clean: 4d5769fb Dirty: a276217
+  Processing net/minecraft/world/level/biome/Biome$TemperatureModifier$2
+    Clean: 41e165ad Dirty: 55058cc2
+  Processing net/minecraft/world/level/biome/Biome$Precipitation
+    Clean: 67239d17 Dirty: 192c99a1
+  Processing net/minecraft/world/level/biome/Biome$TemperatureModifier$1
+    Clean: 6861cf25 Dirty: 14a4cf3c
+  Processing net/minecraft/world/level/biome/Biome$TemperatureModifier
+    Clean: 7735fbf7 Dirty: 5e9f825
+  Processing net/minecraft/world/level/biome/Biome$1
+    Clean: 16971ce1 Dirty: 30344089
+  Processing net/minecraft/world/level/biome/BiomeManager$net/minecraft/world/level/biome/BiomeManager(net/minecraft/world/level/biome/BiomeManager)
+    Clean: b2cde2d2 Dirty: 58f19e2b
+  Processing net/minecraft/world/level/biome/BiomeManager$NoiseBiomeSource
+    Clean: b60e7b23 Dirty: f6094496
+  Processing net/minecraft/world/level/biome/BiomeResolver$net/minecraft/world/level/biome/BiomeResolver(net/minecraft/world/level/biome/BiomeResolver)
+    Clean: 5332a485 Dirty: cccdf369
+  Processing net/minecraft/world/level/biome/BiomeSource$net/minecraft/world/level/biome/BiomeSource(net/minecraft/world/level/biome/BiomeSource)
+    Clean: 51e10114 Dirty: 20d66d42
+  Processing net/minecraft/world/level/biome/CheckerboardColumnBiomeSource$net/minecraft/world/level/biome/CheckerboardColumnBiomeSource(net/minecraft/world/level/biome/CheckerboardColumnBiomeSource)
+    Clean: cbdea3fe Dirty: 60236c21
+  Processing net/minecraft/world/level/biome/Climate$ParameterList
+    Clean: 5fdbe930 Dirty: fa3aee89
+  Processing net/minecraft/world/level/biome/Climate$SpawnFinder$Result
+    Clean: 5f4ecdd7 Dirty: 2092c56e
+  Processing net/minecraft/world/level/biome/Climate$RTree$Leaf
+    Clean: ce3f43f5 Dirty: 16c6443a
+  Processing net/minecraft/world/level/biome/Climate$ParameterPoint
+    Clean: c5297103 Dirty: 264a213
+  Processing net/minecraft/world/level/biome/Climate$DistanceMetric
+    Clean: d7e1ad12 Dirty: 61cfad15
+  Processing net/minecraft/world/level/biome/Climate$Parameter
+    Clean: 6e30b3dc Dirty: da8b9d03
+  Processing net/minecraft/world/level/biome/Climate$Sampler
+    Clean: 8563582 Dirty: 77359812
+  Processing net/minecraft/world/level/biome/Climate$RTree
+    Clean: 99bddd17 Dirty: f0c485d2
+  Processing net/minecraft/world/level/biome/Climate$RTree$SubTree
+    Clean: cf99b01d Dirty: 6a5ebb68
+  Processing net/minecraft/world/level/biome/Climate$RTree$Node
+    Clean: d23860b1 Dirty: a46b6b6b
+  Processing net/minecraft/world/level/biome/Climate$net/minecraft/world/level/biome/Climate(net/minecraft/world/level/biome/Climate)
+    Clean: 6a1f83a0 Dirty: 2f1a8976
+  Processing net/minecraft/world/level/biome/Climate$TargetPoint
+    Clean: d8a5fe25 Dirty: f5ecf604
+  Processing net/minecraft/world/level/biome/Climate$SpawnFinder
+    Clean: 5d82b45 Dirty: b2902a31
+  Processing net/minecraft/world/level/biome/FixedBiomeSource$net/minecraft/world/level/biome/FixedBiomeSource(net/minecraft/world/level/biome/FixedBiomeSource)
+    Clean: bf807044 Dirty: f1f6bec7
+  Processing net/minecraft/world/level/biome/MultiNoiseBiomeSource$net/minecraft/world/level/biome/MultiNoiseBiomeSource(net/minecraft/world/level/biome/MultiNoiseBiomeSource)
+    Clean: be23a359 Dirty: 99c79294
+  Processing net/minecraft/world/level/biome/TheEndBiomeSource$net/minecraft/world/level/biome/TheEndBiomeSource(net/minecraft/world/level/biome/TheEndBiomeSource)
+    Clean: b7d4fead Dirty: e9020136
+  Processing net/minecraft/world/level/block/AbstractCandleBlock$net/minecraft/world/level/block/AbstractCandleBlock(net/minecraft/world/level/block/AbstractCandleBlock)
+    Clean: f68981f8 Dirty: 8f14a43a
+  Processing net/minecraft/world/level/block/BaseFireBlock$net/minecraft/world/level/block/BaseFireBlock(net/minecraft/world/level/block/BaseFireBlock)
+    Clean: df59ac50 Dirty: 9372d5c7
+  Processing net/minecraft/world/level/block/BedBlock$1
+    Clean: 1017ae18 Dirty: 185ab522
+  Processing net/minecraft/world/level/block/BedBlock$net/minecraft/world/level/block/BedBlock(net/minecraft/world/level/block/BedBlock)
+    Clean: 1566024e Dirty: 8696661f
+  Processing net/minecraft/world/level/block/Block$ShapePairKey
+    Clean: 5921bac7 Dirty: 5290c094
+  Processing net/minecraft/world/level/block/Block$net/minecraft/world/level/block/Block(net/minecraft/world/level/block/Block)
+    Clean: 6efc0d25 Dirty: 56b3ce14
+  Processing net/minecraft/world/level/block/Block$2
+    Clean: a4a5ce09 Dirty: d9decb05
+  Processing net/minecraft/world/level/block/Block$1
+    Clean: 2e259897 Dirty: e6339858
+  Processing net/minecraft/world/level/block/BrushableBlock$net/minecraft/world/level/block/BrushableBlock(net/minecraft/world/level/block/BrushableBlock)
+    Clean: c7448dea Dirty: a88c9d71
+  Processing net/minecraft/world/level/block/BubbleColumnBlock$net/minecraft/world/level/block/BubbleColumnBlock(net/minecraft/world/level/block/BubbleColumnBlock)
+    Clean: b4f57621 Dirty: 184cb049
+  Processing net/minecraft/world/level/block/CampfireBlock$net/minecraft/world/level/block/CampfireBlock(net/minecraft/world/level/block/CampfireBlock)
+    Clean: 772e29f6 Dirty: 4fd6a6c9
+  Processing net/minecraft/world/level/block/ChestBlock$1
+    Clean: 8add96d6 Dirty: 684292c5
+  Processing net/minecraft/world/level/block/ChestBlock$3
+    Clean: eb838e60 Dirty: 7b0185fc
+  Processing net/minecraft/world/level/block/ChestBlock$2
+    Clean: 861609f2 Dirty: 34680a25
+  Processing net/minecraft/world/level/block/ChestBlock$2$1
+    Clean: 5980fadd Dirty: ebf7f48e
+  Processing net/minecraft/world/level/block/ChestBlock$4
+    Clean: 2386b75b Dirty: 33e3be95
+  Processing net/minecraft/world/level/block/ChestBlock$net/minecraft/world/level/block/ChestBlock(net/minecraft/world/level/block/ChestBlock)
+    Clean: 98a6bd58 Dirty: c514efae
+  Processing net/minecraft/world/level/block/ChiseledBookShelfBlock$1
+    Clean: eae9d38a Dirty: b3ccda52
+  Processing net/minecraft/world/level/block/ChiseledBookShelfBlock$net/minecraft/world/level/block/ChiseledBookShelfBlock(net/minecraft/world/level/block/ChiseledBookShelfBlock)
+    Clean: 8c47f790 Dirty: 3946e640
+  Processing net/minecraft/world/level/block/DoorBlock$net/minecraft/world/level/block/DoorBlock(net/minecraft/world/level/block/DoorBlock)
+    Clean: 94e47161 Dirty: 401a96a8
+  Processing net/minecraft/world/level/block/DoorBlock$1
+    Clean: 9792b02 Dirty: 1546322b
+  Processing net/minecraft/world/level/block/DoublePlantBlock$net/minecraft/world/level/block/DoublePlantBlock(net/minecraft/world/level/block/DoublePlantBlock)
+    Clean: dcb0e709 Dirty: c358fb3d
+  Processing net/minecraft/world/level/block/EndPortalBlock$net/minecraft/world/level/block/EndPortalBlock(net/minecraft/world/level/block/EndPortalBlock)
+    Clean: 944f88f8 Dirty: 28f6cb07
+  Processing net/minecraft/world/level/block/EnderChestBlock$net/minecraft/world/level/block/EnderChestBlock(net/minecraft/world/level/block/EnderChestBlock)
+    Clean: 62e0a250 Dirty: 9f57faab
+  Processing net/minecraft/world/level/block/FrogspawnBlock$net/minecraft/world/level/block/FrogspawnBlock(net/minecraft/world/level/block/FrogspawnBlock)
+    Clean: 745f4d29 Dirty: 9497bb38
+  Processing net/minecraft/world/level/block/FurnaceBlock$net/minecraft/world/level/block/FurnaceBlock(net/minecraft/world/level/block/FurnaceBlock)
+    Clean: 6c700d05 Dirty: dfe5648
+  Processing net/minecraft/world/level/block/LightningRodBlock$net/minecraft/world/level/block/LightningRodBlock(net/minecraft/world/level/block/LightningRodBlock)
+    Clean: 7d56d1df Dirty: d353c68c
+  Processing net/minecraft/world/level/block/NetherPortalBlock$net/minecraft/world/level/block/NetherPortalBlock(net/minecraft/world/level/block/NetherPortalBlock)
+    Clean: 8e0ecbbe Dirty: 7a9b0baf
+  Processing net/minecraft/world/level/block/NetherPortalBlock$1
+    Clean: 9983239b Dirty: efb32ac7
+  Processing net/minecraft/world/level/block/NoteBlock$net/minecraft/world/level/block/NoteBlock(net/minecraft/world/level/block/NoteBlock)
+    Clean: 998b8e64 Dirty: e19eafb6
+  Processing net/minecraft/world/level/block/RedstoneWallTorchBlock$net/minecraft/world/level/block/RedstoneWallTorchBlock(net/minecraft/world/level/block/RedstoneWallTorchBlock)
+    Clean: 1e4e1054 Dirty: f27e6163
+  Processing net/minecraft/world/level/block/RespawnAnchorBlock$1
+    Clean: 7e1aa916 Dirty: f3b4aa9c
+  Processing net/minecraft/world/level/block/RespawnAnchorBlock$net/minecraft/world/level/block/RespawnAnchorBlock(net/minecraft/world/level/block/RespawnAnchorBlock)
+    Clean: a05e2951 Dirty: 34e1d93f
+  Processing net/minecraft/world/level/block/SculkSpreader$ChargeCursor
+    Clean: 6343a06c Dirty: ff912d2e
+  Processing net/minecraft/world/level/block/SculkSpreader$net/minecraft/world/level/block/SculkSpreader(net/minecraft/world/level/block/SculkSpreader)
+    Clean: 731ae318 Dirty: a6bfa476
+  Processing net/minecraft/world/level/block/TargetBlock$net/minecraft/world/level/block/TargetBlock(net/minecraft/world/level/block/TargetBlock)
+    Clean: 343f59b Dirty: 38db2260
+  Processing net/minecraft/world/level/block/TntBlock$net/minecraft/world/level/block/TntBlock(net/minecraft/world/level/block/TntBlock)
+    Clean: 5a422cc1 Dirty: e6dd454d
+  Processing net/minecraft/world/level/block/TorchBlock$net/minecraft/world/level/block/TorchBlock(net/minecraft/world/level/block/TorchBlock)
+    Clean: a784c2a6 Dirty: 33adec3d
+  Processing net/minecraft/world/level/block/TurtleEggBlock$net/minecraft/world/level/block/TurtleEggBlock(net/minecraft/world/level/block/TurtleEggBlock)
+    Clean: a646e88f Dirty: ce2eed04
+  Processing net/minecraft/world/level/block/VineBlock$1
+    Clean: 1df5244d Dirty: 178a2b8b
+  Processing net/minecraft/world/level/block/VineBlock$net/minecraft/world/level/block/VineBlock(net/minecraft/world/level/block/VineBlock)
+    Clean: 3df49064 Dirty: 313bcea8
+  Processing net/minecraft/world/level/block/WitherSkullBlock$net/minecraft/world/level/block/WitherSkullBlock(net/minecraft/world/level/block/WitherSkullBlock)
+    Clean: 4b69dd48 Dirty: d89e234e
+  Processing net/minecraft/world/level/block/entity/BeaconBlockEntity$1
+    Clean: f8841b2a Dirty: 3dc91450
+  Processing net/minecraft/world/level/block/entity/BeaconBlockEntity$BeaconBeamSection
+    Clean: c09fb2c5 Dirty: 1c93b1d1
+  Processing net/minecraft/world/level/block/entity/BeaconBlockEntity$net/minecraft/world/level/block/entity/BeaconBlockEntity(net/minecraft/world/level/block/entity/BeaconBlockEntity)
+    Clean: 29817751 Dirty: 84c825d9
+  Processing net/minecraft/world/level/block/entity/BlockEntity$1
+    Clean: caf85612 Dirty: ebc05244
+  Processing net/minecraft/world/level/block/entity/BlockEntity$ComponentHelper
+    Clean: 83083550 Dirty: dde6360e
+  Processing net/minecraft/world/level/block/entity/BlockEntity$DataComponentInput
+    Clean: a7c7e6cf Dirty: 9e70e6cf
+  Processing net/minecraft/world/level/block/entity/BlockEntity$net/minecraft/world/level/block/entity/BlockEntity(net/minecraft/world/level/block/entity/BlockEntity)
+    Clean: 652ec68 Dirty: 36815e5c
+  Processing net/minecraft/world/level/block/entity/ChestBlockEntity$net/minecraft/world/level/block/entity/ChestBlockEntity(net/minecraft/world/level/block/entity/ChestBlockEntity)
+    Clean: c0b4eff6 Dirty: 57a809a1
+  Processing net/minecraft/world/level/block/entity/ChestBlockEntity$1
+    Clean: 59b0af8d Dirty: 198bbcd1
+  Processing net/minecraft/world/level/block/entity/CommandBlockEntity$net/minecraft/world/level/block/entity/CommandBlockEntity(net/minecraft/world/level/block/entity/CommandBlockEntity)
+    Clean: e6f8bc7a Dirty: e8872e56
+  Processing net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+    Clean: 490561f6 Dirty: abf061dc
+  Processing net/minecraft/world/level/block/entity/CommandBlockEntity$1
+    Clean: adcad16 Dirty: 9f3ad8b7
+  Processing net/minecraft/world/level/block/entity/ConduitBlockEntity$net/minecraft/world/level/block/entity/ConduitBlockEntity(net/minecraft/world/level/block/entity/ConduitBlockEntity)
+    Clean: 505e4a91 Dirty: 6b3defae
+  Processing net/minecraft/world/level/block/entity/LecternBlockEntity$1
+    Clean: 311524fd Dirty: 78ec1f00
+  Processing net/minecraft/world/level/block/entity/LecternBlockEntity$2
+    Clean: 7f9bfb77 Dirty: b829f67c
+  Processing net/minecraft/world/level/block/entity/LecternBlockEntity$net/minecraft/world/level/block/entity/LecternBlockEntity(net/minecraft/world/level/block/entity/LecternBlockEntity)
+    Clean: 3db7ca96 Dirty: e4fac82c
+  Processing net/minecraft/world/level/block/entity/SculkCatalystBlockEntity$net/minecraft/world/level/block/entity/SculkCatalystBlockEntity(net/minecraft/world/level/block/entity/SculkCatalystBlockEntity)
+    Clean: 447419b8 Dirty: 559f18d1
+  Processing net/minecraft/world/level/block/entity/SculkCatalystBlockEntity$CatalystListener
+    Clean: a4e9c9e6 Dirty: b407fb0b
+  Processing net/minecraft/world/level/block/entity/SignBlockEntity$net/minecraft/world/level/block/entity/SignBlockEntity(net/minecraft/world/level/block/entity/SignBlockEntity)
+    Clean: 32b44986 Dirty: 6e22e142
+  Processing net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+    Clean: c0f28ae6 Dirty: 1c9a8979
+  Processing net/minecraft/world/level/block/entity/StructureBlockEntity$net/minecraft/world/level/block/entity/StructureBlockEntity(net/minecraft/world/level/block/entity/StructureBlockEntity)
+    Clean: 5571d25b Dirty: 70bcb32a
+  Processing net/minecraft/world/level/block/entity/TheEndGatewayBlockEntity$net/minecraft/world/level/block/entity/TheEndGatewayBlockEntity(net/minecraft/world/level/block/entity/TheEndGatewayBlockEntity)
+    Clean: 8f6200d3 Dirty: 50f9c065
+  Processing net/minecraft/world/level/block/entity/trialspawner/TrialSpawner$net/minecraft/world/level/block/entity/trialspawner/TrialSpawner(net/minecraft/world/level/block/entity/trialspawner/TrialSpawner)
+    Clean: f002444f Dirty: 6f44cb0b
+  Processing net/minecraft/world/level/block/entity/trialspawner/TrialSpawner$FlameParticle
+    Clean: af4a3463 Dirty: 862c3b89
+  Processing net/minecraft/world/level/block/entity/trialspawner/TrialSpawner$StateAccessor
+    Clean: 20aac31 Dirty: 882bac37
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase
+    Clean: dc4967f0 Dirty: e0392767
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$net/minecraft/world/level/block/state/BlockBehaviour(net/minecraft/world/level/block/state/BlockBehaviour)
+    Clean: 3bc2acee Dirty: bec2f6d5
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$Properties
+    Clean: dd37e5c4 Dirty: 28f60d0f
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$1
+    Clean: 808ce6b4 Dirty: 45ebedc2
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$OffsetFunction
+    Clean: 31195de Dirty: 738095e2
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$StatePredicate
+    Clean: 5d0197c9 Dirty: 157897cd
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase$Cache
+    Clean: f07f404b Dirty: e0ec52d6
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$StateArgumentPredicate
+    Clean: 3c32e5ba Dirty: e5f0e5b9
+  Processing net/minecraft/world/level/block/state/BlockBehaviour$OffsetType
+    Clean: 998661bc Dirty: 92a60db
+  Processing net/minecraft/world/level/border/WorldBorder$net/minecraft/world/level/border/WorldBorder(net/minecraft/world/level/border/WorldBorder)
+    Clean: 7c5e65a7 Dirty: 4216fc5a
+  Processing net/minecraft/world/level/border/WorldBorder$MovingBorderExtent
+    Clean: f1616254 Dirty: 248a927e
+  Processing net/minecraft/world/level/border/WorldBorder$Settings
+    Clean: 36338b79 Dirty: 8c3486b3
+  Processing net/minecraft/world/level/border/WorldBorder$StaticBorderExtent
+    Clean: c662f08b Dirty: 4802f4ac
+  Processing net/minecraft/world/level/border/WorldBorder$BorderExtent
+    Clean: 826ec44f Dirty: d376c446
+  Processing net/minecraft/world/level/chunk/BulkSectionAccess$net/minecraft/world/level/chunk/BulkSectionAccess(net/minecraft/world/level/chunk/BulkSectionAccess)
+    Clean: 194bbf90 Dirty: 66837749
+  Processing net/minecraft/world/level/chunk/ChunkAccess$net/minecraft/world/level/chunk/ChunkAccess(net/minecraft/world/level/chunk/ChunkAccess)
+    Clean: 64c647e9 Dirty: f1448367
+  Processing net/minecraft/world/level/chunk/ChunkAccess$PackedTicks
+    Clean: 300790f9 Dirty: f5828f78
+  Processing net/minecraft/world/level/chunk/ChunkGenerator$net/minecraft/world/level/chunk/ChunkGenerator(net/minecraft/world/level/chunk/ChunkGenerator)
+    Clean: b568cc61 Dirty: d0684bb6
+  Processing net/minecraft/world/level/chunk/ChunkGeneratorStructureState$net/minecraft/world/level/chunk/ChunkGeneratorStructureState(net/minecraft/world/level/chunk/ChunkGeneratorStructureState)
+    Clean: ae340006 Dirty: cf656783
+  Processing net/minecraft/world/level/chunk/ChunkSource$net/minecraft/world/level/chunk/ChunkSource(net/minecraft/world/level/chunk/ChunkSource)
+    Clean: b1bc06bb Dirty: c7a1ae6d
+  Processing net/minecraft/world/level/chunk/EmptyLevelChunk$net/minecraft/world/level/chunk/EmptyLevelChunk(net/minecraft/world/level/chunk/EmptyLevelChunk)
+    Clean: 41ae2820 Dirty: 77467e45
+  Processing net/minecraft/world/level/chunk/ImposterProtoChunk$net/minecraft/world/level/chunk/ImposterProtoChunk(net/minecraft/world/level/chunk/ImposterProtoChunk)
+    Clean: 18699937 Dirty: 3e4d4692
+  Processing net/minecraft/world/level/chunk/LevelChunk$UnsavedListener
+    Clean: 34ce727a Dirty: ac5b727e
+  Processing net/minecraft/world/level/chunk/LevelChunk$net/minecraft/world/level/chunk/LevelChunk(net/minecraft/world/level/chunk/LevelChunk)
+    Clean: 94e0f895 Dirty: 10483fb9
+  Processing net/minecraft/world/level/chunk/LevelChunk$BoundTickingBlockEntity
+    Clean: 6dbeba3b Dirty: 1eceef61
+  Processing net/minecraft/world/level/chunk/LevelChunk$RebindableTickingBlockEntityWrapper
+    Clean: 325c0f6 Dirty: 6308bd1c
+  Processing net/minecraft/world/level/chunk/LevelChunk$PostLoadProcessor
+    Clean: cdc7454 Dirty: 69297458
+  Processing net/minecraft/world/level/chunk/LevelChunk$1
+    Clean: dfc18c Dirty: 6ea4c147
+  Processing net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
+    Clean: cc15c5b Dirty: c2e75f74
+  Processing net/minecraft/world/level/chunk/LevelChunkSection$net/minecraft/world/level/chunk/LevelChunkSection(net/minecraft/world/level/chunk/LevelChunkSection)
+    Clean: 62f3890f Dirty: b3755a53
+  Processing net/minecraft/world/level/chunk/LevelChunkSection$1BlockCounter
+    Clean: 4ae0486 Dirty: 81650623
+  Processing net/minecraft/world/level/chunk/LightChunkGetter$net/minecraft/world/level/chunk/LightChunkGetter(net/minecraft/world/level/chunk/LightChunkGetter)
+    Clean: 5db3cf00 Dirty: 667fe94b
+  Processing net/minecraft/world/level/chunk/ProtoChunk$net/minecraft/world/level/chunk/ProtoChunk(net/minecraft/world/level/chunk/ProtoChunk)
+    Clean: 4bce60c5 Dirty: 25613f0e
+  Processing net/minecraft/world/level/chunk/StructureAccess$net/minecraft/world/level/chunk/StructureAccess(net/minecraft/world/level/chunk/StructureAccess)
+    Clean: a036f18 Dirty: 6838d293
+  Processing net/minecraft/world/level/chunk/UpgradeData$BlockFixers$1
+    Clean: 445773bd Dirty: c2e872d0
+  Processing net/minecraft/world/level/chunk/UpgradeData$BlockFixers
+    Clean: ff7f831f Dirty: 4f0a8336
+  Processing net/minecraft/world/level/chunk/UpgradeData$BlockFixer
+    Clean: 8fb1044f Dirty: 5e410384
+  Processing net/minecraft/world/level/chunk/UpgradeData$BlockFixers$5
+    Clean: ef4de590 Dirty: 3c94df14
+  Processing net/minecraft/world/level/chunk/UpgradeData$BlockFixers$4
+    Clean: 75aeb0e3 Dirty: 454d1f7
+  Processing net/minecraft/world/level/chunk/UpgradeData$BlockFixers$3
+    Clean: c775e8b9 Dirty: 8a0beaff
+  Processing net/minecraft/world/level/chunk/UpgradeData$net/minecraft/world/level/chunk/UpgradeData(net/minecraft/world/level/chunk/UpgradeData)
+    Clean: 3e3faebf Dirty: add9d53f
+  Processing net/minecraft/world/level/chunk/UpgradeData$BlockFixers$2
+    Clean: becf45be Dirty: c44f4613
+  Processing net/minecraft/world/level/chunk/storage/ChunkStorage$net/minecraft/world/level/chunk/storage/ChunkStorage(net/minecraft/world/level/chunk/storage/ChunkStorage)
+    Clean: aca1638e Dirty: e7b98388
+  Processing net/minecraft/world/level/chunk/storage/EntityStorage$net/minecraft/world/level/chunk/storage/EntityStorage(net/minecraft/world/level/chunk/storage/EntityStorage)
+    Clean: 21f78e93 Dirty: 753dbe8e
+  Processing net/minecraft/world/level/chunk/storage/IOWorker$PendingStore
+    Clean: 618b282c Dirty: 34ff2a7a
+  Processing net/minecraft/world/level/chunk/storage/IOWorker$ThrowingSupplier
+    Clean: 31a596ce Dirty: ad7996c9
+  Processing net/minecraft/world/level/chunk/storage/IOWorker$net/minecraft/world/level/chunk/storage/IOWorker(net/minecraft/world/level/chunk/storage/IOWorker)
+    Clean: fa06b60f Dirty: 955d40af
+  Processing net/minecraft/world/level/chunk/storage/IOWorker$Priority
+    Clean: 3fbf4fb8 Dirty: 37e04e23
+  Processing net/minecraft/world/level/chunk/storage/RegionFileStorage$net/minecraft/world/level/chunk/storage/RegionFileStorage(net/minecraft/world/level/chunk/storage/RegionFileStorage)
+    Clean: d2bc8da7 Dirty: baea0681
+  Processing net/minecraft/world/level/chunk/storage/SectionStorage$net/minecraft/world/level/chunk/storage/SectionStorage(net/minecraft/world/level/chunk/storage/SectionStorage)
+    Clean: 3c021b44 Dirty: 8ec8e2a7
+  Processing net/minecraft/world/level/chunk/storage/SectionStorage$PackedChunk
+    Clean: de3ec179 Dirty: e114ecc3
+  Processing net/minecraft/world/level/chunk/storage/SerializableChunkData$net/minecraft/world/level/chunk/storage/SerializableChunkData(net/minecraft/world/level/chunk/storage/SerializableChunkData)
+    Clean: ca95ba8c Dirty: b618032
+  Processing net/minecraft/world/level/chunk/storage/SerializableChunkData$ChunkReadException
+    Clean: 132cabd8 Dirty: 43cfabf5
+  Processing net/minecraft/world/level/chunk/storage/SerializableChunkData$SectionData
+    Clean: 2a518099 Dirty: c7f97dd1
+  Processing net/minecraft/world/level/dimension/end/EndDragonFight$Data
+    Clean: 7564a77b Dirty: d3fc9d1d
+  Processing net/minecraft/world/level/dimension/end/EndDragonFight$net/minecraft/world/level/dimension/end/EndDragonFight(net/minecraft/world/level/dimension/end/EndDragonFight)
+    Clean: 66fe0246 Dirty: 2f839843
+  Processing net/minecraft/world/level/entity/EntitySectionStorage$net/minecraft/world/level/entity/EntitySectionStorage(net/minecraft/world/level/entity/EntitySectionStorage)
+    Clean: 271acd23 Dirty: 4db2c4a8
+  Processing net/minecraft/world/level/entity/PersistentEntitySectionManager$ChunkLoadStatus
+    Clean: e38c96c2 Dirty: e479a75
+  Processing net/minecraft/world/level/entity/PersistentEntitySectionManager$Callback
+    Clean: 32f8cb24 Dirty: 47761edb
+  Processing net/minecraft/world/level/entity/PersistentEntitySectionManager$net/minecraft/world/level/entity/PersistentEntitySectionManager(net/minecraft/world/level/entity/PersistentEntitySectionManager)
+    Clean: fc258c82 Dirty: a996f175
+  Processing net/minecraft/world/level/entity/TransientEntitySectionManager$net/minecraft/world/level/entity/TransientEntitySectionManager(net/minecraft/world/level/entity/TransientEntitySectionManager)
+    Clean: b491f698 Dirty: 42f397c5
+  Processing net/minecraft/world/level/entity/TransientEntitySectionManager$Callback
+    Clean: 40760d4f Dirty: 7fdb4f63
+  Processing net/minecraft/world/level/gameevent/BlockPositionSource$net/minecraft/world/level/gameevent/BlockPositionSource(net/minecraft/world/level/gameevent/BlockPositionSource)
+    Clean: 4eed13da Dirty: 7f231433
+  Processing net/minecraft/world/level/gameevent/BlockPositionSource$Type
+    Clean: 21ad6c9e Dirty: fc6f6c5d
+  Processing net/minecraft/world/level/gameevent/DynamicGameEventListener$net/minecraft/world/level/gameevent/DynamicGameEventListener(net/minecraft/world/level/gameevent/DynamicGameEventListener)
+    Clean: 371e293 Dirty: 7706297b
+  Processing net/minecraft/world/level/gameevent/EntityPositionSource$net/minecraft/world/level/gameevent/EntityPositionSource(net/minecraft/world/level/gameevent/EntityPositionSource)
+    Clean: efb7574e Dirty: 4f50ab0a
+  Processing net/minecraft/world/level/gameevent/EntityPositionSource$Type
+    Clean: c60b713f Dirty: a59370f2
+  Processing net/minecraft/world/level/gameevent/EuclideanGameEventListenerRegistry$OnEmptyAction
+    Clean: e6ea81bb Dirty: 5cbe81bf
+  Processing net/minecraft/world/level/gameevent/EuclideanGameEventListenerRegistry$net/minecraft/world/level/gameevent/EuclideanGameEventListenerRegistry(net/minecraft/world/level/gameevent/EuclideanGameEventListenerRegistry)
+    Clean: fb3ae185 Dirty: afc6e7a6
+  Processing net/minecraft/world/level/gameevent/GameEvent$Context
+    Clean: 4903bb39 Dirty: d668b4be
+  Processing net/minecraft/world/level/gameevent/GameEvent$ListenerInfo
+    Clean: e923da79 Dirty: e802dac1
+  Processing net/minecraft/world/level/gameevent/GameEvent$net/minecraft/world/level/gameevent/GameEvent(net/minecraft/world/level/gameevent/GameEvent)
+    Clean: 48e6db97 Dirty: 316dccc9
+  Processing net/minecraft/world/level/gameevent/GameEventDispatcher$net/minecraft/world/level/gameevent/GameEventDispatcher(net/minecraft/world/level/gameevent/GameEventDispatcher)
+    Clean: e2f83f47 Dirty: fed6f939
+  Processing net/minecraft/world/level/gameevent/GameEventListener$net/minecraft/world/level/gameevent/GameEventListener(net/minecraft/world/level/gameevent/GameEventListener)
+    Clean: a038b7f5 Dirty: e0d3b8a3
+  Processing net/minecraft/world/level/gameevent/GameEventListener$Provider
+    Clean: c3308c50 Dirty: 80bf8c4e
+  Processing net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+    Clean: 5f8f63e0 Dirty: b59a62c3
+  Processing net/minecraft/world/level/gameevent/GameEventListenerRegistry$ListenerVisitor
+    Clean: 472299e3 Dirty: 2b89a37
+  Processing net/minecraft/world/level/gameevent/GameEventListenerRegistry$net/minecraft/world/level/gameevent/GameEventListenerRegistry(net/minecraft/world/level/gameevent/GameEventListenerRegistry)
+    Clean: c64aa72f Dirty: 85bea7b8
+  Processing net/minecraft/world/level/gameevent/GameEventListenerRegistry$1
+    Clean: 88a24cb6 Dirty: 9b244be7
+  Processing net/minecraft/world/level/gameevent/PositionSource$net/minecraft/world/level/gameevent/PositionSource(net/minecraft/world/level/gameevent/PositionSource)
+    Clean: 618f9eca Dirty: 95539fed
+  Processing net/minecraft/world/level/gameevent/vibrations/VibrationSystem$Listener
+    Clean: 11c1248c Dirty: 6dde50be
+  Processing net/minecraft/world/level/gameevent/vibrations/VibrationSystem$User
+    Clean: 66b6b3cb Dirty: 73f6b0a9
+  Processing net/minecraft/world/level/gameevent/vibrations/VibrationSystem$Data
+    Clean: 7aedb35a Dirty: 351da844
+  Processing net/minecraft/world/level/gameevent/vibrations/VibrationSystem$Ticker
+    Clean: d2cadf75 Dirty: 56f2b594
+  Processing net/minecraft/world/level/gameevent/vibrations/VibrationSystem$net/minecraft/world/level/gameevent/vibrations/VibrationSystem(net/minecraft/world/level/gameevent/vibrations/VibrationSystem)
+    Clean: ff7287f1 Dirty: 4c9f4c91
+  Processing net/minecraft/world/level/levelgen/Aquifer$FluidPicker
+    Clean: 88bc7a9f Dirty: 5a0294f0
+  Processing net/minecraft/world/level/levelgen/Aquifer$NoiseBasedAquifer
+    Clean: e22f198b Dirty: cf26f628
+  Processing net/minecraft/world/level/levelgen/Aquifer$1
+    Clean: f937ff87 Dirty: ac99383d
+  Processing net/minecraft/world/level/levelgen/Aquifer$FluidStatus
+    Clean: 89ce3de0 Dirty: 393353a
+  Processing net/minecraft/world/level/levelgen/Aquifer$net/minecraft/world/level/levelgen/Aquifer(net/minecraft/world/level/levelgen/Aquifer)
+    Clean: d5bfc41c Dirty: 9baac393
+  Processing net/minecraft/world/level/levelgen/Beardifier$net/minecraft/world/level/levelgen/Beardifier(net/minecraft/world/level/levelgen/Beardifier)
+    Clean: 1a824fa0 Dirty: 9c1a4205
+  Processing net/minecraft/world/level/levelgen/Beardifier$Rigid
+    Clean: f1194caf Dirty: b7364c05
+  Processing net/minecraft/world/level/levelgen/Beardifier$1
+    Clean: ef14fd02 Dirty: a5b703f2
+  Processing net/minecraft/world/level/levelgen/BelowZeroRetrogen$net/minecraft/world/level/levelgen/BelowZeroRetrogen(net/minecraft/world/level/levelgen/BelowZeroRetrogen)
+    Clean: 1bfa8c79 Dirty: 6dfbb405
+  Processing net/minecraft/world/level/levelgen/BelowZeroRetrogen$1
+    Clean: 5fad9761 Dirty: a3599743
+  Processing net/minecraft/world/level/levelgen/DebugLevelSource$net/minecraft/world/level/levelgen/DebugLevelSource(net/minecraft/world/level/levelgen/DebugLevelSource)
+    Clean: b8b70e78 Dirty: 63bddc75
+  Processing net/minecraft/world/level/levelgen/DensityFunction$ContextProvider
+    Clean: d3b6adfe Dirty: c04aae07
+  Processing net/minecraft/world/level/levelgen/DensityFunction$SimpleFunction
+    Clean: 67638fcb Dirty: 15fd9027
+  Processing net/minecraft/world/level/levelgen/DensityFunction$NoiseHolder
+    Clean: ce50b5a1 Dirty: 64caad71
+  Processing net/minecraft/world/level/levelgen/DensityFunction$net/minecraft/world/level/levelgen/DensityFunction(net/minecraft/world/level/levelgen/DensityFunction)
+    Clean: 3255c9fa Dirty: a41dd093
+  Processing net/minecraft/world/level/levelgen/DensityFunction$FunctionContext
+    Clean: d4d3b7d5 Dirty: 6fa9c5b0
+  Processing net/minecraft/world/level/levelgen/DensityFunction$SinglePointContext
+    Clean: 9eb4e075 Dirty: 772c12d4
+  Processing net/minecraft/world/level/levelgen/DensityFunction$Visitor
+    Clean: 597c103c Dirty: 17ba1086
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Spline$Coordinate
+    Clean: 3b4e3f7b Dirty: 57ff386f
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$BlendAlpha
+    Clean: a1d24e20 Dirty: b6904cb2
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$WeirdScaledSampler$RarityValueMapper
+    Clean: 74e4f545 Dirty: 67cec40
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Spline
+    Clean: 33a2b87e Dirty: dffa292
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$EndIslandDensityFunction
+    Clean: d90a83d7 Dirty: 591f820d
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$PureTransformer
+    Clean: 111b8b73 Dirty: 18ad8b3f
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$TransformerWithContext
+    Clean: 2bbfd007 Dirty: 3038d16e
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$TwoArgumentSimpleFunction
+    Clean: fba52e30 Dirty: ce933c49
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Clamp
+    Clean: 87e7905f Dirty: f5728afc
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$YClampedGradient
+    Clean: 281af182 Dirty: d856e684
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$BeardifierMarker
+    Clean: c4619902 Dirty: 6d669381
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker
+    Clean: 5331c5f4 Dirty: 362c5f4
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Marker
+    Clean: 13ec5cd1 Dirty: 671e530c
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Ap2
+    Clean: 8d92d9fd Dirty: de1fb6f6
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$HolderHolder
+    Clean: f86f9677 Dirty: b90c90c4
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$BlendOffset
+    Clean: 99d5334 Dirty: 3dd95365
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$ShiftedNoise
+    Clean: bb55ced7 Dirty: 6ebf13b9
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Marker$Type
+    Clean: 7c844e5 Dirty: 4e373d0a
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$MarkerOrMarked
+    Clean: fadf1473 Dirty: 92b814b7
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$RangeChoice
+    Clean: 240bf8ae Dirty: ffd0d614
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$ShiftA
+    Clean: 20b2206d Dirty: b0f5458d
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$ShiftB
+    Clean: 49622119 Dirty: 36034652
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$TwoArgumentSimpleFunction$Type
+    Clean: 7f2bc238 Dirty: 9a9ac613
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Constant
+    Clean: c9c75478 Dirty: 482b502d
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$MulOrAdd
+    Clean: 54a76ac7 Dirty: 1fd17287
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Spline$Point
+    Clean: 86e33818 Dirty: 19563143
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Noise
+    Clean: ef917998 Dirty: 6cd383c5
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Mapped$Type
+    Clean: e0c5330a Dirty: 9aa12a93
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Mapped
+    Clean: 2e27b78b Dirty: 7a77aa99
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$net/minecraft/world/level/levelgen/DensityFunctions(net/minecraft/world/level/levelgen/DensityFunctions)
+    Clean: a7559c2d Dirty: c089eadf
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$WeirdScaledSampler
+    Clean: 2703a469 Dirty: 2bb5c87c
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$Shift
+    Clean: 5f7925b6 Dirty: 80f64953
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$BlendDensity
+    Clean: 6c24ff4c Dirty: 3aa202ab
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$MulOrAdd$Type
+    Clean: e9777439 Dirty: 1e087175
+  Processing net/minecraft/world/level/levelgen/DensityFunctions$ShiftNoise
+    Clean: 709a7580 Dirty: 72de780a
+  Processing net/minecraft/world/level/levelgen/FlatLevelSource$net/minecraft/world/level/levelgen/FlatLevelSource(net/minecraft/world/level/levelgen/FlatLevelSource)
+    Clean: 6a636d3f Dirty: 966400cc
+  Processing net/minecraft/world/level/levelgen/LegacyRandomSource$net/minecraft/world/level/levelgen/LegacyRandomSource(net/minecraft/world/level/levelgen/LegacyRandomSource)
+    Clean: 5255fbd1 Dirty: 3b46fa06
+  Processing net/minecraft/world/level/levelgen/LegacyRandomSource$LegacyPositionalRandomFactory
+    Clean: 96d2b298 Dirty: 8b36f384
+  Processing net/minecraft/world/level/levelgen/NoiseBasedChunkGenerator$net/minecraft/world/level/levelgen/NoiseBasedChunkGenerator(net/minecraft/world/level/levelgen/NoiseBasedChunkGenerator)
+    Clean: d1cf2656 Dirty: 1982e72a
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$BlendOffset
+    Clean: 5d186b81 Dirty: f96a9ddd
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$1
+    Clean: 8c4ad3f7 Dirty: 7944ce4e
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$net/minecraft/world/level/levelgen/NoiseChunk(net/minecraft/world/level/levelgen/NoiseChunk)
+    Clean: b8d4b776 Dirty: 9cff845e
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$NoiseInterpolator
+    Clean: e798db94 Dirty: 9caae135
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$CacheOnce
+    Clean: 1f87648f Dirty: e5b553a9
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$BlockStateFiller
+    Clean: 74fcd42c Dirty: 4b0ad426
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$BlendAlpha
+    Clean: d6b95f1b Dirty: c8078a0a
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$NoiseChunkDensityFunction
+    Clean: f729bccd Dirty: 9154bc99
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$2
+    Clean: 15343621 Dirty: fa983c8a
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$CacheAllInCell
+    Clean: edae7699 Dirty: 96b96890
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$FlatCache
+    Clean: a2047e4d Dirty: 5145f5b8
+  Processing net/minecraft/world/level/levelgen/NoiseChunk$Cache2D
+    Clean: 4184bc53 Dirty: 38d1a51
+  Processing net/minecraft/world/level/levelgen/PatrolSpawner$net/minecraft/world/level/levelgen/PatrolSpawner(net/minecraft/world/level/levelgen/PatrolSpawner)
+    Clean: c84b3c42 Dirty: cc8d41d7
+  Processing net/minecraft/world/level/levelgen/PositionalRandomFactory$net/minecraft/world/level/levelgen/PositionalRandomFactory(net/minecraft/world/level/levelgen/PositionalRandomFactory)
+    Clean: 503b4ec9 Dirty: a8e17927
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$LazyXZCondition
+    Clean: f8a9f28c Dirty: 4651f552
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$ConditionSource
+    Clean: 473ccffd Dirty: fc20d162
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$TestRuleSource
+    Clean: 10ff1d62 Dirty: ad2f22b8
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$YConditionSource$1YCondition
+    Clean: de85ff7 Dirty: f8d5b9b
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Context
+    Clean: 4440d921 Dirty: 71815b98
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$SequenceRule
+    Clean: 62b4d183 Dirty: cebc007d
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$StateRule
+    Clean: 899cfee5 Dirty: 359522c6
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Context$HoleCondition
+    Clean: 7097fc95 Dirty: eddbfb4c
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$RuleSource
+    Clean: 43677342 Dirty: 739b6f30
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$net/minecraft/world/level/levelgen/SurfaceRules(net/minecraft/world/level/levelgen/SurfaceRules)
+    Clean: ebcf2a14 Dirty: f9444796
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$AbovePreliminarySurface
+    Clean: 3ddd384d Dirty: 59cc3334
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$WaterConditionSource
+    Clean: b089bda7 Dirty: 6d10b142
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$LazyYCondition
+    Clean: 115ff148 Dirty: 7cecf40e
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$YConditionSource
+    Clean: 72923d4f Dirty: b4bf3627
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Context$AbovePreliminarySurfaceCondition
+    Clean: b9b720f4 Dirty: d3e22033
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Condition
+    Clean: 3ab24c05 Dirty: 744c07
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$VerticalGradientConditionSource
+    Clean: ab7a99ae Dirty: f9709f97
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Bandlands
+    Clean: 1e34eeb4 Dirty: 8f4d08b9
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$BiomeConditionSource$1BiomeCondition
+    Clean: a06c2687 Dirty: d189233a
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$VerticalGradientConditionSource$1VerticalGradientCondition
+    Clean: 1e9acead Dirty: e6d0f18c
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$NotCondition
+    Clean: 604cf95a Dirty: 621ff4ff
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Hole
+    Clean: 75e1eaa7 Dirty: e012eef8
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Steep
+    Clean: 7e43f75e Dirty: b5acf0b7
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Context$SteepMaterialCondition
+    Clean: 50c4d0a4 Dirty: 161a65a6
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$SequenceRuleSource
+    Clean: 476305b8 Dirty: 1b730de5
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Temperature
+    Clean: cd7c0e09 Dirty: 62ad0a65
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$TestRule
+    Clean: fb6aa65a Dirty: 50b9dec8
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$Context$TemperatureHelperCondition
+    Clean: 70f6b9cc Dirty: e0c8e50d
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$StoneDepthCheck
+    Clean: b1e5a07f Dirty: bef8900e
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$BiomeConditionSource
+    Clean: e3baf1db Dirty: e0960294
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$BlockRuleSource
+    Clean: efbf23d7 Dirty: a7ee1d35
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$SurfaceRule
+    Clean: 300977df Dirty: d9c922f
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$NotConditionSource
+    Clean: 612cddcf Dirty: 831bd367
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$LazyCondition
+    Clean: ae517fad Dirty: 61be7e2f
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$NoiseThresholdConditionSource$1NoiseThresholdCondition
+    Clean: b7e96d0e Dirty: 76308a51
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$WaterConditionSource$1WaterCondition
+    Clean: b6321bea Dirty: 87ae1cf4
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$NoiseThresholdConditionSource
+    Clean: ad8cacb4 Dirty: c651a810
+  Processing net/minecraft/world/level/levelgen/SurfaceRules$StoneDepthCheck$1StoneDepthCondition
+    Clean: a92d4463 Dirty: 979a3d4e
+  Processing net/minecraft/world/level/levelgen/SurfaceSystem$1
+    Clean: 373e60a1 Dirty: 53c06abd
+  Processing net/minecraft/world/level/levelgen/SurfaceSystem$net/minecraft/world/level/levelgen/SurfaceSystem(net/minecraft/world/level/levelgen/SurfaceSystem)
+    Clean: f74538ad Dirty: afaa66ca
+  Processing net/minecraft/world/level/levelgen/WorldgenRandom$Algorithm
+    Clean: a79bc930 Dirty: e988c554
+  Processing net/minecraft/world/level/levelgen/WorldgenRandom$net/minecraft/world/level/levelgen/WorldgenRandom(net/minecraft/world/level/levelgen/WorldgenRandom)
+    Clean: 571809e1 Dirty: d8dc4b77
+  Processing net/minecraft/world/level/levelgen/XoroshiroRandomSource$net/minecraft/world/level/levelgen/XoroshiroRandomSource(net/minecraft/world/level/levelgen/XoroshiroRandomSource)
+    Clean: 17e3ee4c Dirty: dc46db96
+  Processing net/minecraft/world/level/levelgen/XoroshiroRandomSource$XoroshiroPositionalRandomFactory
+    Clean: 67145e7d Dirty: 4a74a756
+  Processing net/minecraft/world/level/levelgen/blending/Blender$1
+    Clean: ea0becea Dirty: d3fb2764
+  Processing net/minecraft/world/level/levelgen/blending/Blender$CellValueGetter
+    Clean: 959f67c6 Dirty: bb2867c8
+  Processing net/minecraft/world/level/levelgen/blending/Blender$BlendingOutput
+    Clean: bf47ac08 Dirty: 7bdda8c0
+  Processing net/minecraft/world/level/levelgen/blending/Blender$DistanceGetter
+    Clean: b12853f9 Dirty: 18fe53fb
+  Processing net/minecraft/world/level/levelgen/blending/Blender$net/minecraft/world/level/levelgen/blending/Blender(net/minecraft/world/level/levelgen/blending/Blender)
+    Clean: e752c530 Dirty: c1482f7d
+  Processing net/minecraft/world/level/levelgen/blending/BlendingData$DensityConsumer
+    Clean: 499259cd Dirty: 8b3559cf
+  Processing net/minecraft/world/level/levelgen/blending/BlendingData$BiomeConsumer
+    Clean: 1a878028 Dirty: e0eb802c
+  Processing net/minecraft/world/level/levelgen/blending/BlendingData$Packed
+    Clean: be446253 Dirty: 4379726b
+  Processing net/minecraft/world/level/levelgen/blending/BlendingData$net/minecraft/world/level/levelgen/blending/BlendingData(net/minecraft/world/level/levelgen/blending/BlendingData)
+    Clean: cc584161 Dirty: 98bffaf1
+  Processing net/minecraft/world/level/levelgen/blending/BlendingData$HeightConsumer
+    Clean: bd275873 Dirty: f0872c1
+  Processing net/minecraft/world/level/levelgen/blockpredicates/BlockPredicate$net/minecraft/world/level/levelgen/blockpredicates/BlockPredicate(net/minecraft/world/level/levelgen/blockpredicates/BlockPredicate)
+    Clean: ae5ae4e2 Dirty: 36a5c92b
+  Processing net/minecraft/world/level/levelgen/blockpredicates/HasSturdyFacePredicate$net/minecraft/world/level/levelgen/blockpredicates/HasSturdyFacePredicate(net/minecraft/world/level/levelgen/blockpredicates/HasSturdyFacePredicate)
+    Clean: f388f91b Dirty: f2b804a1
+  Processing net/minecraft/world/level/levelgen/blockpredicates/InsideWorldBoundsPredicate$net/minecraft/world/level/levelgen/blockpredicates/InsideWorldBoundsPredicate(net/minecraft/world/level/levelgen/blockpredicates/InsideWorldBoundsPredicate)
+    Clean: d25cad32 Dirty: b13b54a
+  Processing net/minecraft/world/level/levelgen/blockpredicates/MatchingBlockTagPredicate$net/minecraft/world/level/levelgen/blockpredicates/MatchingBlockTagPredicate(net/minecraft/world/level/levelgen/blockpredicates/MatchingBlockTagPredicate)
+    Clean: a5843c6b Dirty: fc9b4412
+  Processing net/minecraft/world/level/levelgen/blockpredicates/MatchingBlocksPredicate$net/minecraft/world/level/levelgen/blockpredicates/MatchingBlocksPredicate(net/minecraft/world/level/levelgen/blockpredicates/MatchingBlocksPredicate)
+    Clean: b0ac494f Dirty: 574d50f5
+  Processing net/minecraft/world/level/levelgen/blockpredicates/MatchingFluidsPredicate$net/minecraft/world/level/levelgen/blockpredicates/MatchingFluidsPredicate(net/minecraft/world/level/levelgen/blockpredicates/MatchingFluidsPredicate)
+    Clean: daa57ad3 Dirty: 39ae82cd
+  Processing net/minecraft/world/level/levelgen/blockpredicates/ReplaceablePredicate$net/minecraft/world/level/levelgen/blockpredicates/ReplaceablePredicate(net/minecraft/world/level/levelgen/blockpredicates/ReplaceablePredicate)
+    Clean: f56c74e7 Dirty: aeaf7885
+  Processing net/minecraft/world/level/levelgen/blockpredicates/SolidPredicate$net/minecraft/world/level/levelgen/blockpredicates/SolidPredicate(net/minecraft/world/level/levelgen/blockpredicates/SolidPredicate)
+    Clean: d5d87d41 Dirty: 945280c7
+  Processing net/minecraft/world/level/levelgen/blockpredicates/StateTestingPredicate$net/minecraft/world/level/levelgen/blockpredicates/StateTestingPredicate(net/minecraft/world/level/levelgen/blockpredicates/StateTestingPredicate)
+    Clean: 927d25de Dirty: fef32d1d
+  Processing net/minecraft/world/level/levelgen/blockpredicates/WouldSurvivePredicate$net/minecraft/world/level/levelgen/blockpredicates/WouldSurvivePredicate(net/minecraft/world/level/levelgen/blockpredicates/WouldSurvivePredicate)
+    Clean: 132d9fe3 Dirty: d4aba88e
+  Processing net/minecraft/world/level/levelgen/carver/CanyonWorldCarver$net/minecraft/world/level/levelgen/carver/CanyonWorldCarver(net/minecraft/world/level/levelgen/carver/CanyonWorldCarver)
+    Clean: 2441875c Dirty: 6b59e48a
+  Processing net/minecraft/world/level/levelgen/carver/CaveWorldCarver$net/minecraft/world/level/levelgen/carver/CaveWorldCarver(net/minecraft/world/level/levelgen/carver/CaveWorldCarver)
+    Clean: 16208c9c Dirty: 27def0b9
+  Processing net/minecraft/world/level/levelgen/carver/WorldCarver$net/minecraft/world/level/levelgen/carver/WorldCarver(net/minecraft/world/level/levelgen/carver/WorldCarver)
+    Clean: 69f8401c Dirty: 5540b412
+  Processing net/minecraft/world/level/levelgen/carver/WorldCarver$CarveSkipChecker
+    Clean: 8b316f99 Dirty: fd066f9b
+  Processing net/minecraft/world/level/levelgen/feature/BambooFeature$net/minecraft/world/level/levelgen/feature/BambooFeature(net/minecraft/world/level/levelgen/feature/BambooFeature)
+    Clean: 3dfad21a Dirty: 50bacc6a
+  Processing net/minecraft/world/level/levelgen/feature/BasaltColumnsFeature$net/minecraft/world/level/levelgen/feature/BasaltColumnsFeature(net/minecraft/world/level/levelgen/feature/BasaltColumnsFeature)
+    Clean: 846e09d7 Dirty: 2f03161b
+  Processing net/minecraft/world/level/levelgen/feature/BlockPileFeature$net/minecraft/world/level/levelgen/feature/BlockPileFeature(net/minecraft/world/level/levelgen/feature/BlockPileFeature)
+    Clean: 3dd60cd1 Dirty: 460d7644
+  Processing net/minecraft/world/level/levelgen/feature/BonusChestFeature$net/minecraft/world/level/levelgen/feature/BonusChestFeature(net/minecraft/world/level/levelgen/feature/BonusChestFeature)
+    Clean: 88bbeb44 Dirty: 6e5335a6
+  Processing net/minecraft/world/level/levelgen/feature/CoralMushroomFeature$net/minecraft/world/level/levelgen/feature/CoralMushroomFeature(net/minecraft/world/level/levelgen/feature/CoralMushroomFeature)
+    Clean: 6eec7a7 Dirty: fbe110ea
+  Processing net/minecraft/world/level/levelgen/feature/DiskFeature$net/minecraft/world/level/levelgen/feature/DiskFeature(net/minecraft/world/level/levelgen/feature/DiskFeature)
+    Clean: e26efce9 Dirty: 55b67f78
+  Processing net/minecraft/world/level/levelgen/feature/FillLayerFeature$net/minecraft/world/level/levelgen/feature/FillLayerFeature(net/minecraft/world/level/levelgen/feature/FillLayerFeature)
+    Clean: d1d59fff Dirty: 73521258
+  Processing net/minecraft/world/level/levelgen/feature/FossilFeature$net/minecraft/world/level/levelgen/feature/FossilFeature(net/minecraft/world/level/levelgen/feature/FossilFeature)
+    Clean: 60fd12de Dirty: 66c43d06
+  Processing net/minecraft/world/level/levelgen/feature/GeodeFeature$net/minecraft/world/level/levelgen/feature/GeodeFeature(net/minecraft/world/level/levelgen/feature/GeodeFeature)
+    Clean: a135a9a2 Dirty: f9b9e710
+  Processing net/minecraft/world/level/levelgen/feature/IcebergFeature$net/minecraft/world/level/levelgen/feature/IcebergFeature(net/minecraft/world/level/levelgen/feature/IcebergFeature)
+    Clean: 1df26b49 Dirty: ad8a4740
+  Processing net/minecraft/world/level/levelgen/feature/KelpFeature$net/minecraft/world/level/levelgen/feature/KelpFeature(net/minecraft/world/level/levelgen/feature/KelpFeature)
+    Clean: 1eaac1f1 Dirty: 50141fdd
+  Processing net/minecraft/world/level/levelgen/feature/LargeDripstoneFeature$LargeDripstone
+    Clean: d78f65d0 Dirty: 72faa202
+  Processing net/minecraft/world/level/levelgen/feature/LargeDripstoneFeature$WindOffsetter
+    Clean: da2b19e4 Dirty: be552094
+  Processing net/minecraft/world/level/levelgen/feature/LargeDripstoneFeature$net/minecraft/world/level/levelgen/feature/LargeDripstoneFeature(net/minecraft/world/level/levelgen/feature/LargeDripstoneFeature)
+    Clean: f42d541c Dirty: 665ebdf2
+  Processing net/minecraft/world/level/levelgen/feature/MonsterRoomFeature$net/minecraft/world/level/levelgen/feature/MonsterRoomFeature(net/minecraft/world/level/levelgen/feature/MonsterRoomFeature)
+    Clean: 2bcf0a76 Dirty: e74874e5
+  Processing net/minecraft/world/level/levelgen/feature/OreFeature$net/minecraft/world/level/levelgen/feature/OreFeature(net/minecraft/world/level/levelgen/feature/OreFeature)
+    Clean: c80cce6c Dirty: ca832b55
+  Processing net/minecraft/world/level/levelgen/feature/RootSystemFeature$net/minecraft/world/level/levelgen/feature/RootSystemFeature(net/minecraft/world/level/levelgen/feature/RootSystemFeature)
+    Clean: 3a87a8da Dirty: 7a852d61
+  Processing net/minecraft/world/level/levelgen/feature/SeaPickleFeature$net/minecraft/world/level/levelgen/feature/SeaPickleFeature(net/minecraft/world/level/levelgen/feature/SeaPickleFeature)
+    Clean: 76401610 Dirty: 211a91ca
+  Processing net/minecraft/world/level/levelgen/feature/SeagrassFeature$net/minecraft/world/level/levelgen/feature/SeagrassFeature(net/minecraft/world/level/levelgen/feature/SeagrassFeature)
+    Clean: 4ee96c68 Dirty: 9d9fb0e
+  Processing net/minecraft/world/level/levelgen/feature/SnowAndFreezeFeature$net/minecraft/world/level/levelgen/feature/SnowAndFreezeFeature(net/minecraft/world/level/levelgen/feature/SnowAndFreezeFeature)
+    Clean: 9c4e9662 Dirty: 85da2eb3
+  Processing net/minecraft/world/level/levelgen/feature/TreeFeature$net/minecraft/world/level/levelgen/feature/TreeFeature(net/minecraft/world/level/levelgen/feature/TreeFeature)
+    Clean: 235b71c4 Dirty: 9263164f
+  Processing net/minecraft/world/level/levelgen/feature/TreeFeature$1
+    Clean: 7ace0f4e Dirty: 8b6c108a
+  Processing net/minecraft/world/level/levelgen/feature/VoidStartPlatformFeature$net/minecraft/world/level/levelgen/feature/VoidStartPlatformFeature(net/minecraft/world/level/levelgen/feature/VoidStartPlatformFeature)
+    Clean: eb082ce2 Dirty: 6770cc1
+  Processing net/minecraft/world/level/levelgen/feature/foliageplacers/MegaPineFoliagePlacer$net/minecraft/world/level/levelgen/feature/foliageplacers/MegaPineFoliagePlacer(net/minecraft/world/level/levelgen/feature/foliageplacers/MegaPineFoliagePlacer)
+    Clean: ae827fcd Dirty: dd9ba4f9
+  Processing net/minecraft/world/level/levelgen/feature/stateproviders/DualNoiseProvider$net/minecraft/world/level/levelgen/feature/stateproviders/DualNoiseProvider(net/minecraft/world/level/levelgen/feature/stateproviders/DualNoiseProvider)
+    Clean: b8800d2c Dirty: dfdd4486
+  Processing net/minecraft/world/level/levelgen/feature/stateproviders/NoiseBasedStateProvider$net/minecraft/world/level/levelgen/feature/stateproviders/NoiseBasedStateProvider(net/minecraft/world/level/levelgen/feature/stateproviders/NoiseBasedStateProvider)
+    Clean: 22fcd201 Dirty: f348f9bf
+  Processing net/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$net/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator(net/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator)
+    Clean: 72d8e9a5 Dirty: e16aea5e
+  Processing net/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context
+    Clean: 633f444c Dirty: 69c43d22
+  Processing net/minecraft/world/level/levelgen/feature/trunkplacers/DarkOakTrunkPlacer$net/minecraft/world/level/levelgen/feature/trunkplacers/DarkOakTrunkPlacer(net/minecraft/world/level/levelgen/feature/trunkplacers/DarkOakTrunkPlacer)
+    Clean: bd547afb Dirty: c48fdbba
+  Processing net/minecraft/world/level/levelgen/feature/trunkplacers/FancyTrunkPlacer$FoliageCoords
+    Clean: e62847f2 Dirty: 679c480b
+  Processing net/minecraft/world/level/levelgen/feature/trunkplacers/FancyTrunkPlacer$net/minecraft/world/level/levelgen/feature/trunkplacers/FancyTrunkPlacer(net/minecraft/world/level/levelgen/feature/trunkplacers/FancyTrunkPlacer)
+    Clean: b369e00 Dirty: 52952528
+  Processing net/minecraft/world/level/levelgen/feature/trunkplacers/ForkingTrunkPlacer$net/minecraft/world/level/levelgen/feature/trunkplacers/ForkingTrunkPlacer(net/minecraft/world/level/levelgen/feature/trunkplacers/ForkingTrunkPlacer)
+    Clean: 93999941 Dirty: d9902355
+  Processing net/minecraft/world/level/levelgen/feature/trunkplacers/UpwardsBranchingTrunkPlacer$net/minecraft/world/level/levelgen/feature/trunkplacers/UpwardsBranchingTrunkPlacer(net/minecraft/world/level/levelgen/feature/trunkplacers/UpwardsBranchingTrunkPlacer)
+    Clean: b05c448a Dirty: aa8eaf2b
+  Processing net/minecraft/world/level/levelgen/placement/CountOnEveryLayerPlacement$net/minecraft/world/level/levelgen/placement/CountOnEveryLayerPlacement(net/minecraft/world/level/levelgen/placement/CountOnEveryLayerPlacement)
+    Clean: 70a036c3 Dirty: 75fc0245
+  Processing net/minecraft/world/level/levelgen/placement/HeightmapPlacement$net/minecraft/world/level/levelgen/placement/HeightmapPlacement(net/minecraft/world/level/levelgen/placement/HeightmapPlacement)
+    Clean: 848b739c Dirty: 8c10d1fb
+  Processing net/minecraft/world/level/levelgen/placement/InSquarePlacement$net/minecraft/world/level/levelgen/placement/InSquarePlacement(net/minecraft/world/level/levelgen/placement/InSquarePlacement)
+    Clean: e6ac33a6 Dirty: 2f028b8d
+  Processing net/minecraft/world/level/levelgen/placement/NoiseBasedCountPlacement$net/minecraft/world/level/levelgen/placement/NoiseBasedCountPlacement(net/minecraft/world/level/levelgen/placement/NoiseBasedCountPlacement)
+    Clean: a08d8c6 Dirty: e891fd72
+  Processing net/minecraft/world/level/levelgen/placement/NoiseThresholdCountPlacement$net/minecraft/world/level/levelgen/placement/NoiseThresholdCountPlacement(net/minecraft/world/level/levelgen/placement/NoiseThresholdCountPlacement)
+    Clean: 7f39befa Dirty: 630ae29b
+  Processing net/minecraft/world/level/levelgen/placement/PlacementContext$net/minecraft/world/level/levelgen/placement/PlacementContext(net/minecraft/world/level/levelgen/placement/PlacementContext)
+    Clean: a5781666 Dirty: e1ce5670
+  Processing net/minecraft/world/level/levelgen/placement/RandomOffsetPlacement$net/minecraft/world/level/levelgen/placement/RandomOffsetPlacement(net/minecraft/world/level/levelgen/placement/RandomOffsetPlacement)
+    Clean: 5a61fb9 Dirty: 6e9b8352
+  Processing net/minecraft/world/level/levelgen/placement/SurfaceRelativeThresholdFilter$net/minecraft/world/level/levelgen/placement/SurfaceRelativeThresholdFilter(net/minecraft/world/level/levelgen/placement/SurfaceRelativeThresholdFilter)
+    Clean: ed179648 Dirty: 1cdabb0e
+  Processing net/minecraft/world/level/levelgen/placement/SurfaceWaterDepthFilter$net/minecraft/world/level/levelgen/placement/SurfaceWaterDepthFilter(net/minecraft/world/level/levelgen/placement/SurfaceWaterDepthFilter)
+    Clean: 7d86286d Dirty: ab044e95
+  Processing net/minecraft/world/level/levelgen/structure/BoundingBox$1
+    Clean: 5023c38a Dirty: ee45ca9c
+  Processing net/minecraft/world/level/levelgen/structure/BoundingBox$net/minecraft/world/level/levelgen/structure/BoundingBox(net/minecraft/world/level/levelgen/structure/BoundingBox)
+    Clean: e949df76 Dirty: 4ece58fe
+  Processing net/minecraft/world/level/levelgen/structure/LegacyStructureDataHandler$net/minecraft/world/level/levelgen/structure/LegacyStructureDataHandler(net/minecraft/world/level/levelgen/structure/LegacyStructureDataHandler)
+    Clean: ef39c91f Dirty: adde314a
+  Processing net/minecraft/world/level/levelgen/structure/PoolElementStructurePiece$net/minecraft/world/level/levelgen/structure/PoolElementStructurePiece(net/minecraft/world/level/levelgen/structure/PoolElementStructurePiece)
+    Clean: 4a23b2b6 Dirty: c3710708
+  Processing net/minecraft/world/level/levelgen/structure/ScatteredFeaturePiece$net/minecraft/world/level/levelgen/structure/ScatteredFeaturePiece(net/minecraft/world/level/levelgen/structure/ScatteredFeaturePiece)
+    Clean: 382bba61 Dirty: f25ecfc9
+  Processing net/minecraft/world/level/levelgen/structure/SinglePieceStructure$net/minecraft/world/level/levelgen/structure/SinglePieceStructure(net/minecraft/world/level/levelgen/structure/SinglePieceStructure)
+    Clean: f466edec Dirty: 8807165a
+  Processing net/minecraft/world/level/levelgen/structure/SinglePieceStructure$PieceConstructor
+    Clean: 5dc5a8e0 Dirty: 8b72c330
+  Processing net/minecraft/world/level/levelgen/structure/Structure$GenerationContext
+    Clean: a0a47b8a Dirty: f230a487
+  Processing net/minecraft/world/level/levelgen/structure/Structure$StructureSettings$Builder
+    Clean: b7d66bd1 Dirty: 550867ff
+  Processing net/minecraft/world/level/levelgen/structure/Structure$StructureSettings
+    Clean: a5eb1894 Dirty: ae8f2cfe
+  Processing net/minecraft/world/level/levelgen/structure/Structure$GenerationStub
+    Clean: 98658de5 Dirty: dfd290a5
+  Processing net/minecraft/world/level/levelgen/structure/Structure$net/minecraft/world/level/levelgen/structure/Structure(net/minecraft/world/level/levelgen/structure/Structure)
+    Clean: 299dfaa8 Dirty: 3c2afe5c
+  Processing net/minecraft/world/level/levelgen/structure/StructureCheck$net/minecraft/world/level/levelgen/structure/StructureCheck(net/minecraft/world/level/levelgen/structure/StructureCheck)
+    Clean: ec033a57 Dirty: 103601fe
+  Processing net/minecraft/world/level/levelgen/structure/StructureFeatureIndexSavedData$net/minecraft/world/level/levelgen/structure/StructureFeatureIndexSavedData(net/minecraft/world/level/levelgen/structure/StructureFeatureIndexSavedData)
+    Clean: 4f891be4 Dirty: 25ce1eac
+  Processing net/minecraft/world/level/levelgen/structure/StructurePiece$BlockSelector
+    Clean: bfeb00cd Dirty: c8e8022c
+  Processing net/minecraft/world/level/levelgen/structure/StructurePiece$1
+    Clean: 3d20c7fa Dirty: 3df0cefc
+  Processing net/minecraft/world/level/levelgen/structure/StructurePiece$net/minecraft/world/level/levelgen/structure/StructurePiece(net/minecraft/world/level/levelgen/structure/StructurePiece)
+    Clean: 5447800f Dirty: ed190469
+  Processing net/minecraft/world/level/levelgen/structure/StructureStart$net/minecraft/world/level/levelgen/structure/StructureStart(net/minecraft/world/level/levelgen/structure/StructureStart)
+    Clean: 34c7b6a5 Dirty: cdab56be
+  Processing net/minecraft/world/level/levelgen/structure/TemplateStructurePiece$net/minecraft/world/level/levelgen/structure/TemplateStructurePiece(net/minecraft/world/level/levelgen/structure/TemplateStructurePiece)
+    Clean: 1667eaa0 Dirty: 262c985d
+  Processing net/minecraft/world/level/levelgen/structure/pieces/PieceGeneratorSupplier$net/minecraft/world/level/levelgen/structure/pieces/PieceGeneratorSupplier(net/minecraft/world/level/levelgen/structure/pieces/PieceGeneratorSupplier)
+    Clean: 229871a7 Dirty: 1efb68c8
+  Processing net/minecraft/world/level/levelgen/structure/pieces/PieceGeneratorSupplier$Context
+    Clean: 2c0e212 Dirty: 7f77909
+  Processing net/minecraft/world/level/levelgen/structure/pieces/StructurePiecesBuilder$net/minecraft/world/level/levelgen/structure/pieces/StructurePiecesBuilder(net/minecraft/world/level/levelgen/structure/pieces/StructurePiecesBuilder)
+    Clean: 83b99ebe Dirty: 68ae1ed3
+  Processing net/minecraft/world/level/levelgen/structure/placement/ConcentricRingsStructurePlacement$net/minecraft/world/level/levelgen/structure/placement/ConcentricRingsStructurePlacement(net/minecraft/world/level/levelgen/structure/placement/ConcentricRingsStructurePlacement)
+    Clean: e991f218 Dirty: a21d55fa
+  Processing net/minecraft/world/level/levelgen/structure/placement/RandomSpreadStructurePlacement$net/minecraft/world/level/levelgen/structure/placement/RandomSpreadStructurePlacement(net/minecraft/world/level/levelgen/structure/placement/RandomSpreadStructurePlacement)
+    Clean: de9804fc Dirty: b042ac75
+  Processing net/minecraft/world/level/levelgen/structure/placement/StructurePlacement$FrequencyReductionMethod
+    Clean: ca499c59 Dirty: b0f5be93
+  Processing net/minecraft/world/level/levelgen/structure/placement/StructurePlacement$net/minecraft/world/level/levelgen/structure/placement/StructurePlacement(net/minecraft/world/level/levelgen/structure/placement/StructurePlacement)
+    Clean: 7063c1ab Dirty: 3cf9d0d
+  Processing net/minecraft/world/level/levelgen/structure/placement/StructurePlacement$FrequencyReducer
+    Clean: fea785ad Dirty: fb89ffd
+  Processing net/minecraft/world/level/levelgen/structure/placement/StructurePlacement$ExclusionZone
+    Clean: e9dcb778 Dirty: e3fdfa35
+  Processing net/minecraft/world/level/levelgen/structure/pools/FeaturePoolElement$net/minecraft/world/level/levelgen/structure/pools/FeaturePoolElement(net/minecraft/world/level/levelgen/structure/pools/FeaturePoolElement)
+    Clean: 16cd12dc Dirty: 178cc9b2
+  Processing net/minecraft/world/level/levelgen/structure/pools/JigsawJunction$net/minecraft/world/level/levelgen/structure/pools/JigsawJunction(net/minecraft/world/level/levelgen/structure/pools/JigsawJunction)
+    Clean: cf9072cd Dirty: be8cef6a
+  Processing net/minecraft/world/level/levelgen/structure/pools/JigsawPlacement$PieceState
+    Clean: 2e1bf1cd Dirty: a195ec36
+  Processing net/minecraft/world/level/levelgen/structure/pools/JigsawPlacement$Placer
+    Clean: 98661947 Dirty: d9ac4b0f
+  Processing net/minecraft/world/level/levelgen/structure/pools/JigsawPlacement$net/minecraft/world/level/levelgen/structure/pools/JigsawPlacement(net/minecraft/world/level/levelgen/structure/pools/JigsawPlacement)
+    Clean: 31bc9143 Dirty: bde2faa2
+  Processing net/minecraft/world/level/levelgen/structure/structures/DesertPyramidPiece$net/minecraft/world/level/levelgen/structure/structures/DesertPyramidPiece(net/minecraft/world/level/levelgen/structure/structures/DesertPyramidPiece)
+    Clean: ce4c27d7 Dirty: eb6a1f51
+  Processing net/minecraft/world/level/levelgen/structure/structures/DesertPyramidStructure$net/minecraft/world/level/levelgen/structure/structures/DesertPyramidStructure(net/minecraft/world/level/levelgen/structure/structures/DesertPyramidStructure)
+    Clean: 25bea0ad Dirty: 188d19c1
+  Processing net/minecraft/world/level/levelgen/structure/structures/EndCityPieces$SectionGenerator
+    Clean: 71ca6bef Dirty: 37466bfc
+  Processing net/minecraft/world/level/levelgen/structure/structures/EndCityPieces$EndCityPiece
+    Clean: 8f1b3408 Dirty: 101277f7
+  Processing net/minecraft/world/level/levelgen/structure/structures/EndCityPieces$4
+    Clean: 33f2c42b Dirty: f4e2d90a
+  Processing net/minecraft/world/level/levelgen/structure/structures/EndCityPieces$net/minecraft/world/level/levelgen/structure/structures/EndCityPieces(net/minecraft/world/level/levelgen/structure/structures/EndCityPieces)
+    Clean: 1881a38 Dirty: a46a11e
+  Processing net/minecraft/world/level/levelgen/structure/structures/EndCityPieces$3
+    Clean: 268c976e Dirty: be46d183
+  Processing net/minecraft/world/level/levelgen/structure/structures/EndCityPieces$2
+    Clean: 7dcef8eb Dirty: 5212f8f6
+  Processing net/minecraft/world/level/levelgen/structure/structures/EndCityPieces$1
+    Clean: 61e62802 Dirty: e12419a0
+  Processing net/minecraft/world/level/levelgen/structure/structures/IglooPieces$net/minecraft/world/level/levelgen/structure/structures/IglooPieces(net/minecraft/world/level/levelgen/structure/structures/IglooPieces)
+    Clean: bb8891f7 Dirty: c388726c
+  Processing net/minecraft/world/level/levelgen/structure/structures/IglooPieces$IglooPiece
+    Clean: c93ec8b Dirty: f3c50f3f
+  Processing net/minecraft/world/level/levelgen/structure/structures/JungleTemplePiece$net/minecraft/world/level/levelgen/structure/structures/JungleTemplePiece(net/minecraft/world/level/levelgen/structure/structures/JungleTemplePiece)
+    Clean: e96f8e47 Dirty: 4e0a1750
+  Processing net/minecraft/world/level/levelgen/structure/structures/JungleTemplePiece$MossStoneSelector
+    Clean: ed2b906f Dirty: a8089054
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$1
+    Clean: 1d46d1c0 Dirty: 8cc5d8f4
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$MineShaftStairs
+    Clean: 994e4d04 Dirty: 2c0936f6
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces(net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces)
+    Clean: 594d423a Dirty: e1c31490
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$MineShaftPiece
+    Clean: 33d2da07 Dirty: 7c02294
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$MineShaftRoom
+    Clean: 33dd9534 Dirty: a79df285
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$MineShaftCorridor
+    Clean: 689e5f85 Dirty: 6df7a2cd
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$MineShaftCrossing
+    Clean: 7d013f98 Dirty: 9dff4a73
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftStructure$net/minecraft/world/level/levelgen/structure/structures/MineshaftStructure(net/minecraft/world/level/levelgen/structure/structures/MineshaftStructure)
+    Clean: f665d704 Dirty: 9f8478e8
+  Processing net/minecraft/world/level/levelgen/structure/structures/MineshaftStructure$Type
+    Clean: 523b766a Dirty: c6266bde
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$CastleSmallCorridorRightTurnPiece
+    Clean: 4ba145d4 Dirty: d082a59c
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$CastleSmallCorridorCrossingPiece
+    Clean: 8f04c483 Dirty: f2defd58
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$PieceWeight
+    Clean: 9eb5d312 Dirty: 53ced57f
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$BridgeEndFiller
+    Clean: 922d505c Dirty: c19091a2
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$StartPiece
+    Clean: 9506f53e Dirty: 41a670df
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces(net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces)
+    Clean: 4977a0fe Dirty: 25eaa3f5
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$BridgeCrossing
+    Clean: 2e97bcfd Dirty: c31938e3
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$CastleStalkRoom
+    Clean: 7b0bf69 Dirty: c9097035
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$CastleCorridorTBalconyPiece
+    Clean: 592d49b5 Dirty: 922e9e10
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$CastleCorridorStairsPiece
+    Clean: ba35ca09 Dirty: 56a89488
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$StairsRoom
+    Clean: 18358d9b Dirty: 6088cbcb
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$NetherBridgePiece
+    Clean: d833cfdc Dirty: fb83616f
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$CastleSmallCorridorLeftTurnPiece
+    Clean: 297d4098 Dirty: f5609339
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$CastleSmallCorridorPiece
+    Clean: d6a43bed Dirty: e1509181
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$CastleEntrance
+    Clean: 13206b9a Dirty: 689fd824
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$BridgeStraight
+    Clean: e362a7f9 Dirty: 2a50eaf7
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$1
+    Clean: 1059d885 Dirty: a6e8dfb2
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$MonsterThrone
+    Clean: 66ae1b1a Dirty: aaf847ea
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFortressPieces$RoomCrossing
+    Clean: 2d6d9b9d Dirty: 21a2f6de
+  Processing net/minecraft/world/level/levelgen/structure/structures/NetherFossilStructure$net/minecraft/world/level/levelgen/structure/structures/NetherFossilStructure(net/minecraft/world/level/levelgen/structure/structures/NetherFossilStructure)
+    Clean: a1666813 Dirty: dfe21fa
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$RoomDefinition
+    Clean: ca87f23b Dirty: 8252cc55
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$MonumentRoomFitter
+    Clean: 42944e57 Dirty: dd844e63
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$1
+    Clean: 5739d693 Dirty: 4149ddf8
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$FitSimpleRoom
+    Clean: 48a87588 Dirty: 13ae76b5
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$MonumentBuilding
+    Clean: 7a334b24 Dirty: 44665a39
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentDoubleYRoom
+    Clean: edeeb4e9 Dirty: b6900b8c
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$FitDoubleXYRoom
+    Clean: cdaaf14e Dirty: cc4dfc6f
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentEntryRoom
+    Clean: 3b206924 Dirty: bcd23d7d
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentPenthouse
+    Clean: 952fbc96 Dirty: 874a7bd5
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentWingRoom
+    Clean: dc582773 Dirty: 65375633
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$FitDoubleYRoom
+    Clean: 1530c387 Dirty: faf6c27b
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$FitDoubleYZRoom
+    Clean: 77b1f2b6 Dirty: ef4bff23
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentCoreRoom
+    Clean: 1861aa71 Dirty: 7a3f8a1e
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentPiece
+    Clean: 9e4bec53 Dirty: 5832dc95
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$FitDoubleXRoom
+    Clean: f3b7c46b Dirty: 988bc256
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$FitSimpleTopRoom
+    Clean: d393adbd Dirty: e3eb2ca
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentDoubleYZRoom
+    Clean: 89233556 Dirty: a6e2a29f
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentSimpleRoom
+    Clean: 6559d7ff Dirty: b62c8575
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentSimpleTopRoom
+    Clean: 2296ce3e Dirty: d8341a28
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$FitDoubleZRoom
+    Clean: 9ff4db46 Dirty: ffc2e59d
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentDoubleXRoom
+    Clean: 5ee264 Dirty: 9189beb9
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentDoubleXYRoom
+    Clean: b856099 Dirty: 6bb3eea6
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$OceanMonumentDoubleZRoom
+    Clean: 104730f1 Dirty: 662423fa
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces$net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces(net/minecraft/world/level/levelgen/structure/structures/OceanMonumentPieces)
+    Clean: 704934c Dirty: 92669400
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanMonumentStructure$net/minecraft/world/level/levelgen/structure/structures/OceanMonumentStructure(net/minecraft/world/level/levelgen/structure/structures/OceanMonumentStructure)
+    Clean: 5c441d25 Dirty: 9bbaaa2a
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanRuinPieces$1
+    Clean: df82365a Dirty: a6753d81
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanRuinPieces$OceanRuinPiece
+    Clean: 278f8428 Dirty: 6dee3816
+  Processing net/minecraft/world/level/levelgen/structure/structures/OceanRuinPieces$net/minecraft/world/level/levelgen/structure/structures/OceanRuinPieces(net/minecraft/world/level/levelgen/structure/structures/OceanRuinPieces)
+    Clean: 8b8c2e9d Dirty: 590af239
+  Processing net/minecraft/world/level/levelgen/structure/structures/RuinedPortalPiece$VerticalPlacement
+    Clean: bb869f63 Dirty: abf39a42
+  Processing net/minecraft/world/level/levelgen/structure/structures/RuinedPortalPiece$Properties
+    Clean: 9acf3d5e Dirty: f9c33719
+  Processing net/minecraft/world/level/levelgen/structure/structures/RuinedPortalPiece$net/minecraft/world/level/levelgen/structure/structures/RuinedPortalPiece(net/minecraft/world/level/levelgen/structure/structures/RuinedPortalPiece)
+    Clean: 7d542183 Dirty: 2c18ed50
+  Processing net/minecraft/world/level/levelgen/structure/structures/RuinedPortalStructure$Setup
+    Clean: ea9e1d80 Dirty: 997d07cd
+  Processing net/minecraft/world/level/levelgen/structure/structures/RuinedPortalStructure$net/minecraft/world/level/levelgen/structure/structures/RuinedPortalStructure(net/minecraft/world/level/levelgen/structure/structures/RuinedPortalStructure)
+    Clean: 616a5140 Dirty: b0b541a2
+  Processing net/minecraft/world/level/levelgen/structure/structures/ShipwreckStructure$net/minecraft/world/level/levelgen/structure/structures/ShipwreckStructure(net/minecraft/world/level/levelgen/structure/structures/ShipwreckStructure)
+    Clean: f7f8788d Dirty: c3706cb8
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$3
+    Clean: b138d318 Dirty: eb14daab
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$1
+    Clean: ef7b398a Dirty: f93829
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece
+    Clean: e8d48743 Dirty: 1d445add
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$2
+    Clean: f58f3996 Dirty: 1d67383e
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StairsDown
+    Clean: 5373ddc7 Dirty: b05535d3
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$ChestCorridor
+    Clean: a4ed238e Dirty: bb124d47
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$Turn
+    Clean: b3c57207 Dirty: a92c6fd5
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$PrisonHall
+    Clean: 37cd3e9c Dirty: 7cd298fd
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$RightTurn
+    Clean: ef0e2d54 Dirty: 57d67353
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$Straight
+    Clean: 7058314c Dirty: f3ea996a
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StraightStairsDown
+    Clean: 261defb4 Dirty: 994136f7
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$RoomCrossing
+    Clean: f5741cf9 Dirty: 4d3660e9
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$PortalRoom
+    Clean: a6f84756 Dirty: 119c967
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$FiveCrossing
+    Clean: 9d82a45 Dirty: d6b7a0bd
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$FillerCorridor
+    Clean: f49852cb Dirty: 8e9ac4b3
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+    Clean: a7cf0438 Dirty: 5cb50108
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces(net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces)
+    Clean: ef52c45d Dirty: d8b2beca
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$SmoothStoneSelector
+    Clean: 519c93a Dirty: 12fba41
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StartPiece
+    Clean: b563d727 Dirty: 6fe02747
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$LeftTurn
+    Clean: 75d12b17 Dirty: 55246bd6
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$Library
+    Clean: c08841db Dirty: 99c4b17f
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$PieceWeight
+    Clean: d61576a5 Dirty: 78d7735c
+  Processing net/minecraft/world/level/levelgen/structure/structures/StrongholdStructure$net/minecraft/world/level/levelgen/structure/structures/StrongholdStructure(net/minecraft/world/level/levelgen/structure/structures/StrongholdStructure)
+    Clean: 4e30d6e6 Dirty: 74de342d
+  Processing net/minecraft/world/level/levelgen/structure/structures/SwampHutPiece$net/minecraft/world/level/levelgen/structure/structures/SwampHutPiece(net/minecraft/world/level/levelgen/structure/structures/SwampHutPiece)
+    Clean: b5260ca0 Dirty: a256d28a
+  Processing net/minecraft/world/level/levelgen/structure/structures/WoodlandMansionStructure$net/minecraft/world/level/levelgen/structure/structures/WoodlandMansionStructure(net/minecraft/world/level/levelgen/structure/structures/WoodlandMansionStructure)
+    Clean: 8aaa4b32 Dirty: ea7813c7
+  Processing net/minecraft/world/level/levelgen/structure/templatesystem/GravityProcessor$net/minecraft/world/level/levelgen/structure/templatesystem/GravityProcessor(net/minecraft/world/level/levelgen/structure/templatesystem/GravityProcessor)
+    Clean: 2b85e9ad Dirty: 563b2eec
+  Processing net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate$SimplePalette
+    Clean: 1cea6581 Dirty: e4dd6b18
+  Processing net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate$StructureEntityInfo
+    Clean: cad0054d Dirty: de1907f9
+  Processing net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate$net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate(net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate)
+    Clean: b9e014e5 Dirty: d7630b34
+  Processing net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate$1
+    Clean: 73b64f56 Dirty: 88f954eb
+  Processing net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate$Palette
+    Clean: 88c209d7 Dirty: 66ea0814
+  Processing net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate$JigsawBlockInfo
+    Clean: 9f573133 Dirty: dc1b2f2b
+  Processing net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate$StructureBlockInfo
+    Clean: ce20c781 Dirty: 9433c240
+  Processing net/minecraft/world/level/levelgen/synth/BlendedNoise$net/minecraft/world/level/levelgen/synth/BlendedNoise(net/minecraft/world/level/levelgen/synth/BlendedNoise)
+    Clean: 1c9fef8b Dirty: 13f9378d
+  Processing net/minecraft/world/level/lighting/BlockLightEngine$net/minecraft/world/level/lighting/BlockLightEngine(net/minecraft/world/level/lighting/BlockLightEngine)
+    Clean: 11a1cc17 Dirty: dcea874f
+  Processing net/minecraft/world/level/lighting/BlockLightSectionStorage$BlockDataLayerStorageMap
+    Clean: 680ad1ed Dirty: 63b7f36d
+  Processing net/minecraft/world/level/lighting/BlockLightSectionStorage$net/minecraft/world/level/lighting/BlockLightSectionStorage(net/minecraft/world/level/lighting/BlockLightSectionStorage)
+    Clean: 46391ca9 Dirty: 9b4080ed
+  Processing net/minecraft/world/level/lighting/DataLayerStorageMap$net/minecraft/world/level/lighting/DataLayerStorageMap(net/minecraft/world/level/lighting/DataLayerStorageMap)
+    Clean: b78af40 Dirty: 94773d43
+  Processing net/minecraft/world/level/lighting/DynamicGraphMinFixedPoint$net/minecraft/world/level/lighting/DynamicGraphMinFixedPoint(net/minecraft/world/level/lighting/DynamicGraphMinFixedPoint)
+    Clean: 4508941 Dirty: 1531dc16
+  Processing net/minecraft/world/level/lighting/DynamicGraphMinFixedPoint$1
+    Clean: d446f462 Dirty: c0381364
+  Processing net/minecraft/world/level/lighting/LayerLightSectionStorage$SectionType
+    Clean: d8f4af53 Dirty: 4ea6acd6
+  Processing net/minecraft/world/level/lighting/LayerLightSectionStorage$net/minecraft/world/level/lighting/LayerLightSectionStorage(net/minecraft/world/level/lighting/LayerLightSectionStorage)
+    Clean: 4cfddc30 Dirty: b4f887b5
+  Processing net/minecraft/world/level/lighting/LayerLightSectionStorage$SectionState
+    Clean: cc178875 Dirty: a8238040
+  Processing net/minecraft/world/level/lighting/LevelLightEngine$net/minecraft/world/level/lighting/LevelLightEngine(net/minecraft/world/level/lighting/LevelLightEngine)
+    Clean: e167a6b7 Dirty: 96997cd1
+  Processing net/minecraft/world/level/lighting/LeveledPriorityQueue$net/minecraft/world/level/lighting/LeveledPriorityQueue(net/minecraft/world/level/lighting/LeveledPriorityQueue)
+    Clean: 91a277d9 Dirty: 5dd61fb0
+  Processing net/minecraft/world/level/lighting/LeveledPriorityQueue$1
+    Clean: 568ae9bc Dirty: 441aeedd
+  Processing net/minecraft/world/level/lighting/LightEngine$net/minecraft/world/level/lighting/LightEngine(net/minecraft/world/level/lighting/LightEngine)
+    Clean: 41ecda7d Dirty: 64635ca4
+  Processing net/minecraft/world/level/lighting/LightEngine$QueueEntry
+    Clean: e96057f5 Dirty: e7174e1f
+  Processing net/minecraft/world/level/lighting/SkyLightEngine$net/minecraft/world/level/lighting/SkyLightEngine(net/minecraft/world/level/lighting/SkyLightEngine)
+    Clean: d713b8fd Dirty: 79b04fad
+  Processing net/minecraft/world/level/lighting/SkyLightEngine$1
+    Clean: 6d77be93 Dirty: e8f5c581
+  Processing net/minecraft/world/level/lighting/SkyLightSectionStorage$net/minecraft/world/level/lighting/SkyLightSectionStorage(net/minecraft/world/level/lighting/SkyLightSectionStorage)
+    Clean: 531978b7 Dirty: 3f6bff0b
+  Processing net/minecraft/world/level/lighting/SkyLightSectionStorage$SkyDataLayerStorageMap
+    Clean: f08b64bc Dirty: 2d3cbdb6
+  Processing net/minecraft/world/level/material/LavaFluid$net/minecraft/world/level/material/LavaFluid(net/minecraft/world/level/material/LavaFluid)
+    Clean: 8deafae1 Dirty: fee72203
+  Processing net/minecraft/world/level/material/LavaFluid$Flowing
+    Clean: 8da45a11 Dirty: fdef59e2
+  Processing net/minecraft/world/level/material/LavaFluid$Source
+    Clean: 80b8b036 Dirty: 9bacb04b
+  Processing net/minecraft/world/level/material/WaterFluid$Source
+    Clean: 4be8b10d Dirty: 60f2b131
+  Processing net/minecraft/world/level/material/WaterFluid$Flowing
+    Clean: bb7b59d1 Dirty: c4af59c0
+  Processing net/minecraft/world/level/material/WaterFluid$net/minecraft/world/level/material/WaterFluid(net/minecraft/world/level/material/WaterFluid)
+    Clean: 29bfdd4a Dirty: 2d104270
+  Processing net/minecraft/world/level/pathfinder/AmphibiousNodeEvaluator$net/minecraft/world/level/pathfinder/AmphibiousNodeEvaluator(net/minecraft/world/level/pathfinder/AmphibiousNodeEvaluator)
+    Clean: ab47b3d9 Dirty: ebd29c06
+  Processing net/minecraft/world/level/pathfinder/FlyNodeEvaluator$net/minecraft/world/level/pathfinder/FlyNodeEvaluator(net/minecraft/world/level/pathfinder/FlyNodeEvaluator)
+    Clean: 9a65bf1c Dirty: 50bf8bb9
+  Processing net/minecraft/world/level/pathfinder/Node$net/minecraft/world/level/pathfinder/Node(net/minecraft/world/level/pathfinder/Node)
+    Clean: c6c4d999 Dirty: a10858a8
+  Processing net/minecraft/world/level/pathfinder/NodeEvaluator$net/minecraft/world/level/pathfinder/NodeEvaluator(net/minecraft/world/level/pathfinder/NodeEvaluator)
+    Clean: db63063a Dirty: e09feac3
+  Processing net/minecraft/world/level/pathfinder/Path$net/minecraft/world/level/pathfinder/Path(net/minecraft/world/level/pathfinder/Path)
+    Clean: d2259d37 Dirty: fb322a63
+  Processing net/minecraft/world/level/pathfinder/Path$DebugData
+    Clean: 191310fb Dirty: b5140d45
+  Processing net/minecraft/world/level/pathfinder/PathfindingContext$net/minecraft/world/level/pathfinder/PathfindingContext(net/minecraft/world/level/pathfinder/PathfindingContext)
+    Clean: 2d509408 Dirty: 1518eff0
+  Processing net/minecraft/world/level/pathfinder/SwimNodeEvaluator$net/minecraft/world/level/pathfinder/SwimNodeEvaluator(net/minecraft/world/level/pathfinder/SwimNodeEvaluator)
+    Clean: 92272877 Dirty: 123e93cf
+  Processing net/minecraft/world/level/pathfinder/Target$net/minecraft/world/level/pathfinder/Target(net/minecraft/world/level/pathfinder/Target)
+    Clean: a5006f53 Dirty: 2146b3cf
+  Processing net/minecraft/world/level/pathfinder/WalkNodeEvaluator$net/minecraft/world/level/pathfinder/WalkNodeEvaluator(net/minecraft/world/level/pathfinder/WalkNodeEvaluator)
+    Clean: d6684d9b Dirty: 366a9f7
+  Processing net/minecraft/world/level/pathfinder/WalkNodeEvaluator$1
+    Clean: 6da1b5f Dirty: cfa621c3
+  Processing net/minecraft/world/level/portal/PortalForcer$net/minecraft/world/level/portal/PortalForcer(net/minecraft/world/level/portal/PortalForcer)
+    Clean: 24a65f7c Dirty: 24b6a1d
+  Processing net/minecraft/world/level/portal/PortalShape$net/minecraft/world/level/portal/PortalShape(net/minecraft/world/level/portal/PortalShape)
+    Clean: ea9eb655 Dirty: 4d51e67c
+  Processing net/minecraft/world/level/portal/TeleportTransition$PostTeleportTransition
+    Clean: 1da422c7 Dirty: e8f82130
+  Processing net/minecraft/world/level/portal/TeleportTransition$net/minecraft/world/level/portal/TeleportTransition(net/minecraft/world/level/portal/TeleportTransition)
+    Clean: 2242a02c Dirty: d7fcbd5a
+  Processing net/minecraft/world/level/saveddata/maps/MapItemSavedData$MapPatch
+    Clean: f6ff263d Dirty: a722ede
+  Processing net/minecraft/world/level/saveddata/maps/MapItemSavedData$MapDecorationLocation
+    Clean: fb167061 Dirty: bcae6645
+  Processing net/minecraft/world/level/saveddata/maps/MapItemSavedData$net/minecraft/world/level/saveddata/maps/MapItemSavedData(net/minecraft/world/level/saveddata/maps/MapItemSavedData)
+    Clean: bef9f00e Dirty: f2d4b2
+  Processing net/minecraft/world/level/saveddata/maps/MapItemSavedData$HoldingPlayer
+    Clean: bc1858f0 Dirty: 513f67c7
+  Processing net/minecraft/world/level/storage/loot/predicates/LocationCheck$net/minecraft/world/level/storage/loot/predicates/LocationCheck(net/minecraft/world/level/storage/loot/predicates/LocationCheck)
+    Clean: 90fcaf62 Dirty: 4c97ce0a
+  Processing net/minecraft/world/phys/AABB$net/minecraft/world/phys/AABB(net/minecraft/world/phys/AABB)
+    Clean: e4a28c30 Dirty: 668f64c8
+  Processing net/minecraft/world/phys/BlockHitResult$net/minecraft/world/phys/BlockHitResult(net/minecraft/world/phys/BlockHitResult)
+    Clean: 30057e5f Dirty: 3f4f7a34
+  Processing net/minecraft/world/phys/EntityHitResult$net/minecraft/world/phys/EntityHitResult(net/minecraft/world/phys/EntityHitResult)
+    Clean: 6b74226e Dirty: d5103e20
+  Processing net/minecraft/world/phys/HitResult$Type
+    Clean: ee0e1a65 Dirty: 23661a00
+  Processing net/minecraft/world/phys/HitResult$net/minecraft/world/phys/HitResult(net/minecraft/world/phys/HitResult)
+    Clean: 7b6b0171 Dirty: 82d38b7
+  Processing net/minecraft/world/phys/Vec3$net/minecraft/world/phys/Vec3(net/minecraft/world/phys/Vec3)
+    Clean: d48437cf Dirty: 38aee9dc
+  Processing net/minecraft/world/phys/Vec3$1
+    Clean: 16263770 Dirty: 29aa37ea
+  Processing net/minecraft/world/phys/shapes/Shapes$net/minecraft/world/phys/shapes/Shapes(net/minecraft/world/phys/shapes/Shapes)
+    Clean: e6843ed5 Dirty: 76726338
+  Processing net/minecraft/world/phys/shapes/Shapes$BigLineConsumer
+    Clean: 0 Dirty: 17287dee
+  Processing net/minecraft/world/phys/shapes/Shapes$DoubleLineConsumer
+    Clean: 11704c54 Dirty: a1004c56
+  Processing net/minecraft/world/phys/shapes/VoxelShape$net/minecraft/world/phys/shapes/VoxelShape(net/minecraft/world/phys/shapes/VoxelShape)
+    Clean: 217a25c2 Dirty: 9e8a589f
+  Processing net/minecraft/world/ticks/LevelTicks$net/minecraft/world/ticks/LevelTicks(net/minecraft/world/ticks/LevelTicks)
+    Clean: f8a28ad Dirty: fcde3b87
+  Processing net/minecraft/world/ticks/LevelTicks$PosAndContainerConsumer
+    Clean: f62d9ad0 Dirty: 619bb5dd
+  Processing net/minecraft/world/ticks/SavedTick$1
+    Clean: 3c4fc2ce Dirty: 32fbe01
+  Processing net/minecraft/world/ticks/SavedTick$net/minecraft/world/ticks/SavedTick(net/minecraft/world/ticks/SavedTick)
+    Clean: 48744179 Dirty: a45ee0e0
+LZMA: 6256260 -> 2168166
